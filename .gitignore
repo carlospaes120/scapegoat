@@ -33,7 +33,7 @@ Thumbs.db
 *.pkl
 
 # ---- Output data ----
-*.jsonl
+#*.jsonl
 *.csv
 *.tsv
 *.xlsx
