@@ -1,0 +1,83 @@
+# ---- Python artifacts ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ---- Virtual environments ----
+.venv/
+env/
+venv/
+ENV/
+
+# ---- Jupyter or IPython ----
+.ipynb_checkpoints/
+
+# ---- VSCode / PyCharm / IDE configs ----
+.vscode/
+.idea/
+
+# ---- OS-specific ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs and dumps ----
+*.log
+*.tmp
+*.bak
+
+# ---- Cache or intermediate data ----
+.cache/
+*.pickle
+*.pkl
+
+# ---- Output data ----
+*.jsonl
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.feather
+*.arrow
+
+# ---- Raw data or scrap results ----
+/data/raw/
+/data/interim/
+
+# ---- Models and large binaries ----
+models/
+*.h5
+*.pt
+*.ckpt
+*.onnx
+
+# ---- Python test reports ----
+htmlcov/
+.coverage
+.tox/
+.nox/
+pytest_cache/
+.cache/
+
+# ---- Notebooks checkpoints or exports ----
+*.ipynb
+*.nbconvert.ipynb
+*.pdf
+*.html
+
+# ---- Git ----
+*.orig
+*.rej
+*.patch
+
+# ---- OneDrive or sync services ----
+*.lnk
+~$*
+~*.tmp
+*.sync*
+
+# ---- Local scripts or secrets (if any) ----
+secrets.json
+.env
+.env.*

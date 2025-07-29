@@ -1,0 +1,2925 @@
+{
+  "metadata": {
+    "query": "Wagner Schwartz lang:pt since:2017-01-01 until:2017-12-31",
+    "timestamp": "2025-07-25T12:20:28.902993",
+    "response_url": "https://x.com/i/api/graphql/Ax7CF-QwwexcwNqLvOY8bg/SearchTimeline?variables=%7B%22rawQuery%22%3A%22Wagner%20Schwartz%20lang%3Apt%20since%3A2017-01-01%20until%3A2017-12-31%22%2C%22count%22%3A20%2C%22cursor%22%3A%22DAADDAABCgABDRb3l1kX4AEKAAIMshWSEpawAAAIAAIAAAACCAADAAAAAAgABAAAAAQKAAUbC2eSdQAnEAoABhsLZ5J0_zywAAA%22%2C%22querySource%22%3A%22typed_query%22%2C%22product%22%3A%22Latest%22%7D&features=%7B%22rweb_video_screen_enabled%22%3Afalse%2C%22payments_enabled%22%3Afalse%2C%22profile_label_improvements_pcf_label_in_post_enabled%22%3Atrue%2C%22rweb_tipjar_consumption_enabled%22%3Afalse%2C%22verified_phone_label_enabled%22%3Afalse%2C%22creator_subscriptions_tweet_preview_api_enabled%22%3Atrue%2C%22responsive_web_graphql_timeline_navigation_enabled%22%3Atrue%2C%22responsive_web_graphql_skip_user_profile_image_extensions_enabled%22%3Afalse%2C%22premium_content_api_read_enabled%22%3Afalse%2C%22communities_web_enable_tweet_community_results_fetch%22%3Atrue%2C%22c9s_tweet_anatomy_moderator_badge_enabled%22%3Atrue%2C%22responsive_web_grok_analyze_button_fetch_trends_enabled%22%3Afalse%2C%22responsive_web_grok_analyze_post_followups_enabled%22%3Atrue%2C%22responsive_web_jetfuel_frame%22%3Atrue%2C%22responsive_web_grok_share_attachment_enabled%22%3Atrue%2C%22articles_preview_enabled%22%3Atrue%2C%22responsive_web_edit_tweet_api_enabled%22%3Atrue%2C%22graphql_is_translatable_rweb_tweet_is_translatable_enabled%22%3Atrue%2C%22view_counts_everywhere_api_enabled%22%3Atrue%2C%22longform_notetweets_consumption_enabled%22%3Atrue%2C%22responsive_web_twitter_article_tweet_consumption_enabled%22%3Atrue%2C%22tweet_awards_web_tipping_enabled%22%3Afalse%2C%22responsive_web_grok_show_grok_translated_post%22%3Afalse%2C%22responsive_web_grok_analysis_button_from_backend%22%3Atrue%2C%22creator_subscriptions_quote_tweet_preview_enabled%22%3Afalse%2C%22freedom_of_speech_not_reach_fetch_enabled%22%3Atrue%2C%22standardized_nudges_misinfo%22%3Atrue%2C%22tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled%22%3Atrue%2C%22longform_notetweets_rich_text_read_enabled%22%3Atrue%2C%22longform_notetweets_inline_media_enabled%22%3Atrue%2C%22responsive_web_grok_image_annotation_enabled%22%3Atrue%2C%22responsive_web_grok_community_note_auto_translation_is_enabled%22%3Afalse%2C%22responsive_web_enhance_cards_enabled%22%3Afalse%7D",
+    "item_count": null
+  },
+  "data": {
+    "data": {
+      "search_by_raw_query": {
+        "search_timeline": {
+          "timeline": {
+            "instructions": [
+              {
+                "type": "TimelineAddEntries",
+                "entries": [
+                  {
+                    "entryId": "tweet-914786807169949697",
+                    "sortIndex": "1948765142493641904",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914786807169949697",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjozOTE5Njk0MjU5",
+                                  "rest_id": "3919694259",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/1244934653393371143/cnOm7df7_normal.jpg"
+                                  },
+                                  "core": {
+                                    "created_at": "Sat Oct 10 16:14:18 +0000 2015",
+                                    "name": "Móveis Rústico Frontin",
+                                    "screen_name": "RusticoMoveis"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": false
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "portaldenoticiasfrontin.blogspot.com",
+                                            "expanded_url": "https://portaldenoticiasfrontin.blogspot.com/",
+                                            "url": "https://t.co/5FElp2MMll",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 6,
+                                    "followers_count": 14,
+                                    "friends_count": 108,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 1,
+                                    "media_count": 1456,
+                                    "normal_followers_count": 14,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 5737,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/5FElp2MMll",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": "Paulo Frontin, Brasil"
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914786807169949697"
+                              ],
+                              "editable_until_msecs": "1506938945403",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": true,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Oct 02 09:39:05 +0000 2017",
+                              "conversation_id_str": "914786807169949697",
+                              "display_text_range": [
+                                0,
+                                130
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "media": [
+                                  {
+                                    "display_url": "pic.x.com/vexqZ6WYh8",
+                                    "expanded_url": "https://x.com/RadioNewFrontin/status/914786807169949697/photo/1",
+                                    "id_str": "914786803726422022",
+                                    "indices": [
+                                      131,
+                                      154
+                                    ],
+                                    "media_key": "3_914786803726422022",
+                                    "media_url_https": "https://pbs.twimg.com/media/DLH5wFFUEAYpqLw.jpg",
+                                    "type": "photo",
+                                    "url": "https://t.co/vexqZ6WYh8",
+                                    "ext_media_availability": {
+                                      "status": "Available"
+                                    },
+                                    "features": {
+                                      "large": {
+                                        "faces": [
+                                          {
+                                            "x": 430,
+                                            "y": 10,
+                                            "h": 91,
+                                            "w": 91
+                                          }
+                                        ]
+                                      },
+                                      "medium": {
+                                        "faces": [
+                                          {
+                                            "x": 430,
+                                            "y": 10,
+                                            "h": 91,
+                                            "w": 91
+                                          }
+                                        ]
+                                      },
+                                      "small": {
+                                        "faces": [
+                                          {
+                                            "x": 430,
+                                            "y": 10,
+                                            "h": 91,
+                                            "w": 91
+                                          }
+                                        ]
+                                      },
+                                      "orig": {
+                                        "faces": [
+                                          {
+                                            "x": 430,
+                                            "y": 10,
+                                            "h": 91,
+                                            "w": 91
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "sizes": {
+                                      "large": {
+                                        "h": 300,
+                                        "w": 600,
+                                        "resize": "fit"
+                                      },
+                                      "medium": {
+                                        "h": 300,
+                                        "w": 600,
+                                        "resize": "fit"
+                                      },
+                                      "small": {
+                                        "h": 300,
+                                        "w": 600,
+                                        "resize": "fit"
+                                      },
+                                      "thumb": {
+                                        "h": 150,
+                                        "w": 150,
+                                        "resize": "crop"
+                                      }
+                                    },
+                                    "original_info": {
+                                      "height": 300,
+                                      "width": 600,
+                                      "focus_rects": []
+                                    },
+                                    "media_results": {
+                                      "result": {
+                                        "media_key": "3_914786803726422022"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "dlvr.it/PrqLq0",
+                                    "expanded_url": "http://dlvr.it/PrqLq0",
+                                    "url": "https://t.co/wnHUweJHfv",
+                                    "indices": [
+                                      107,
+                                      130
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": []
+                              },
+                              "extended_entities": {
+                                "media": [
+                                  {
+                                    "display_url": "pic.x.com/vexqZ6WYh8",
+                                    "expanded_url": "https://x.com/RadioNewFrontin/status/914786807169949697/photo/1",
+                                    "id_str": "914786803726422022",
+                                    "indices": [
+                                      131,
+                                      154
+                                    ],
+                                    "media_key": "3_914786803726422022",
+                                    "media_url_https": "https://pbs.twimg.com/media/DLH5wFFUEAYpqLw.jpg",
+                                    "type": "photo",
+                                    "url": "https://t.co/vexqZ6WYh8",
+                                    "ext_media_availability": {
+                                      "status": "Available"
+                                    },
+                                    "features": {
+                                      "large": {
+                                        "faces": [
+                                          {
+                                            "x": 430,
+                                            "y": 10,
+                                            "h": 91,
+                                            "w": 91
+                                          }
+                                        ]
+                                      },
+                                      "medium": {
+                                        "faces": [
+                                          {
+                                            "x": 430,
+                                            "y": 10,
+                                            "h": 91,
+                                            "w": 91
+                                          }
+                                        ]
+                                      },
+                                      "small": {
+                                        "faces": [
+                                          {
+                                            "x": 430,
+                                            "y": 10,
+                                            "h": 91,
+                                            "w": 91
+                                          }
+                                        ]
+                                      },
+                                      "orig": {
+                                        "faces": [
+                                          {
+                                            "x": 430,
+                                            "y": 10,
+                                            "h": 91,
+                                            "w": 91
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "sizes": {
+                                      "large": {
+                                        "h": 300,
+                                        "w": 600,
+                                        "resize": "fit"
+                                      },
+                                      "medium": {
+                                        "h": 300,
+                                        "w": 600,
+                                        "resize": "fit"
+                                      },
+                                      "small": {
+                                        "h": 300,
+                                        "w": 600,
+                                        "resize": "fit"
+                                      },
+                                      "thumb": {
+                                        "h": 150,
+                                        "w": 150,
+                                        "resize": "crop"
+                                      }
+                                    },
+                                    "original_info": {
+                                      "height": 300,
+                                      "width": 600,
+                                      "focus_rects": []
+                                    },
+                                    "media_results": {
+                                      "result": {
+                                        "media_key": "3_914786803726422022"
+                                      }
+                                    }
+                                  }
+                                ]
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "Coreógrafo Wagner Schwartz do (La Bête) é morto a pauladas quando chegava em casa na zona sul de São Paulo https://t.co/wnHUweJHfv https://t.co/vexqZ6WYh8",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "3919694259",
+                              "id_str": "914786807169949697"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet",
+                        "highlights": {
+                          "textHighlights": [
+                            {
+                              "startIndex": 11,
+                              "endIndex": 17
+                            },
+                            {
+                              "startIndex": 18,
+                              "endIndex": 26
+                            }
+                          ]
+                        }
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914776633147625473",
+                    "sortIndex": "1948765142493641903",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914776633147625473",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjozMjg1MzI4Ng==",
+                                  "rest_id": "32853286",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/867095788593311746/nM62gA-X_normal.jpg"
+                                  },
+                                  "core": {
+                                    "created_at": "Sat Apr 18 11:02:14 +0000 2009",
+                                    "name": "Paulo César Santos",
+                                    "screen_name": "Prof_PauloCesar"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": false
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "Professor de Teologia e História, apaixonado por Filosofia, Ciência Sociais e Direito. Palestrante, jornalista filiado a ASI e escritor sergipano.",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "ambitododireito.blogspot.com",
+                                            "expanded_url": "http://ambitododireito.blogspot.com",
+                                            "url": "http://t.co/nZnM4Nte6v",
+                                            "indices": [
+                                              0,
+                                              22
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 2276,
+                                    "followers_count": 935,
+                                    "friends_count": 1928,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 20,
+                                    "media_count": 786,
+                                    "normal_followers_count": 935,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/32853286/1495566670",
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 12142,
+                                    "translator_type": "none",
+                                    "url": "http://t.co/nZnM4Nte6v",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": "Brasil, Estância, Sergipe"
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914776633147625473"
+                              ],
+                              "editable_until_msecs": "1506936519727",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Oct 02 08:58:39 +0000 2017",
+                              "conversation_id_str": "914776633147625473",
+                              "display_text_range": [
+                                0,
+                                81
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "veja.abril.com.br/blog/me-engana…",
+                                    "expanded_url": "http://veja.abril.com.br/blog/me-engana-que-eu-posto/artista-wagner-schwartz-nao-foi-morto-a-pauladas-em-sao-paulo/#",
+                                    "url": "https://t.co/kZs0pJKqMU",
+                                    "indices": [
+                                      58,
+                                      81
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": []
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "Notícia falsa é plantada contra o artista Wagner Schwartz https://t.co/kZs0pJKqMU",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "32853286",
+                              "id_str": "914776633147625473"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet",
+                        "highlights": {
+                          "textHighlights": [
+                            {
+                              "startIndex": 42,
+                              "endIndex": 48
+                            },
+                            {
+                              "startIndex": 49,
+                              "endIndex": 57
+                            }
+                          ]
+                        }
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914713355243409408",
+                    "sortIndex": "1948765142493641902",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914713355243409408",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxMDk5MjI0OTk2",
+                                  "rest_id": "1099224996",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/867495634860994560/9K_MHkxx_normal.jpg"
+                                  },
+                                  "core": {
+                                    "created_at": "Thu Jan 17 20:46:11 +0000 2013",
+                                    "name": "Sthephany Kiwamen",
+                                    "screen_name": "SKiwamen"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": false
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 50,
+                                    "followers_count": 7,
+                                    "friends_count": 108,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 0,
+                                    "media_count": 16,
+                                    "normal_followers_count": 7,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099224996/1495661776",
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 7667,
+                                    "translator_type": "none",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": "Iwata, Japão"
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914713355243409408"
+                              ],
+                              "editable_until_msecs": "1506921433099",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": true,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Oct 02 04:47:13 +0000 2017",
+                              "conversation_id_str": "914713355243409408",
+                              "display_text_range": [
+                                0,
+                                139
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "fb.me/9rKzXmuPt",
+                                    "expanded_url": "http://fb.me/9rKzXmuPt",
+                                    "url": "https://t.co/Yht5oNn5ay",
+                                    "indices": [
+                                      116,
+                                      139
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": []
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "Coreógrafo Wagner Schwartz do (La Bête) é morto a pauladas quando chegava em casa na zona sul de São Paulo - BEM... https://t.co/Yht5oNn5ay",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "1099224996",
+                              "id_str": "914713355243409408"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet",
+                        "highlights": {
+                          "textHighlights": [
+                            {
+                              "startIndex": 11,
+                              "endIndex": 17
+                            },
+                            {
+                              "startIndex": 18,
+                              "endIndex": 26
+                            }
+                          ]
+                        }
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914711867637075968",
+                    "sortIndex": "1948765142493641901",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914711867637075968",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxNDQ0OTkwNDQ2",
+                                  "rest_id": "1444990446",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/3687767919/db2ab91df8995233b9cbaddd2736a664_normal.jpeg"
+                                  },
+                                  "core": {
+                                    "created_at": "Mon May 20 23:28:54 +0000 2013",
+                                    "name": "Leticia Mota",
+                                    "screen_name": "LeticiaMota07"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": false
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 3,
+                                    "followers_count": 3,
+                                    "friends_count": 42,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 0,
+                                    "media_count": 2,
+                                    "normal_followers_count": 3,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 1162,
+                                    "translator_type": "none",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": ""
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914711867637075968"
+                              ],
+                              "editable_until_msecs": "1506921078426",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": true,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Oct 02 04:41:18 +0000 2017",
+                              "conversation_id_str": "914711867637075968",
+                              "display_text_range": [
+                                0,
+                                136
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "fb.me/xXZqKVvK",
+                                    "expanded_url": "http://fb.me/xXZqKVvK",
+                                    "url": "https://t.co/CBRICSq1IJ",
+                                    "indices": [
+                                      113,
+                                      136
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": []
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "Coreógrafo Wagner Schwartz do (La Bête) é morto a pauladas quando chegava em casa na zona sul de São Paulo...... https://t.co/CBRICSq1IJ",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "1444990446",
+                              "id_str": "914711867637075968"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet",
+                        "highlights": {
+                          "textHighlights": [
+                            {
+                              "startIndex": 11,
+                              "endIndex": 17
+                            },
+                            {
+                              "startIndex": 18,
+                              "endIndex": 26
+                            }
+                          ]
+                        }
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914687731757875200",
+                    "sortIndex": "1948765142493641900",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914687731757875200",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjo3MjU4NTE1OQ==",
+                                  "rest_id": "72585159",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/1099857680116649985/48pzllh2_normal.jpg"
+                                  },
+                                  "core": {
+                                    "created_at": "Tue Sep 08 15:50:08 +0000 2009",
+                                    "name": "Danilo 🙈",
+                                    "screen_name": "danilodjw"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": false
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "*só entro pra dar rt*\n\nInstagram: @danilofrodriigues",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "facebook.com/danilo.rodrigu…",
+                                            "expanded_url": "http://facebook.com/danilo.rodrigues.56884",
+                                            "url": "https://t.co/AWyzEZXedX",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 19412,
+                                    "followers_count": 228,
+                                    "friends_count": 345,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 1,
+                                    "media_count": 28,
+                                    "normal_followers_count": 228,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/72585159/1656721516",
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 6611,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/AWyzEZXedX",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": "Brasil"
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914687731757875200"
+                              ],
+                              "editable_until_msecs": "1506915323984",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": true,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Oct 02 03:05:23 +0000 2017",
+                              "conversation_id_str": "914687731757875200",
+                              "display_text_range": [
+                                0,
+                                57
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "fb.me/zOzbYXDx",
+                                    "expanded_url": "http://fb.me/zOzbYXDx",
+                                    "url": "https://t.co/eAn014z4Ez",
+                                    "indices": [
+                                      34,
+                                      57
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": []
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "Olha só o que a ignorância causa! https://t.co/eAn014z4Ez",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "72585159",
+                              "id_str": "914687731757875200"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914679429829361665",
+                    "sortIndex": "1948765142493641899",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914679429829361665",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxMTI1MTM4NzQ=",
+                                  "rest_id": "112513874",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/1519865726248624128/vkF-irJG_normal.jpg"
+                                  },
+                                  "core": {
+                                    "created_at": "Mon Feb 08 19:40:25 +0000 2010",
+                                    "name": "NickeKoja",
+                                    "screen_name": "NICKEKOJA"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": false
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "nickekoja.com",
+                                            "expanded_url": "http://www.nickekoja.com",
+                                            "url": "https://t.co/507AKl1M81",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 2,
+                                    "followers_count": 61,
+                                    "friends_count": 192,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 1,
+                                    "media_count": 230,
+                                    "normal_followers_count": 61,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/112513874/1651199203",
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 3574,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/507AKl1M81",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": ""
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914679429829361665"
+                              ],
+                              "editable_until_msecs": "1506913344650",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Oct 02 02:32:24 +0000 2017",
+                              "conversation_id_str": "914679429829361665",
+                              "display_text_range": [
+                                0,
+                                71
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "fb.me/2pwTq9McO",
+                                    "expanded_url": "http://fb.me/2pwTq9McO",
+                                    "url": "https://t.co/kW0ksn9ekp",
+                                    "indices": [
+                                      48,
+                                      71
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": []
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "Quando que se justifica o erro com a estupidez. https://t.co/kW0ksn9ekp",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "112513874",
+                              "id_str": "914679429829361665"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914677576030879744",
+                    "sortIndex": "1948765142493641898",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914677576030879744",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxOTU5MzQ0OA==",
+                                  "rest_id": "19593448",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/1826004192525246464/KjcCcJLx_normal.jpg"
+                                  },
+                                  "core": {
+                                    "created_at": "Tue Jan 27 14:18:34 +0000 2009",
+                                    "name": "nica chaves",
+                                    "screen_name": "nicachaves"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": false
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "Amazonense\nAC cam/Vídeo assiste/Fotógrafa/Artista Visual \nCuritiba - Brasil\nGasto meu dinheiro todo em comida\ninstagram @nicachavess @nicachavesproduca",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 20727,
+                                    "followers_count": 234,
+                                    "friends_count": 720,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 6,
+                                    "media_count": 142,
+                                    "normal_followers_count": 234,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/19593448/1701441811",
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 8447,
+                                    "translator_type": "none",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": "Curitiba "
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914677576030879744"
+                              ],
+                              "editable_until_msecs": "1506912902670",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": true,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Oct 02 02:25:02 +0000 2017",
+                              "conversation_id_str": "914677576030879744",
+                              "display_text_range": [
+                                0,
+                                68
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "noticiasodia.com/2017/05/coreog…",
+                                    "expanded_url": "http://www.noticiasodia.com/2017/05/coreografo-wagner-schwartz-do-la-bete-e.html?m=1",
+                                    "url": "https://t.co/g5YQqwMUNR",
+                                    "indices": [
+                                      45,
+                                      68
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": []
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "gente alguém me diz que isso é fake porfavor https://t.co/g5YQqwMUNR",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "19593448",
+                              "id_str": "914677576030879744"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914672493432057856",
+                    "sortIndex": "1948765142493641897",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914672493432057856",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjo3OTM2NDM3Mzc=",
+                                  "rest_id": "793643737",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/1554840847979614208/VFubPe_O_normal.jpg"
+                                  },
+                                  "core": {
+                                    "created_at": "Fri Aug 31 11:16:25 +0000 2012",
+                                    "name": "Dorothy ✈️ 😎 🇧🇷",
+                                    "screen_name": "Anholeto"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": true
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "Fui comissária de voo da VASP.  Não idolatro políticos, eu cobro.",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 119956,
+                                    "followers_count": 20436,
+                                    "friends_count": 22468,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 62,
+                                    "media_count": 11551,
+                                    "normal_followers_count": 20436,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/793643737/1458158080",
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 384815,
+                                    "translator_type": "regular",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": "Brasil"
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914672493432057856"
+                              ],
+                              "editable_until_msecs": "1506911690884",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Oct 02 02:04:50 +0000 2017",
+                              "conversation_id_str": "914670164632842241",
+                              "display_text_range": [
+                                22,
+                                111
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "youtube.com/watch?v=CwI4iU…",
+                                    "expanded_url": "https://www.youtube.com/watch?v=CwI4iUnly_E",
+                                    "url": "https://t.co/VV9QKX3G3x",
+                                    "indices": [
+                                      86,
+                                      109
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "16880800",
+                                    "name": "Marcus Vinicius",
+                                    "screen_name": "mvsmotta",
+                                    "indices": [
+                                      0,
+                                      9
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 1,
+                              "favorited": false,
+                              "full_text": "@mvsmotta @MAMoficial Isso é arte?  GOETHE INSTITUT SALVADOR BAHIA Wagner Schwartz , \nhttps://t.co/VV9QKX3G3x …",
+                              "in_reply_to_screen_name": "mvsmotta",
+                              "in_reply_to_status_id_str": "914670164632842241",
+                              "in_reply_to_user_id_str": "16880800",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 1,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "793643737",
+                              "id_str": "914672493432057856"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet",
+                        "highlights": {
+                          "textHighlights": [
+                            {
+                              "startIndex": 67,
+                              "endIndex": 73
+                            },
+                            {
+                              "startIndex": 74,
+                              "endIndex": 82
+                            }
+                          ]
+                        }
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914667979220058112",
+                    "sortIndex": "1948765142493641896",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914667979220058112",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjozMDE2ODAxMDk=",
+                                  "rest_id": "301680109",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/3686957578/428c59cc8e276157f071ff51a642898c_normal.jpeg"
+                                  },
+                                  "core": {
+                                    "created_at": "Thu May 19 21:35:47 +0000 2011",
+                                    "name": "Ismael som gospel",
+                                    "screen_name": "Ismaelsomgospel"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": false
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 3,
+                                    "followers_count": 13,
+                                    "friends_count": 14,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 0,
+                                    "media_count": 264,
+                                    "normal_followers_count": 13,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/301680109/1369079114",
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 13425,
+                                    "translator_type": "none",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": "Baturité-CE"
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914667979220058112"
+                              ],
+                              "editable_until_msecs": "1506910614612",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Oct 02 01:46:54 +0000 2017",
+                              "conversation_id_str": "914667979220058112",
+                              "display_text_range": [
+                                0,
+                                104
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "fb.me/C9esVOtF",
+                                    "expanded_url": "http://fb.me/C9esVOtF",
+                                    "url": "https://t.co/TVphVERAML",
+                                    "indices": [
+                                      81,
+                                      104
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": []
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "Wagner Schwartz causa revolta em rede social por suposta pedofilia em espetáculo https://t.co/TVphVERAML",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "301680109",
+                              "id_str": "914667979220058112"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet",
+                        "highlights": {
+                          "textHighlights": [
+                            {
+                              "startIndex": 0,
+                              "endIndex": 6
+                            },
+                            {
+                              "startIndex": 7,
+                              "endIndex": 15
+                            }
+                          ]
+                        }
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914665352285622278",
+                    "sortIndex": "1948765142493641895",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914665352285622278",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjo3MTQyMDU0MDI3NDYwMDM0NTc=",
+                                  "rest_id": "714205402746003457",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/1900501424015876096/GLIR5Dzp_normal.jpg"
+                                  },
+                                  "core": {
+                                    "created_at": "Sun Mar 27 21:40:12 +0000 2016",
+                                    "name": "🍋 Limone 🍋",
+                                    "screen_name": "crovislimone2"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": true
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "Limão mais gostoso do Twitter há 12 anos. Amo animais, detesto fanatismo de qualquer tipo, não tenho rabo preso com ninguém",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 42201,
+                                    "followers_count": 880,
+                                    "friends_count": 1189,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 4,
+                                    "media_count": 3593,
+                                    "normal_followers_count": 880,
+                                    "pinned_tweet_ids_str": [
+                                      "1700120472434692494"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/714205402746003457/1497748767",
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 54882,
+                                    "translator_type": "none",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": "São Paulo, Brasil"
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": false
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914665352285622278"
+                              ],
+                              "editable_until_msecs": "1506909988302",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": true,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Oct 02 01:36:28 +0000 2017",
+                              "conversation_id_str": "914665352285622278",
+                              "display_text_range": [
+                                0,
+                                128
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "media": [
+                                  {
+                                    "display_url": "pic.x.com/XIqUBmxd9C",
+                                    "expanded_url": "https://x.com/crovislimone2/status/914665352285622278/photo/1",
+                                    "id_str": "914665171225841664",
+                                    "indices": [
+                                      129,
+                                      152
+                                    ],
+                                    "media_key": "3_914665171225841664",
+                                    "media_url_https": "https://pbs.twimg.com/media/DLGLIItWkAAwP9k.jpg",
+                                    "type": "photo",
+                                    "url": "https://t.co/XIqUBmxd9C",
+                                    "ext_media_availability": {
+                                      "status": "Available"
+                                    },
+                                    "features": {
+                                      "large": {
+                                        "faces": [
+                                          {
+                                            "x": 121,
+                                            "y": 49,
+                                            "h": 92,
+                                            "w": 92
+                                          }
+                                        ]
+                                      },
+                                      "medium": {
+                                        "faces": [
+                                          {
+                                            "x": 121,
+                                            "y": 49,
+                                            "h": 92,
+                                            "w": 92
+                                          }
+                                        ]
+                                      },
+                                      "small": {
+                                        "faces": [
+                                          {
+                                            "x": 121,
+                                            "y": 49,
+                                            "h": 92,
+                                            "w": 92
+                                          }
+                                        ]
+                                      },
+                                      "orig": {
+                                        "faces": [
+                                          {
+                                            "x": 121,
+                                            "y": 49,
+                                            "h": 92,
+                                            "w": 92
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "sizes": {
+                                      "large": {
+                                        "h": 312,
+                                        "w": 344,
+                                        "resize": "fit"
+                                      },
+                                      "medium": {
+                                        "h": 312,
+                                        "w": 344,
+                                        "resize": "fit"
+                                      },
+                                      "small": {
+                                        "h": 312,
+                                        "w": 344,
+                                        "resize": "fit"
+                                      },
+                                      "thumb": {
+                                        "h": 150,
+                                        "w": 150,
+                                        "resize": "crop"
+                                      }
+                                    },
+                                    "original_info": {
+                                      "height": 312,
+                                      "width": 344,
+                                      "focus_rects": []
+                                    },
+                                    "media_results": {
+                                      "result": {
+                                        "media_key": "3_914665171225841664"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": []
+                              },
+                              "extended_entities": {
+                                "media": [
+                                  {
+                                    "display_url": "pic.x.com/XIqUBmxd9C",
+                                    "expanded_url": "https://x.com/crovislimone2/status/914665352285622278/photo/1",
+                                    "id_str": "914665171225841664",
+                                    "indices": [
+                                      129,
+                                      152
+                                    ],
+                                    "media_key": "3_914665171225841664",
+                                    "media_url_https": "https://pbs.twimg.com/media/DLGLIItWkAAwP9k.jpg",
+                                    "type": "photo",
+                                    "url": "https://t.co/XIqUBmxd9C",
+                                    "ext_media_availability": {
+                                      "status": "Available"
+                                    },
+                                    "features": {
+                                      "large": {
+                                        "faces": [
+                                          {
+                                            "x": 121,
+                                            "y": 49,
+                                            "h": 92,
+                                            "w": 92
+                                          }
+                                        ]
+                                      },
+                                      "medium": {
+                                        "faces": [
+                                          {
+                                            "x": 121,
+                                            "y": 49,
+                                            "h": 92,
+                                            "w": 92
+                                          }
+                                        ]
+                                      },
+                                      "small": {
+                                        "faces": [
+                                          {
+                                            "x": 121,
+                                            "y": 49,
+                                            "h": 92,
+                                            "w": 92
+                                          }
+                                        ]
+                                      },
+                                      "orig": {
+                                        "faces": [
+                                          {
+                                            "x": 121,
+                                            "y": 49,
+                                            "h": 92,
+                                            "w": 92
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "sizes": {
+                                      "large": {
+                                        "h": 312,
+                                        "w": 344,
+                                        "resize": "fit"
+                                      },
+                                      "medium": {
+                                        "h": 312,
+                                        "w": 344,
+                                        "resize": "fit"
+                                      },
+                                      "small": {
+                                        "h": 312,
+                                        "w": 344,
+                                        "resize": "fit"
+                                      },
+                                      "thumb": {
+                                        "h": 150,
+                                        "w": 150,
+                                        "resize": "crop"
+                                      }
+                                    },
+                                    "original_info": {
+                                      "height": 312,
+                                      "width": 344,
+                                      "focus_rects": []
+                                    },
+                                    "media_results": {
+                                      "result": {
+                                        "media_key": "3_914665171225841664"
+                                      }
+                                    }
+                                  }
+                                ]
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "Esse é o sujeito que se diz artista e fica nú sendo tocado por crianças de até 4 anos.\nO nome do protozoário é Wagner Schwartz.. https://t.co/XIqUBmxd9C",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 1,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "714205402746003457",
+                              "id_str": "914665352285622278"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet",
+                        "highlights": {
+                          "textHighlights": [
+                            {
+                              "startIndex": 111,
+                              "endIndex": 117
+                            },
+                            {
+                              "startIndex": 118,
+                              "endIndex": 126
+                            }
+                          ]
+                        }
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914639270039736321",
+                    "sortIndex": "1948765142493641894",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914639270039736321",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxNTU0ODgzNDEy",
+                                  "rest_id": "1554883412",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/559718975026655232/5XUihrb6_normal.png"
+                                  },
+                                  "core": {
+                                    "created_at": "Sat Jun 29 05:53:04 +0000 2013",
+                                    "name": "Boatos.org",
+                                    "screen_name": "Boatosorg"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": false
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "Não acredite em tudo que você lê na internet. Siga-nos e fique informado: https://t.co/P7dJqv7ZFA",
+                                    "entities": {
+                                      "description": {
+                                        "urls": [
+                                          {
+                                            "display_url": "boatos.org",
+                                            "expanded_url": "http://boatos.org",
+                                            "url": "https://t.co/P7dJqv7ZFA",
+                                            "indices": [
+                                              74,
+                                              97
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "boatos.org",
+                                            "expanded_url": "http://boatos.org",
+                                            "url": "https://t.co/P7dJqv7ZFA",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 383,
+                                    "followers_count": 42320,
+                                    "friends_count": 392,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 331,
+                                    "media_count": 2806,
+                                    "normal_followers_count": 42320,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554883412/1422282361",
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 15176,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/P7dJqv7ZFA",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": "Brasil"
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914639270039736321"
+                              ],
+                              "editable_until_msecs": "1506903769810",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": true,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sun Oct 01 23:52:49 +0000 2017",
+                              "conversation_id_str": "914639270039736321",
+                              "display_text_range": [
+                                0,
+                                124
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "boatos.org/brasil/wagner-…",
+                                    "expanded_url": "http://www.boatos.org/brasil/wagner-schwartz-morto-pauladas.html",
+                                    "url": "https://t.co/Z87jyRIFqy",
+                                    "indices": [
+                                      101,
+                                      124
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": []
+                              },
+                              "favorite_count": 3,
+                              "favorited": false,
+                              "full_text": "Os mais antenados já sabem que é boato. Mas não custa colocar o nosso veredicto aqui. Entenda o caso https://t.co/Z87jyRIFqy",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 2,
+                              "retweeted": false,
+                              "user_id_str": "1554883412",
+                              "id_str": "914639270039736321"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914636108306272258",
+                    "sortIndex": "1948765142493641893",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914636108306272258",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjozNzYzODY4MzM=",
+                                  "rest_id": "376386833",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/1716439394842804225/jI2vY2io_normal.jpg"
+                                  },
+                                  "core": {
+                                    "created_at": "Mon Sep 19 20:02:58 +0000 2011",
+                                    "name": "Anemê",
+                                    "screen_name": "TiaBiba49"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": false
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "eu digo tanta coisa... mas creia, nada é para ter sentido, mas ser sentido.\nBrasil feliz para todos.\n\n74 anos neste mundo 🙏",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 32779,
+                                    "followers_count": 1761,
+                                    "friends_count": 764,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 0,
+                                    "media_count": 16757,
+                                    "normal_followers_count": 1761,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/376386833/1679021481",
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 92815,
+                                    "translator_type": "none",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": "Brasil"
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": false
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914636108306272258"
+                              ],
+                              "editable_until_msecs": "1506903015994",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": true,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sun Oct 01 23:40:15 +0000 2017",
+                              "conversation_id_str": "914636108306272258",
+                              "display_text_range": [
+                                0,
+                                140
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": []
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "a polícia tem condições de identificar qm espalhou notícia sobre coreógrafo Wagner Schwartz.Se confirmada ser falsa,é incitação à violência.",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "place": {
+                                "bounding_box": {
+                                  "coordinates": [
+                                    [
+                                      [
+                                        -51.3061478,
+                                        -30.2688069
+                                      ],
+                                      [
+                                        -51.3061478,
+                                        -29.9308654
+                                      ],
+                                      [
+                                        -51.012471,
+                                        -29.9308654
+                                      ],
+                                      [
+                                        -51.012471,
+                                        -30.2688069
+                                      ],
+                                      [
+                                        -51.3061478,
+                                        -30.2688069
+                                      ]
+                                    ]
+                                  ],
+                                  "type": "Polygon"
+                                },
+                                "country": "Brazil",
+                                "country_code": "BR",
+                                "full_name": "Porto Alegre, Brazil",
+                                "name": "Porto Alegre",
+                                "id": "894146230dd1d42d",
+                                "place_type": "city",
+                                "url": "https://api.twitter.com/1.1/geo/id/894146230dd1d42d.json"
+                              },
+                              "quote_count": 0,
+                              "reply_count": 1,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "376386833",
+                              "id_str": "914636108306272258"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet",
+                        "highlights": {
+                          "textHighlights": [
+                            {
+                              "startIndex": 76,
+                              "endIndex": 82
+                            },
+                            {
+                              "startIndex": 83,
+                              "endIndex": 91
+                            }
+                          ]
+                        }
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914635376643514369",
+                    "sortIndex": "1948765142493641892",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914635376643514369",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjo1MDkxMTkwNjA=",
+                                  "rest_id": "509119060",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/1592810175638929411/IsXXSjw8_normal.jpg"
+                                  },
+                                  "core": {
+                                    "created_at": "Wed Feb 29 19:05:11 +0000 2012",
+                                    "name": "Kelne Silva",
+                                    "screen_name": "_kelne"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": false
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 173,
+                                    "followers_count": 13,
+                                    "friends_count": 45,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 0,
+                                    "media_count": 429,
+                                    "normal_followers_count": 13,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 2543,
+                                    "translator_type": "none",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": ""
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914635376643514369"
+                              ],
+                              "editable_until_msecs": "1506902841552",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": true,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sun Oct 01 23:37:21 +0000 2017",
+                              "conversation_id_str": "914632040733126656",
+                              "display_text_range": [
+                                12,
+                                131
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "31513669",
+                                    "name": "g1 São Paulo",
+                                    "screen_name": "g1saopaulo",
+                                    "indices": [
+                                      0,
+                                      11
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 1,
+                              "favorited": false,
+                              "full_text": "@g1saopaulo Queria ver mesmo era o negão de whatsapp fazendo uma performance nesse  Wagner Schwartz, pra ver se ele é bom de nudes.",
+                              "in_reply_to_screen_name": "g1saopaulo",
+                              "in_reply_to_status_id_str": "914632040733126656",
+                              "in_reply_to_user_id_str": "31513669",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "509119060",
+                              "id_str": "914635376643514369"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet",
+                        "highlights": {
+                          "textHighlights": [
+                            {
+                              "startIndex": 84,
+                              "endIndex": 90
+                            },
+                            {
+                              "startIndex": 91,
+                              "endIndex": 99
+                            }
+                          ]
+                        }
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914622363379142656",
+                    "sortIndex": "1948765142493641891",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914622363379142656",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjo3MzI1NDgyMg==",
+                                  "rest_id": "73254822",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/1187926731442790401/zKYxEZWN_normal.jpg"
+                                  },
+                                  "core": {
+                                    "created_at": "Thu Sep 10 23:46:19 +0000 2009",
+                                    "name": "J. B. de Araujo",
+                                    "screen_name": "AMAROK_LUPPUS"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": true
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "#direitaunida - Brasil acima de todos!!! Deus acima de tudo!!!",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 77041,
+                                    "followers_count": 29789,
+                                    "friends_count": 13651,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 20,
+                                    "media_count": 8382,
+                                    "normal_followers_count": 29789,
+                                    "pinned_tweet_ids_str": [
+                                      "1425571182812844034"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/73254822/1572058836",
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 458119,
+                                    "translator_type": "none",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": "Brasil"
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914622363379142656"
+                              ],
+                              "editable_until_msecs": "1506899738948",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": true,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sun Oct 01 22:45:38 +0000 2017",
+                              "conversation_id_str": "914622363379142656",
+                              "display_text_range": [
+                                0,
+                                95
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "veja.abril.com.br/blog/me-engana…",
+                                    "expanded_url": "http://veja.abril.com.br/blog/me-engana-que-eu-posto/artista-wagner-schwartz-nao-foi-morto-a-pauladas-em-sao-paulo/",
+                                    "url": "https://t.co/XAX2OYKpZq",
+                                    "indices": [
+                                      62,
+                                      85
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "17715048",
+                                    "name": "VEJA",
+                                    "screen_name": "VEJA",
+                                    "indices": [
+                                      90,
+                                      95
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "Artista Wagner Schwartz não foi morto a pauladas em São Paulo https://t.co/XAX2OYKpZq via @VEJA",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "73254822",
+                              "id_str": "914622363379142656"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet",
+                        "highlights": {
+                          "textHighlights": [
+                            {
+                              "startIndex": 8,
+                              "endIndex": 14
+                            },
+                            {
+                              "startIndex": 15,
+                              "endIndex": 23
+                            }
+                          ]
+                        }
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-914621432738537472",
+                    "sortIndex": "1948765142493641890",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "914621432738537472",
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjozMzg5OTA5Nzc=",
+                                  "rest_id": "338990977",
+                                  "affiliates_highlighted_label": {},
+                                  "avatar": {
+                                    "image_url": "https://pbs.twimg.com/profile_images/3559368604/49bc61008c757e1024742584c7865989_normal.png"
+                                  },
+                                  "core": {
+                                    "created_at": "Wed Jul 20 12:22:05 +0000 2011",
+                                    "name": "Willames Halley",
+                                    "screen_name": "Willames_Halley"
+                                  },
+                                  "dm_permissions": {
+                                    "can_dm": false
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 0,
+                                    "followers_count": 17,
+                                    "friends_count": 79,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 0,
+                                    "media_count": 6,
+                                    "normal_followers_count": 17,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_interstitial_type": "",
+                                    "statuses_count": 1979,
+                                    "translator_type": "none",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "location": {
+                                    "location": "São Paulo"
+                                  },
+                                  "media_permissions": {
+                                    "can_media_tag": true
+                                  },
+                                  "parody_commentary_fan_label": "None",
+                                  "profile_image_shape": "Circle",
+                                  "privacy": {
+                                    "protected": false
+                                  },
+                                  "relationship_perspectives": {
+                                    "following": false
+                                  },
+                                  "verification": {
+                                    "verified": false
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "914621432738537472"
+                              ],
+                              "editable_until_msecs": "1506899517066",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": true,
+                            "views": {
+                              "state": "Enabled"
+                            },
+                            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+                            "grok_analysis_button": true,
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sun Oct 01 22:41:57 +0000 2017",
+                              "conversation_id_str": "914621432738537472",
+                              "display_text_range": [
+                                0,
+                                139
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "fb.me/zMWISxLI",
+                                    "expanded_url": "http://fb.me/zMWISxLI",
+                                    "url": "https://t.co/ln2wZQWKPQ",
+                                    "indices": [
+                                      116,
+                                      139
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": []
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "Coreógrafo Wagner Schwartz do (La Bête) é morto a pauladas quando chegava em casa na zona sul de São Paulo - BEM... https://t.co/ln2wZQWKPQ",
+                              "is_quote_status": false,
+                              "lang": "pt",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "338990977",
+                              "id_str": "914621432738537472"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet",
+                        "highlights": {
+                          "textHighlights": [
+                            {
+                              "startIndex": 11,
+                              "endIndex": 17
+                            },
+                            {
+                              "startIndex": 18,
+                              "endIndex": 26
+                            }
+                          ]
+                        }
+                      },
+                      "clientEventInfo": {
+                        "component": "result",
+                        "element": "tweet",
+                        "details": {
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAABCgAC5hBicI0GXcAKAAVGLxqVOTh3+wgABgAAAAEKAAe8mH8Jn3clZwAAAAAA"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "TimelineReplaceEntry",
+                "entry_id_to_replace": "cursor-top-9223372036854775807",
+                "entry": {
+                  "entryId": "cursor-top-9223372036854775807",
+                  "sortIndex": "9223372036854775807",
+                  "content": {
+                    "entryType": "TimelineTimelineCursor",
+                    "__typename": "TimelineTimelineCursor",
+                    "value": "DAADDAABCgABDRb3l1kX4AEKAAIMsWNY4lbgAAAIAAIAAAABCAADAAAAAAgABAAAAAUKAAUbC2eSdQAnEAoABhsLZ5J0_xWgAAA",
+                    "cursorType": "Top"
+                  }
+                }
+              },
+              {
+                "type": "TimelineReplaceEntry",
+                "entry_id_to_replace": "cursor-bottom-0",
+                "entry": {
+                  "entryId": "cursor-bottom-0",
+                  "sortIndex": "0",
+                  "content": {
+                    "entryType": "TimelineTimelineCursor",
+                    "__typename": "TimelineTimelineCursor",
+                    "value": "DAADDAABCgABDRb3l1kX4AEKAAIMsWNY4lbgAAAIAAIAAAACCAADAAAAAAgABAAAAAUKAAUbC2eSdQAnEAoABhsLZ5J0_xWgAAA",
+                    "cursorType": "Bottom"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

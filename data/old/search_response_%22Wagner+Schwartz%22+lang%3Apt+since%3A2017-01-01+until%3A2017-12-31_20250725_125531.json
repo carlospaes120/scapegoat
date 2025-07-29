@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "query": "\"Wagner Schwartz\" lang:pt since:2017-01-01 until:2017-12-31",
+    "timestamp": "2025-07-25T12:56:51.280448",
+    "response_url": "https://x.com/i/api/graphql/Ax7CF-QwwexcwNqLvOY8bg/SearchTimeline?variables=%7B%22rawQuery%22%3A%22%5C%22Wagner%20Schwartz%5C%22%20lang%3Apt%20since%3A2017-01-01%20until%3A2017-12-31%22%2C%22count%22%3A20%2C%22cursor%22%3A%22DAADDAABCgABDRb3l1kX4AEKAAILpBuZ7VcwAgAIAAIAAAACCAADAAAAAAgABAAAAA8KAAUbC2-uTQAnEAoABhsLb65M_Y8AAAA%22%2C%22querySource%22%3A%22typed_query%22%2C%22product%22%3A%22Latest%22%7D&features=%7B%22rweb_video_screen_enabled%22%3Afalse%2C%22payments_enabled%22%3Afalse%2C%22profile_label_improvements_pcf_label_in_post_enabled%22%3Atrue%2C%22rweb_tipjar_consumption_enabled%22%3Afalse%2C%22verified_phone_label_enabled%22%3Afalse%2C%22creator_subscriptions_tweet_preview_api_enabled%22%3Atrue%2C%22responsive_web_graphql_timeline_navigation_enabled%22%3Atrue%2C%22responsive_web_graphql_skip_user_profile_image_extensions_enabled%22%3Afalse%2C%22premium_content_api_read_enabled%22%3Afalse%2C%22communities_web_enable_tweet_community_results_fetch%22%3Atrue%2C%22c9s_tweet_anatomy_moderator_badge_enabled%22%3Atrue%2C%22responsive_web_grok_analyze_button_fetch_trends_enabled%22%3Afalse%2C%22responsive_web_grok_analyze_post_followups_enabled%22%3Atrue%2C%22responsive_web_jetfuel_frame%22%3Atrue%2C%22responsive_web_grok_share_attachment_enabled%22%3Atrue%2C%22articles_preview_enabled%22%3Atrue%2C%22responsive_web_edit_tweet_api_enabled%22%3Atrue%2C%22graphql_is_translatable_rweb_tweet_is_translatable_enabled%22%3Atrue%2C%22view_counts_everywhere_api_enabled%22%3Atrue%2C%22longform_notetweets_consumption_enabled%22%3Atrue%2C%22responsive_web_twitter_article_tweet_consumption_enabled%22%3Atrue%2C%22tweet_awards_web_tipping_enabled%22%3Afalse%2C%22responsive_web_grok_show_grok_translated_post%22%3Afalse%2C%22responsive_web_grok_analysis_button_from_backend%22%3Atrue%2C%22creator_subscriptions_quote_tweet_preview_enabled%22%3Afalse%2C%22freedom_of_speech_not_reach_fetch_enabled%22%3Atrue%2C%22standardized_nudges_misinfo%22%3Atrue%2C%22tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled%22%3Atrue%2C%22longform_notetweets_rich_text_read_enabled%22%3Atrue%2C%22longform_notetweets_inline_media_enabled%22%3Atrue%2C%22responsive_web_grok_image_annotation_enabled%22%3Atrue%2C%22responsive_web_grok_community_note_auto_translation_is_enabled%22%3Afalse%2C%22responsive_web_enhance_cards_enabled%22%3Afalse%7D",
+    "item_count": null
+  },
+  "data": {
+    "data": {
+      "search_by_raw_query": {
+        "search_timeline": {
+          "timeline": {
+            "instructions": [
+              {
+                "type": "TimelineReplaceEntry",
+                "entry_id_to_replace": "cursor-top-9223372036854775807",
+                "entry": {
+                  "entryId": "cursor-top-9223372036854775807",
+                  "sortIndex": "9223372036854775807",
+                  "content": {
+                    "entryType": "TimelineTimelineCursor",
+                    "__typename": "TimelineTimelineCursor",
+                    "value": "DAADDAABCgABDRb3l1kX4AEKAAILpBuZ7VcwAgAIAAIAAAABCAADAAAAAAgABAAAABAKAAUbC2-uTQAnEAoABhsLb65M_WfwAAA",
+                    "cursorType": "Top"
+                  }
+                }
+              },
+              {
+                "type": "TimelineReplaceEntry",
+                "entry_id_to_replace": "cursor-bottom-0",
+                "entry": {
+                  "entryId": "cursor-bottom-0",
+                  "sortIndex": "0",
+                  "content": {
+                    "entryType": "TimelineTimelineCursor",
+                    "__typename": "TimelineTimelineCursor",
+                    "value": "DAADDAABCgABDRb3l1kX4AEKAAILpBuZ7VcwAgAIAAIAAAACCAADAAAAAAgABAAAABAKAAUbC2-uTQAnEAoABhsLb65M_WfwAAA",
+                    "cursorType": "Bottom"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

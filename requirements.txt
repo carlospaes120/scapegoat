@@ -1,0 +1,5 @@
+snscrape
+pandas
+tqdm
+python-dotenv
+jupyter
