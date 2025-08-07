@@ -1,7 +1,7 @@
 import os
 import json
 
-folder_path = "twitter_search_data"
+folder_path = "../data/raw"
 total_items = 0
 
 for filename in os.listdir(folder_path):

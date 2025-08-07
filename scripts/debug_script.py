@@ -7,7 +7,8 @@ import os
 import sys
 
 # --- Configuration ---
-SEARCH_TERM = 'Wagner Schwartz'
+#SEARCH_TERM = '(from:marcofeliciano) lang:pt until:2018-01-01 since:2017-09-01'
+SEARCH_TERM = '913849428523601920 lang:pt until:2018-01-01 since:2017-09-01'
 LANG = "pt"
 SINCE_DATE = "2017-01-01"
 UNTIL_DATE = "2017-12-31"
@@ -17,7 +18,7 @@ SCROLL_WAIT_MS = 6000   # Wait 6 seconds after each scroll
 INITIAL_WAIT_MS = 5000
 
 COOKIES_FILE = "twitter_cookies.json"
-OUTPUT_DIR = "data/raw"
+OUTPUT_DIR = "../data/raw"
 
 
 def build_query(term, lang=None, since=None, until=None):
@@ -49,6 +50,7 @@ def main():
 
     query = build_query(SEARCH_TERM, LANG, SINCE_DATE, UNTIL_DATE)
     query_url = f"https://twitter.com/search?q={quote_plus(query)}&src=typed_query&f=live"
+    #query_url = f"https://x.com/MBLivre/status/913531530923913221"
 
     if not os.path.exists(COOKIES_FILE):
         logging.error(f"Cookies file '{COOKIES_FILE}' not found. Please provide it before running.")

@@ -43,7 +43,7 @@ Thumbs.db
 
 # ---- Raw data or scrap results ----
 /data/raw/
-/data/interim/
+#/data/interim/
 
 # ---- Models and large binaries ----
 models/
