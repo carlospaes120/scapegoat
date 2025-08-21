@@ -8,6 +8,7 @@ tasks = []
 with open(input_path, 'r', encoding='utf-8') as infile:
     for line in infile:
         obj = json.loads(line)
+        print(obj)
         tasks.append({
             "text": obj["cleaned_text_bow"],
             "id": obj["id"]
