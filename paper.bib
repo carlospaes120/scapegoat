@@ -1,66 +1,34 @@
-\documentclass[12pt]{article}
-\usepackage[utf8]{inputenc}
-\usepackage{graphicx}
-\usepackage{natbib}
-\usepackage{hyperref}
+@book{girard1986,
+  title = {The Scapegoat},
+  author = {Girard, Rene},
+  year = {1986},
+  publisher = {The Johns Hopkins University Press},
+  address = {Baltimore}
+}
 
-\title{An Agent-Based Model of the Scapegoat Mechanism in Small-World Networks}
-\author{Carlos Paes}
-\date{\today}
+@article{granovetter1978,
+  title = {Threshold models of collective behavior},
+  author = {Granovetter, Mark},
+  journal = {American Journal of Sociology},
+  year = {1978},
+  volume = {83},
+  number = {6},
+  pages = {1420--1443}
+}
 
-\begin{document}
+@article{wattsstrogatz1998,
+  title = {Collective dynamics of 'small-world' networks},
+  author = {Watts, Duncan J. and Strogatz, Steven H.},
+  journal = {Nature},
+  year = {1998},
+  volume = {393},
+  pages = {440--442}
+}
 
-\maketitle
-
-\begin{abstract}
-This paper presents an agent-based model (ABM) that implements René Girard’s scapegoat mechanism within a small-world network structure. The model simulates the transfer of mimetic tension, the emergence of leaders, and the collective targeting of an original scapegoat. Preliminary results suggest that network connectivity, agent marginality, and leader influence significantly affect victim selection patterns. A more detailed theoretical treatment is in preparation for submission to a Girardian studies journal.
-\end{abstract}
-
-\section{Introduction}
-René Girard’s mimetic theory posits that collective violence emerges when mimetic tension within a group escalates and converges on a single victim, the scapegoat. While widely discussed in the humanities, few computational models have operationalized this mechanism. This work develops an ABM capable of simulating both the escalation phase and the resolution phase of the scapegoat ritual.
-
-\section{Methodology}
-The model is implemented in NetLogo 6, using a small-world topology generated via the Watts–Strogatz algorithm. Agents have the following attributes:
-\begin{itemize}
-\item Health: decreases with tension accumulation.
-\item Role: neutral, friendly, skeptic, leader, or scapegoat.
-\item Connectivity: number of links to other agents.
-\item Tension: increases when accused, decreases after successful accusations.
-\end{itemize}
-
-\section{Model Dynamics}
-The simulation proceeds as follows:
-\begin{enumerate}
-\item Agents accumulate tension through interactions.
-\item Tension is transferred via accusations; skeptics block transmission.
-\item When collective tension surpasses a threshold, high-connectivity agents may become leaders.
-\item Leaders coordinate the selection of a scapegoat.
-\item Resolution occurs after scapegoating, reducing overall tension.
-\end{enumerate}
-
-\section{Preliminary Results}
-Simulations suggest:
-\begin{itemize}
-\item Higher connectivity reduces the probability of becoming a scapegoat.
-\item Marginal agents are more likely to be targeted.
-\item Leader presence can delay, but not prevent, scapegoating events.
-\end{itemize}
-
-\section{Discussion}
-The model supports Girard’s hypothesis that unanimous violence can emerge from distributed reciprocal accusations. Unlike epidemiological or threshold models, it introduces explicit leader roles and tension dynamics.
-
-\section{Conclusion and Future Work}
-Future developments may include:
-\begin{itemize}
-\item Integration of memory or adaptive strategies.
-\item Exploration of substitute victim dynamics.
-\item Validation with empirical social media data.
-\end{itemize}
-
-\section*{Acknowledgements}
-Thanks to Grant McCall for contribution to this model.
-
-\bibliographystyle{apalike}
-\bibliography{scapegoat_refs}
-
-\end{document}
+@book{wilenskyrand2015,
+  title = {An Introduction to Agent-Based Modeling: Modeling Natural, Social, and Engineered Complex Systems with NetLogo},
+  author = {Wilensky, Uri and Rand, William},
+  year = {2015},
+  publisher = {MIT Press},
+  address = {Cambridge, MA}
+}
