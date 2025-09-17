@@ -94,7 +94,7 @@ def create_hybrid_graph(jsonl_filepath):
     return G
 
 if __name__ == "__main__":
-    filepath = "../../data/interim/tweets_cleaned_default.jsonl"
+    filepath = "../../data/raw/tweets_cleaned_monark_1.jsonl"
     
     print("Creating hybrid network graph...")
     graph = create_hybrid_graph(filepath)
@@ -107,7 +107,7 @@ if __name__ == "__main__":
         # You can now save the graph in a format that can be opened by visualization tools like Gephi.
         # Gephi is great for interactive exploration and can handle large networks.
         # Download it from https://gephi.org/
-        output_filepath = 'la_bete_hybrid_graph.gexf'
+        output_filepath = 'monark_graph.gexf'
         try:
             nx.write_gexf(graph, output_filepath)
             print(f"Graph saved to '{output_filepath}'.")

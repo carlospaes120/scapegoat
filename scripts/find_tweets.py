@@ -8,10 +8,10 @@ import sys
 
 # --- Configuration ---
 #SEARCH_TERM = '(from:marcofeliciano) lang:pt until:2018-01-01 since:2017-09-01'
-SEARCH_TERM = '913849428523601920 lang:pt until:2018-01-01 since:2017-09-01'
+SEARCH_TERM = '(Monark OR Flow) (exagero OR histeria OR caça às bruxas) lang:pt since:2022-02-08 until:2022-02-15'
 LANG = "pt"
-SINCE_DATE = "2017-01-01"
-UNTIL_DATE = "2017-12-31"
+SINCE_DATE = "2022-02-07"
+UNTIL_DATE = "2022-02-15"
 
 MAX_SCROLLS = 70        # Max scrolls before stopping, avoid infinite loops
 SCROLL_WAIT_MS = 6000   # Wait 6 seconds after each scroll

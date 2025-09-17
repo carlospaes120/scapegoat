@@ -4,7 +4,7 @@ import random
 from pathlib import Path
 
 # --- Config ---
-input_file = "../data/interim/label_studio_classification_1.json"   # your LabelStudio JSON
+input_file = "../data/processed/20250909_classified_tweets.json"   # your LabelStudio JSON
 output_dir = Path("../data/cleaned/dataset_splits")      # folder for CSVs
 train_ratio, val_ratio, test_ratio = 0.7, 0.15, 0.15
 random_seed = 42

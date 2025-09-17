@@ -1,18 +1,79 @@
+# ==========================
 # Python
+# ==========================
 __pycache__/
-*.pyc
-
-# Ambiente
-.venv/
-
-# Artefatos
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
 build/
-*.csv
-!tests/*.csv   # mantenha só CSVs de teste se quiser
+.eggs/
 
-# SO/Editor
-.DS_Store
-Thumbs.db
-build/
-*.csv
+# Virtual environments
 .venv/
+venv/
+ENV/
+
+# ==========================
+# Jupyter / Notebooks
+# ==========================
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert.ipynb
+
+# ==========================
+# Logs & Debug
+# ==========================
+*.log
+*.out
+*.err
+
+# ==========================
+# Data (raw & intermediate)
+# ==========================
+# Raw JSONL / tweet dumps
+*.jsonl
+*.json
+
+# CSV exports (ignore all but test CSVs)
+*.csv
+!tests/*.csv
+
+# Gephi exports
+*.gexf
+*.graphml
+
+# Temporary data (cache, preprocessing, etc.)
+data/
+datasets/
+cache/
+.tmp/
+*.zip
+*.tar
+*.gz
+
+# ==========================
+# ML/AI Stuff
+# ==========================
+# Hugging Face / Transformers cache
+.cache/
+transformers_cache/
+~/.cache/huggingface/
+
+# PyTorch / TensorFlow
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+
+# Training artifacts
+runs/
+wandb/
+mlruns/
+output/
+checkpoints/
+mod

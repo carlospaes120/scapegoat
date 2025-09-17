@@ -86,7 +86,7 @@ for file_path in raw_folder.glob("*.json"):
     all_tweets.extend(tweets)
 
 # Write to .jsonl
-output_path = Path("../data/interim/tweets_cleaned_3.jsonl")
+output_path = Path("../data/raw/tweets_cleaned_monark_1.jsonl")
 with output_path.open("w", encoding="utf-8") as out:
     for tweet in all_tweets:
         json.dump(tweet, out, ensure_ascii=False)
