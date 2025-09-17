@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 source,target,weight,kind
 1,1,1,accuse
 1,1,1,false-accuse
+=======
+source,target,weight,kind
+1,1,1,accuse
+1,1,1,false-accuse
+>>>>>>> fcecce7 (chore: init pipeline (convert_events + build_graph))
