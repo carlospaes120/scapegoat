@@ -13,3 +13,6 @@ build/
 # SO/Editor
 .DS_Store
 Thumbs.db
+build/
+*.csv
+.venv/
