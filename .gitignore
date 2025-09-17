@@ -43,7 +43,7 @@ ENV/
 !tests/*.csv
 
 # Gephi exports
-*.gexf
+#*.gexf
 *.graphml
 
 # Temporary data (cache, preprocessing, etc.)
