@@ -1,27 +1,100 @@
-An Agent-Based Model of the Scapegoat Mechanism
-This repository contains an agent‑based model (ABM) implemented in NetLogo that simulates the scapegoat mechanism described by René Girard within a small‑world network. The model allows researchers to explore how network connectivity, agent roles and tension thresholds influence the emergence of leaders and the selection of a collective target.
+## Pipeline NetLogo → Gephi (scapegoat roles)
 
-Features
-Small‑world topology: the network is generated via a Watts–Strogatz rewiring process, capturing the mix of local clustering and long‑range ties seen in many real systems.
+Este projeto cria um pipeline para transformar `events.csv` (exportado de uma simulação NetLogo) em artefatos prontos para o Gephi, incluindo rótulos dinâmicos de papéis (roles) inferidos na janela de pico.
 
-Agent roles: agents may be neutral, friendly (higher propensity to form links), skeptic (blocks accusation transmission), leader or scapegoat.
+### Instalação
 
-Mimetic tension transfer: agents pass tension through accusations, following Girard’s principle that differentiation occurs through a common enemy.
+```bash
+python -m venv .venv
+. .venv/bin/activate  # Windows PowerShell: .venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
 
-Leader emergence and scapegoat selection: once collective tension exceeds a threshold, highly connected stable agents can become leaders who coordinate accusations against a target.
+### Uso
 
-How to run the model
-Download and install NetLogo.
+```bash
+python build_graph.py \
+  --in events.csv \
+  --outdir build \
+  --window 100 \
+  --leaders 3 \
+  --eps 0.2 \
+  --coattention-dt 0
+```
 
-Clone or download this repository. If using Git, run:
+- **--in**: caminho para `events.csv` (obrigatório)
+- **--outdir**: diretório de saída (default: `build`)
+- **--window**: tamanho da janela (ticks) para detectar a janela de pico
+- **--leaders**: K do top-K por `out_strength` na janela de pico
+- **--eps**: peso para tentativas fracassadas no `viz_weight`
+- **--coattention-dt**: se > 0, exporta `edges_coattention.csv` (rede não-direcionada entre co-acusadores)
 
-sh
-Copiar
-Editar
-git clone https://github.com/carlospaes120/scapegoat.git
-Open the .nlogo file in NetLogo and press setup followed by go. The model interface exposes sliders and switches for all key parameters (network size, rewiring probability, tension threshold, etc.). A brief description of each parameter can be found in the NetLogo info tab.
+### Artefatos gerados (em `build/`)
 
-How to cite
-If you use this software in academic work, please cite the accompanying software paper in the Journal of Open Source Software once it is published. A preprint with a more detailed description of the model is also available on arXiv. Both the code and the model description are identified by a Digital Object Identifier (DOI) issued via Zenodo. Replace the placeholder below with the DOI generated after you create a release:
+- `nodes.csv`: `id, role, betweenness, in_strength, out_strength, peak_window_start, peak_window_end`
+- `edges.csv`: `source, target, weight, attempts, successes, viz_weight`
+- `graph.gexf`: grafo dirigido com atributos acima
+- (opcional) `edges_coattention.csv`
 
-Carlos Paes (2025). An Agent‑Based Model of the Scapegoat Mechanism. Zenodo. https://doi.org/10.5281/zenodo.16814491
+### Heurística de papéis (na janela de pico)
+
+- A janela de pico é a com maior número de eventos; empate: maior soma de `amount`.
+- **vítima (scapegoat)**: maior `net_in = in_strength − out_strength`, muitos fails como fonte; empate final por menor grau na janela.
+- **líder**: top-K por `out_strength` na janela; empate: betweenness/PageRank na rede agregada.
+- **acusador_falho**: nós (≠ líder, ≠ vítima) com `success=0` como fonte > 0.
+- **vítima_falhada (substituta)**: alvos diretos do scapegoat na janela e/ou nós com `in_strength` alto (percentil 75), excluindo scapegoat e líderes.
+- **neutro**: todos os demais.
+
+### Import no Gephi
+
+1. File → Open `build/graph.gexf`.
+2. Appearance → Partition: colorir por `role`.
+3. Appearance → Ranking: tamanho por `in_strength` ou `out_strength`.
+4. Layout → ForceAtlas2: habilitar LinLog Mode, Prevent Overlap. Edge Weight Influence ~ 1.0.
+5. Para mais densidade visual, use `viz_weight` como Weight no import.
+
+### Resumo impresso
+
+O script imprime: janela de pico, id da vítima (scapegoat), lista de líderes, contagem por role e nº de nós/arestas agregados.
+
+### Formato esperado de events.csv
+
+Colunas obrigatórias: `tick, source, target, success`. Coluna `amount` é opcional; se ausente, assume 1.0.
+
+### Patch de logging no NetLogo
+
+```netlogo
+extensions [ csv ]
+
+to setup
+  clear-all
+  file-close-all
+  file-delete "events.csv"
+  file-open "events.csv"
+  file-print csv:to-row ["tick" "source" "target" "success" "amount"]
+  file-close
+end
+
+to log-accusation [src tgt success? amount]
+  file-open "events.csv"
+  file-print csv:to-row (list ticks [who] of src [who] of tgt (ifelse-value success? [1] [0]) amount)
+  file-close
+end
+
+to attempt-transfer [tgt]
+  let amount 1
+  let success? (random-float 1 < prob-transfer)
+  ; ... atualiza estados/cores/tensão ...
+  log-accusation self tgt success? amount
+end
+```
+
+### Desenvolvimento
+
+- Código principal em `build_graph.py` com pandas/networkx.
+- Teste rápido em `tests/test_smoke.py` gera dados sintéticos e verifica artefatos.
+
+### Requisitos
+
+- Python 3.9+
+- `pandas`, `numpy`, `networkx`
