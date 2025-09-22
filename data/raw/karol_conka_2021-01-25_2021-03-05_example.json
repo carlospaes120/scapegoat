@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "query": "( \"Karol Conká\" OR \"Karol Conka\" OR @Karolconka OR #ForaKarol OR #ForaKarolConka OR #BBB21 ) ( cancel* OR boicote OR \"fora karol\" OR paredão OR eliminação ) lang:pt since:2021-01-25 until:2021-03-05",
+    "timestamp": "2025-09-20T10:13:00.000Z",
+    "response_url": "https://x.com/i/api/graphql/7fWgap3nJOk9UpFV7UqcoQ/SearchTimeline",
+    "item_count": 2
+  },
+  "data": {
+    "data": {
+      "search_by_raw_query": {
+        "search_timeline": {
+          "timeline": {
+            "instructions": [
+              {
+                "type": "TimelineAddEntries",
+                "entries": [
+                  {
+                    "entryId": "tweet-1234567890",
+                    "content": {
+                      "itemContent": {
+                        "tweet_results": {
+                          "result": {
+                            "legacy": {
+                              "full_text": "Fora Karol Conká! BBB21 foi um erro ter ela lá #ForaKarol #BBB21",
+                              "created_at": "Wed Feb 03 15:30:00 +0000 2021",
+                              "user_id_str": "123456789",
+                              "id_str": "1234567890"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "tweet-1234567891", 
+                    "content": {
+                      "itemContent": {
+                        "tweet_results": {
+                          "result": {
+                            "legacy": {
+                              "full_text": "Karol Conká cancelada! Boicote total #ForaKarolConka",
+                              "created_at": "Wed Feb 10 20:15:00 +0000 2021",
+                              "user_id_str": "987654321",
+                              "id_str": "1234567891"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+
