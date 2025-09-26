@@ -8,9 +8,9 @@ import sys
 
 # --- Configuration ---
 #SEARCH_TERM = '(from:marcofeliciano) lang:pt until:2018-01-01 since:2017-09-01'
-SEARCH_TERM = '(Monark OR Flow) (exagero OR histeria OR caça às bruxas) lang:pt since:2022-02-08 until:2022-02-15'
+SEARCH_TERM = '("Eduardo Bueno" OR Peninha) Senado'
 LANG = "pt"
-SINCE_DATE = "2022-02-07"
+SINCE_DATE = "2025-09-10"
 UNTIL_DATE = "2022-02-15"
 
 MAX_SCROLLS = 70        # Max scrolls before stopping, avoid infinite loops
@@ -18,7 +18,7 @@ SCROLL_WAIT_MS = 6000   # Wait 6 seconds after each scroll
 INITIAL_WAIT_MS = 5000
 
 COOKIES_FILE = "twitter_cookies.json"
-OUTPUT_DIR = "../data/raw"
+OUTPUT_DIR = "../data/raw/eduardobueno"
 
 
 def build_query(term, lang=None, since=None, until=None):
@@ -48,7 +48,7 @@ def main():
     # Create output directory if it doesn't exist
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    query = build_query(SEARCH_TERM, LANG, SINCE_DATE, UNTIL_DATE)
+    query = build_query(SEARCH_TERM, LANG, SINCE_DATE)
     query_url = f"https://twitter.com/search?q={quote_plus(query)}&src=typed_query&f=live"
     #query_url = f"https://x.com/MBLivre/status/913531530923913221"
 
