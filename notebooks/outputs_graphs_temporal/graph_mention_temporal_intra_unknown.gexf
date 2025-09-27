@@ -1,0 +1,2259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-26">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="dynamic" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="stance" type="string" />
+    </attributes>
+    <nodes>
+      <node id="karinecouz" label="karinecouz" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="edmilsonpapo10" label="edmilsonpapo10" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="paolacarosella" label="paolacarosella" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="luizwtavares" label="luizwtavares" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="pastormalafaia" label="pastormalafaia" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="taynikah" label="taynikah" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="drarosania" label="drarosania" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rdorea1" label="rdorea1" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="exame" label="exame" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="panichiraphael" label="panichiraphael" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="bufallobill" label="bufallobill" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="wspvasconcelos" label="wspvasconcelos" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ceribeiro82" label="ceribeiro82" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="pablovillaca" label="pablovillaca" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="toutelaculture" label="toutelaculture" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="megapix" label="megapix" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="andrevalente" label="andrevalente" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="imarilza" label="imarilza" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="pedrinhu_tecix" label="pedrinhu_tecix" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ailtonbenedito" label="ailtonbenedito" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="giovannarocco" label="giovannarocco" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ritalisauskas" label="ritalisauskas" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="branci13" label="branci13" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="brendellmarques" label="brendellmarques" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="alonatalia" label="alonatalia" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="carolcimenti" label="carolcimenti" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="diegoescosteguy" label="diegoescosteguy" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="blogdocarmelo" label="blogdocarmelo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lucianagimenez" label="lucianagimenez" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="marcellloz" label="marcellloz" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="spectafb" label="spectafb" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="emirsader" label="emirsader" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="americoguazelli" label="americoguazelli" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="pavarini" label="pavarini" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="opslarih" label="opslarih" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="alexxbh" label="alexxbh" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="fafaschmitt" label="fafaschmitt" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="brsemcomunas" label="brsemcomunas" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="carlosbolsonaro" label="carlosbolsonaro" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="newsfusionapps" label="newsfusionapps" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="betocardoso_jr" label="betocardoso_jr" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="kzams" label="kzams" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="gloriafperez" label="gloriafperez" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="linobocchini" label="linobocchini" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="gen_villasboas" label="gen_villasboas" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="agencialupa" label="agencialupa" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="noticiaaominuto" label="noticiaaominuto" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="marialuciacunha" label="marialuciacunha" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="aimecarvalho2" label="aimecarvalho2" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="efarsas" label="efarsas" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="raquelrangel0" label="raquelrangel0" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mattera1984" label="mattera1984" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="valter_cassol" label="valter_cassol" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="flaviobolsonaro" label="flaviobolsonaro" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="benjaminback" label="benjaminback" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="joaofwmartins" label="joaofwmartins" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="arykame" label="arykame" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="regianealves" label="regianealves" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="amldebiauxx" label="amldebiauxx" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="boechatoficial" label="boechatoficial" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="eloildes_texe" label="eloildes_texe" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="cerqueiradelio" label="cerqueiradelio" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="partidonovo30" label="partidonovo30" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rrbelle" label="rrbelle" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="sapetraglia" label="sapetraglia" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="o_assassino" label="o_assassino" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mell1092" label="mell1092" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="assembleiaes" label="assembleiaes" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="aeciofaraujo" label="aeciofaraujo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="narizgelado" label="narizgelado" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="morganepoiraud" label="morganepoiraud" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="recordtvoficial" label="recordtvoficial" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lmegale" label="lmegale" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jornal" label="jornal" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="cissa_guimaraes" label="cissa_guimaraes" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="pbial" label="pbial" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="deboranis" label="deboranis" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="wendellgjj" label="wendellgjj" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="roveliago" label="roveliago" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="neocrf" label="neocrf" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ureomascarenha2" label="ureomascarenha2" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="canalgnt" label="canalgnt" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="efeij" label="efeij" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="tcarocho" label="tcarocho" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="arisirius" label="arisirius" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="superdearo" label="superdearo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="leilaneneubarth" label="leilaneneubarth" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="piemarcy" label="piemarcy" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="antbarrosjr" label="antbarrosjr" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="felipeneto" label="felipeneto" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="neusamandrade" label="neusamandrade" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="fsfernandofut" label="fsfernandofut" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="bbcbrasil" label="bbcbrasil" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jonnytapa171" label="jonnytapa171" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="alvaromsantos1" label="alvaromsantos1" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="barboreh" label="barboreh" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="bete_davis" label="bete_davis" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="sergiosepsep" label="sergiosepsep" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="pablokossa" label="pablokossa" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ajramora28" label="ajramora28" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="dionisioneto" label="dionisioneto" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rcrevelone" label="rcrevelone" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="vouparacuba" label="vouparacuba" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="tlmota" label="tlmota" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="cesartorres2014" label="cesartorres2014" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="micheltemer" label="micheltemer" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="alexrochasilva5" label="alexrochasilva5" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="fmacedo18" label="fmacedo18" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rosesanchesbh" label="rosesanchesbh" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="petiscos" label="petiscos" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="catharinah16" label="catharinah16" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mcissaguimaraes" label="mcissaguimaraes" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="damiao_nd" label="damiao_nd" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mohan_manjima" label="mohan_manjima" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="vanusaabreuc" label="vanusaabreuc" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="dornelasfr" label="dornelasfr" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="padriin" label="padriin" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="anapaulavolei" label="anapaulavolei" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="walber_schwartz" label="walber_schwartz" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rafabrites" label="rafabrites" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="anitta" label="anitta" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="cardoso" label="cardoso" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="eversonzoio" label="eversonzoio" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="policiafederal" label="policiafederal" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="diario_gaucho" label="diario_gaucho" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="santander_br" label="santander_br" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mitags" label="mitags" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="geraldoalckmin_" label="geraldoalckmin_" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="unicefbrasil" label="unicefbrasil" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="omelete" label="omelete" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="institutoalana" label="institutoalana" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="vidaletti" label="vidaletti" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rosangela_bolze" label="rosangela_bolze" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rodrigojfmg1981" label="rodrigojfmg1981" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ocafezinho" label="ocafezinho" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="joaoamoedonovo" label="joaoamoedonovo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="alexsandraponce" label="alexsandraponce" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="albertmohler" label="albertmohler" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="gabrlelplnhelro" label="gabrlelplnhelro" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="danilogentili" label="danilogentili" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="youtube" label="youtube" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lf_ponde" label="lf_ponde" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mp_rj" label="mp_rj" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="thiagogdearagao" label="thiagogdearagao" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="olelias" label="olelias" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="donincrenca" label="donincrenca" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="pauloteixeira13" label="pauloteixeira13" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="katiaabreu" label="katiaabreu" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lambari_trader" label="lambari_trader" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ariovaldojr" label="ariovaldojr" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="_jotaerre" label="_jotaerre" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="therezaandrada" label="therezaandrada" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jornal_cultura" label="jornal_cultura" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="kamylle" label="kamylle" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lucianagenro" label="lucianagenro" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="aliceelendutra3" label="aliceelendutra3" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="marcosdiasdosre" label="marcosdiasdosre" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mariadorosario" label="mariadorosario" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="marc3lors" label="marc3lors" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="emais_estadao" label="emais_estadao" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="odilonpr" label="odilonpr" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="gicouoriginal" label="gicouoriginal" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="joseluisfreita2" label="joseluisfreita2" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="gazetaonline" label="gazetaonline" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="____jimmy" label="____jimmy" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="vanildabordieri" label="vanildabordieri" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="uol" label="uol" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="marcioguilherme" label="marcioguilherme" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rede45" label="rede45" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="gilmarmendes" label="gilmarmendes" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="kazehenrique" label="kazehenrique" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="janainadobrasil" label="janainadobrasil" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="luheisenberg" label="luheisenberg" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="renatoigor" label="renatoigor" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="guiwde" label="guiwde" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="zethede" label="zethede" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="conversaafiada" label="conversaafiada" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mariana_godoy" label="mariana_godoy" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mulefico" label="mulefico" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="alaingaruzzi" label="alaingaruzzi" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="glaubermacario" label="glaubermacario" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="gio_antonelli" label="gio_antonelli" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="alinemidlej" label="alinemidlej" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="tecomedina" label="tecomedina" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="gleisi" label="gleisi" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="zehdeabreu" label="zehdeabreu" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="erikakokay" label="erikakokay" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="deltanmd" label="deltanmd" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="josemedeirosmt" label="josemedeirosmt" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="elikatakimoto" label="elikatakimoto" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mvsmotta" label="mvsmotta" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="editorahumanas2" label="editorahumanas2" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="beltraomaria" label="beltraomaria" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="farofys" label="farofys" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="maurolambert" label="maurolambert" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="marcelofreixo" label="marcelofreixo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="yashagallazzi" label="yashagallazzi" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jmaurosilva" label="jmaurosilva" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="leojaime" label="leojaime" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="wallflowerma" label="wallflowerma" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="zedoradio87" label="zedoradio87" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="val_ce1" label="val_ce1" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="brauliobessa" label="brauliobessa" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jqteixeira" label="jqteixeira" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ph1977" label="ph1977" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ruthdeaquino" label="ruthdeaquino" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="villamarcovilla" label="villamarcovilla" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="googlebrasil" label="googlebrasil" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="big_zzzz62" label="big_zzzz62" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="bolsonarosp" label="bolsonarosp" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="moura_101" label="moura_101" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ricaperrone" label="ricaperrone" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="alexisloizon" label="alexisloizon" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ajulysantos" label="ajulysantos" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="thtlinks" label="thtlinks" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="katiagui" label="katiagui" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jeanhannielly" label="jeanhannielly" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="davidmadi" label="davidmadi" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="aguero78" label="aguero78" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="aracibrolo" label="aracibrolo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jusbrasil" label="jusbrasil" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="gugachacra" label="gugachacra" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="maathbz" label="maathbz" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="dricacorrea12" label="dricacorrea12" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ctonsa" label="ctonsa" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="carolmoreira3" label="carolmoreira3" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mamilospod" label="mamilospod" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ancelmocom" label="ancelmocom" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="coalacroata" label="coalacroata" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="vazamaia" label="vazamaia" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="debulhando" label="debulhando" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="vagnerbernardo" label="vagnerbernardo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="leisealbuquerqu" label="leisealbuquerqu" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mariosabinof" label="mariosabinof" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="spiritoficial" label="spiritoficial" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mam" label="mam" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="pedromleao" label="pedromleao" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="emicida" label="emicida" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="isabelviso" label="isabelviso" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ana9sousa" label="ana9sousa" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="brumelianebrum" label="brumelianebrum" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="marisascruz" label="marisascruz" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="suruagydo" label="suruagydo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="radiobandnewsfm" label="radiobandnewsfm" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rubinhoarte" label="rubinhoarte" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="arielpalacios" label="arielpalacios" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lobaoeletrico" label="lobaoeletrico" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="pac_man" label="pac_man" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lukasilva97" label="lukasilva97" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="keikoota_" label="keikoota_" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="folha" label="folha" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="vessoni" label="vessoni" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="omarcosveras" label="omarcosveras" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lilianeferrari" label="lilianeferrari" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="amazon" label="amazon" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="christinalemos" label="christinalemos" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="odiodobem" label="odiodobem" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="cinesystem" label="cinesystem" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lolaescreva" label="lolaescreva" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jandira_feghali" label="jandira_feghali" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="cyrusafa" label="cyrusafa" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="naosalvo" label="naosalvo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="caetanoveloso" label="caetanoveloso" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="adrianahil" label="adrianahil" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="milick74" label="milick74" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jeanwyllys_real" label="jeanwyllys_real" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="marcosgabarbosa" label="marcosgabarbosa" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="odecarvalho" label="odecarvalho" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="allanldsantos" label="allanldsantos" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="bauer_bauer" label="bauer_bauer" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="stf_oficial" label="stf_oficial" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ledanagle" label="ledanagle" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jrgandara" label="jrgandara" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="luccianoaguiar" label="luccianoaguiar" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jwbranda" label="jwbranda" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="tomleao" label="tomleao" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="sizanne0110" label="sizanne0110" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="velindade" label="velindade" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lolove__" label="lolove__" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="netflixbrasil" label="netflixbrasil" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="342artes" label="342artes" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="anajure_oficial" label="anajure_oficial" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="andrizek" label="andrizek" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="augustosnunes" label="augustosnunes" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lullylucky" label="lullylucky" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="marcogomes" label="marcogomes" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lordehun" label="lordehun" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="urublog" label="urublog" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="veramagalhaes" label="veramagalhaes" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="evaristocosta" label="evaristocosta" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="camilabomfim" label="camilabomfim" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="alandossd" label="alandossd" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ceudiniz" label="ceudiniz" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="silvio_mkt" label="silvio_mkt" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="canaldootario" label="canaldootario" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="profwambert_" label="profwambert_" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jornalextra" label="jornalextra" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rcp01" label="rcp01" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="spd_33" label="spd_33" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="conexaopolitica" label="conexaopolitica" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="pr_odilton" label="pr_odilton" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ronaldo_fla" label="ronaldo_fla" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jdoriajr" label="jdoriajr" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="yodasapiens_29" label="yodasapiens_29" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="gabrielrubins" label="gabrielrubins" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="adryanesillva" label="adryanesillva" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="everaldoconcei2" label="everaldoconcei2" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="kinoplex" label="kinoplex" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mpf_sp" label="mpf_sp" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ladyrasta" label="ladyrasta" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="soracy" label="soracy" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jornalnacional" label="jornalnacional" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="schwarza79" label="schwarza79" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="cdnleon" label="cdnleon" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="virallatta" label="virallatta" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="anaamelialemos" label="anaamelialemos" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="dibradoras" label="dibradoras" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jedulima" label="jedulima" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="sulconnection" label="sulconnection" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="angelicaksy" label="angelicaksy" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jungmosung" label="jungmosung" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="itau" label="itau" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ramaaton" label="ramaaton" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="devochkamusic" label="devochkamusic" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="aguinaldaosilva" label="aguinaldaosilva" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="claudiabistao" label="claudiabistao" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="fabioporchat" label="fabioporchat" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="roberto2016rodr" label="roberto2016rodr" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="domespetacular" label="domespetacular" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="doldiarioonline" label="doldiarioonline" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="atardeesua" label="atardeesua" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="marlonalvesmato" label="marlonalvesmato" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="dcm_online" label="dcm_online" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="patocorporation" label="patocorporation" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="goesleni" label="goesleni" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="oatila" label="oatila" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="benebarbosa_mvb" label="benebarbosa_mvb" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="laurojardim" label="laurojardim" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rafinhabastos" label="rafinhabastos" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="starheadboy" label="starheadboy" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="o" label="o" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="maricir" label="maricir" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="estevao_vargas" label="estevao_vargas" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="cesartralli" label="cesartralli" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="wordpressdotcom" label="wordpressdotcom" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="globonews" label="globonews" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="zcloficial" label="zcloficial" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="cbn" label="cbn" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="o_antagonista" label="o_antagonista" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rockinrio" label="rockinrio" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="o_ponderador" label="o_ponderador" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="chico_pinheiro" label="chico_pinheiro" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="caparica" label="caparica" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ramesojalves" label="ramesojalves" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="revista" label="revista" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="enzoberc" label="enzoberc" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lapena" label="lapena" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="politzoficial" label="politzoficial" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="marimpnetto" label="marimpnetto" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mucceli" label="mucceli" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mpf_pgr" label="mpf_pgr" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="dorivas5" label="dorivas5" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jujuca1987" label="jujuca1987" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="marcelisoares" label="marcelisoares" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rubenscrevelone" label="rubenscrevelone" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="denisebarbosa" label="denisebarbosa" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mchef_murilo" label="mchef_murilo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="cesardearacuai" label="cesardearacuai" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="_josesperanca" label="_josesperanca" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="hcalori" label="hcalori" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rodskirschner" label="rodskirschner" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="onubrasil" label="onubrasil" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="flaromart" label="flaromart" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="thonrocha" label="thonrocha" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="tapurah" label="tapurah" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="araujo_regis" label="araujo_regis" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="pikenogb" label="pikenogb" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="javieiraneto" label="javieiraneto" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="magnomalta" label="magnomalta" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ottoni3101" label="ottoni3101" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rmelette" label="rmelette" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ribeirovic10" label="ribeirovic10" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="dormonildo" label="dormonildo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="minc_rj" label="minc_rj" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="apostoloagenor" label="apostoloagenor" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="lenazzo" label="lenazzo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="detremura" label="detremura" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="estadao" label="estadao" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="tainamuller" label="tainamuller" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="valdirborgf" label="valdirborgf" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="programapanico" label="programapanico" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="hugomelo7" label="hugomelo7" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="sen_cristovam" label="sen_cristovam" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="imaginago" label="imaginago" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rosaneoliveira" label="rosaneoliveira" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="deltaservtec" label="deltaservtec" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="revistaistoe" label="revistaistoe" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="andreluizolivei" label="andreluizolivei" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rbandeirantes" label="rbandeirantes" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="arcamargo70" label="arcamargo70" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="keyroz74" label="keyroz74" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="gust320" label="gust320" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="maulroou" label="maulroou" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="showdavida" label="showdavida" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="leo_campos93" label="leo_campos93" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jose_simao" label="jose_simao" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="c0nvey" label="c0nvey" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mpsp_oficial" label="mpsp_oficial" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="paulalavigne" label="paulalavigne" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rick_martins_bh" label="rick_martins_bh" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ma__rias" label="ma__rias" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="juliacristo" label="juliacristo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rr" label="rr" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="veraholtzirreal" label="veraholtzirreal" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="cristilobo" label="cristilobo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="alinemotareal" label="alinemotareal" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="_ioen" label="_ioen" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="don_martins1" label="don_martins1" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="luciandrade" label="luciandrade" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rose_heitor" label="rose_heitor" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="pietrodecenzo" label="pietrodecenzo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="bobjackk" label="bobjackk" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="jumagalhaesbh" label="jumagalhaesbh" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ig" label="ig" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="nelsonfsilva1" label="nelsonfsilva1" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="eucobro" label="eucobro" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="oglobopolitica" label="oglobopolitica" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="ariano_suassuna" label="ariano_suassuna" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mauriciostycer" label="mauriciostycer" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="xicosa" label="xicosa" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="amandaramalhos" label="amandaramalhos" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="luizgoncalves87" label="luizgoncalves87" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="disneyfr" label="disneyfr" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="capslockaraujo" label="capslockaraujo" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="mafiasummers" label="mafiasummers" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="liquidpanorama" label="liquidpanorama" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="enesiobelotti" label="enesiobelotti" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="rgottino" label="rgottino" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="miltonneves" label="miltonneves" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="o_perguntadorr" label="o_perguntadorr" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="dandynha" label="dandynha" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="xexeubbb" label="xexeubbb" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="gabisvalente" label="gabisvalente" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="onunews" label="onunews" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="andreolifelipe" label="andreolifelipe" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="hojeemdia" label="hojeemdia" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="bmcoutinho" label="bmcoutinho" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="carlin777" label="carlin777" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="uolnoticias" label="uolnoticias" start="None" end="None">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges />
+  </graph>
+</gexf>

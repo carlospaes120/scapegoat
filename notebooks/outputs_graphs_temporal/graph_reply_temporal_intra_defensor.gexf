@@ -1,0 +1,1668 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-26">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="dynamic" name="" timeformat="date">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="stance_pair" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="stance" type="string" />
+    </attributes>
+    <nodes>
+      <node id="prluis_claudio" label="prluis_claudio" start="2017-09-30T10:15:18" end="2017-09-30T10:15:18">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jacoebina" label="jacoebina" start="2017-10-01T08:52:18" end="2017-10-01T08:52:18">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="joselui58821263" label="joselui58821263" start="2017-09-29T16:45:52" end="2017-09-29T16:45:52">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="elle_jotta" label="elle_jotta" start="2017-09-29T19:52:51" end="2017-11-01T19:42:25">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jocibranda_" label="jocibranda_" start="2017-09-30T16:51:49" end="2017-09-30T16:51:49">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="tatik_2016" label="tatik_2016" start="2017-10-25T20:30:02" end="2017-10-25T20:30:02">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="klbrvvrs" label="klbrvvrs" start="2017-10-24T16:25:57" end="2017-10-24T16:25:57">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="heymatheus" label="heymatheus" start="2017-11-16T23:38:43" end="2017-11-16T23:38:43">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="eulucaspereira_" label="eulucaspereira_" start="2017-10-15T23:36:03" end="2017-10-15T23:36:03">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ovitorlins" label="ovitorlins" start="2017-09-29T18:34:19" end="2017-09-29T18:34:19">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="cryinghawk" label="cryinghawk" start="2017-10-04T17:24:07" end="2017-10-04T17:24:07">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="virginiasousa" label="virginiasousa" start="2017-09-29T20:26:01" end="2017-09-29T20:26:01">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="primotiago" label="primotiago" start="2017-11-03T17:10:17" end="2017-11-03T17:10:17">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="bonjourxz" label="bonjourxz" start="2017-12-22T04:25:24" end="2017-12-22T04:25:24">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jutair_rios" label="jutair_rios" start="2017-12-02T13:46:04" end="2017-12-02T13:46:04">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="lidianaalmeida6" label="lidianaalmeida6" start="2017-10-01T03:40:43" end="2017-10-01T03:40:43">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="meire030365" label="meire030365" start="2017-11-04T21:54:24" end="2017-11-04T21:54:24">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jlcanellas" label="jlcanellas" start="2017-09-30T16:00:45" end="2017-09-30T16:00:45">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="marvule" label="marvule" start="2017-10-09T11:12:50" end="2017-10-09T11:12:50">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jurnaltrading" label="jurnaltrading" start="2017-01-01T12:56:32" end="2017-01-01T12:56:32">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="cibelesidney" label="cibelesidney" start="2017-09-30T12:53:13" end="2017-09-30T12:53:13">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="khycheler" label="khycheler" start="2017-10-13T08:00:13" end="2017-10-13T08:00:13">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="sergiosobreira" label="sergiosobreira" start="2017-09-19T03:06:41" end="2017-09-19T03:06:41">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="harujiggly" label="harujiggly" start="2017-10-05T22:06:44" end="2017-10-05T22:06:44">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="luizalechandre" label="luizalechandre" start="2017-09-29T13:50:56" end="2017-09-29T13:50:56">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="nivaldo_barreto" label="nivaldo_barreto" start="2017-10-07T16:31:43" end="2017-10-07T16:31:43">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="olivier1981" label="olivier1981" start="2017-11-10T20:40:13" end="2017-11-10T20:40:13">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="httpisso" label="httpisso" start="2017-01-14T00:20:50" end="2017-01-14T00:20:50">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="gvodhimagica" label="gvodhimagica" start="2017-10-29T01:59:23" end="2017-10-29T01:59:23">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="priscilabereta" label="priscilabereta" start="2017-10-01T14:45:31" end="2017-10-01T14:45:31">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="biahwerther" label="biahwerther" start="2017-10-01T04:10:31" end="2017-10-05T00:45:04">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jairorodriguesj" label="jairorodriguesj" start="2017-10-01T17:22:47" end="2017-10-01T17:36:48">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jjoaortt" label="jjoaortt" start="2017-11-10T14:44:31" end="2017-11-10T14:49:27">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="delsoncdaltro" label="delsoncdaltro" start="2017-09-30T15:08:51" end="2017-10-07T14:08:15">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="bocalves" label="bocalves" start="2017-10-09T00:56:14" end="2017-10-09T00:56:14">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="patydeumtudo" label="patydeumtudo" start="2017-10-31T18:42:48" end="2017-10-31T18:42:48">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="sujeitosergio" label="sujeitosergio" start="2017-10-16T16:04:57" end="2017-10-16T16:04:57">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="dutesiw" label="dutesiw" start="2017-09-30T18:02:41" end="2017-09-30T18:02:41">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="eva01l0ver" label="eva01l0ver" start="2017-10-21T02:50:33" end="2017-10-21T02:50:33">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="midianinja" label="midianinja" start="2017-10-30T15:18:26" end="2017-10-30T15:18:26">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="felibasparib" label="felibasparib" start="2017-09-30T23:06:02" end="2017-10-02T04:48:51">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="cmaquidauana" label="cmaquidauana" start="2017-10-09T12:15:03" end="2017-10-09T12:20:23">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="wallaceteix" label="wallaceteix" start="2017-10-06T15:11:42" end="2017-10-06T15:11:42">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="rosana" label="rosana" start="2017-10-12T13:28:02" end="2017-11-09T00:08:06">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="galospicio" label="galospicio" start="2017-05-08T00:15:47" end="2017-05-08T00:15:47">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jecfer" label="jecfer" start="2017-09-29T19:46:26" end="2017-09-29T19:46:26">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="burunoponciano" label="burunoponciano" start="2017-10-12T15:27:00" end="2017-10-12T15:27:00">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="escarlateohara" label="escarlateohara" start="2017-10-02T16:56:00" end="2017-10-02T16:56:00">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="malevola_rainha" label="malevola_rainha" start="2017-11-12T02:49:48" end="2017-11-12T02:49:48">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="maxwellmbm" label="maxwellmbm" start="2017-10-03T18:46:24" end="2017-10-03T18:46:24">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="apmanzo" label="apmanzo" start="2017-09-29T12:18:56" end="2017-09-29T12:18:56">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="prazeresleandro" label="prazeresleandro" start="2017-10-02T17:06:29" end="2017-10-02T17:06:29">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ricardokelmer" label="ricardokelmer" start="2017-10-10T23:19:25" end="2017-10-10T23:19:25">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="simaosf_" label="simaosf_" start="2017-10-01T05:57:47" end="2017-10-01T05:57:47">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="a_franci12" label="a_franci12" start="2017-10-11T17:19:58" end="2017-10-11T17:19:58">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="lfmpaesold" label="lfmpaesold" start="2017-09-28T22:36:28" end="2017-09-28T22:36:28">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="roger_limajp" label="roger_limajp" start="2017-10-06T22:54:52" end="2017-10-06T22:54:52">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="alcolviettra" label="alcolviettra" start="2017-09-30T10:50:20" end="2017-09-30T10:50:20">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="mariedy_cesario" label="mariedy_cesario" start="2017-10-08T18:23:24" end="2017-10-08T18:23:24">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="pris_cilacosta" label="pris_cilacosta" start="2017-10-10T23:04:03" end="2017-10-10T23:04:03">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="rcsrj59" label="rcsrj59" start="2017-10-04T20:22:15" end="2017-10-04T20:22:15">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="saodionisio" label="saodionisio" start="2017-10-06T10:36:58" end="2017-10-06T10:36:58">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="p4wlu" label="p4wlu" start="2017-10-16T06:47:32" end="2017-10-16T06:47:32">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="kiwidwg" label="kiwidwg" start="2017-10-05T14:47:36" end="2017-10-05T14:47:36">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="isroles" label="isroles" start="2017-09-29T02:00:28" end="2017-09-29T02:00:28">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="disseonando" label="disseonando" start="2017-09-29T12:31:59" end="2017-09-29T12:31:59">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="demian13_" label="demian13_" start="2017-09-29T00:26:33" end="2017-09-29T00:26:33">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="geraldo_3" label="geraldo_3" start="2017-10-04T12:07:16" end="2017-10-04T12:07:16">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="isaacmendes7" label="isaacmendes7" start="2017-10-03T01:25:27" end="2017-10-03T01:25:27">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="joanneaunt" label="joanneaunt" start="2017-11-05T20:14:04" end="2017-11-05T20:14:04">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="otavianoj" label="otavianoj" start="2017-09-29T19:10:42" end="2017-09-29T19:10:42">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="shoujofan" label="shoujofan" start="2017-10-05T11:37:23" end="2017-10-05T11:37:23">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="oficialguma" label="oficialguma" start="2017-10-02T17:53:26" end="2017-10-02T17:53:26">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="juniorgueta" label="juniorgueta" start="2017-10-05T18:01:26" end="2017-10-05T18:01:26">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="magnoreisand" label="magnoreisand" start="2017-10-10T01:25:10" end="2017-10-10T01:25:10">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="zigzagtric" label="zigzagtric" start="2017-10-04T00:27:34" end="2017-10-04T00:27:34">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="arthurdadalto_" label="arthurdadalto_" start="2017-09-28T23:49:09" end="2017-09-28T23:49:09">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="sueanechaves" label="sueanechaves" start="2017-12-02T00:41:31" end="2017-12-02T00:41:31">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="lufanana" label="lufanana" start="2017-10-10T11:52:00" end="2017-10-10T11:52:00">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="cinematografo" label="cinematografo" start="2017-08-18T13:57:27" end="2017-08-18T13:57:27">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="iamcinemazealot" label="iamcinemazealot" start="2017-11-10T11:33:11" end="2017-11-10T11:33:11">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="uncensored_0022" label="uncensored_0022" start="2017-10-22T00:14:34" end="2017-10-22T00:14:34">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="savethekittycat" label="savethekittycat" start="2017-10-04T14:58:02" end="2017-10-04T14:58:02">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="pedrovida12" label="pedrovida12" start="2017-10-04T13:46:41" end="2017-10-21T20:59:10">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="kenya_abcd" label="kenya_abcd" start="2017-09-29T22:23:17" end="2017-09-29T22:23:17">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="nfeuillet" label="nfeuillet" start="2017-04-18T22:01:32" end="2017-04-18T22:01:32">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jontinhacid" label="jontinhacid" start="2017-10-16T23:39:43" end="2017-10-16T23:39:43">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="nad_pimentel" label="nad_pimentel" start="2017-10-02T16:05:10" end="2017-11-10T10:18:54">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="nah_galzini" label="nah_galzini" start="2017-10-01T15:06:09" end="2017-10-01T15:06:09">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="therdchannel" label="therdchannel" start="2017-10-15T23:30:41" end="2017-10-15T23:35:20">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="tastelikeindie" label="tastelikeindie" start="2017-05-21T03:12:56" end="2017-05-21T03:12:56">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="rog3rio2017" label="rog3rio2017" start="2017-11-05T21:06:33" end="2017-11-05T21:06:33">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jadelumet" label="jadelumet" start="2017-03-18T18:33:35" end="2017-03-18T18:33:35">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="arturpinho" label="arturpinho" start="2017-10-02T20:14:51" end="2017-12-25T16:32:31">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ingridmarquardt" label="ingridmarquardt" start="2017-10-14T23:54:51" end="2017-10-14T23:54:51">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="elenilson_n" label="elenilson_n" start="2017-10-04T11:28:42" end="2017-10-04T11:28:42">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="brunolunax" label="brunolunax" start="2017-10-03T17:32:14" end="2017-10-03T17:32:14">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="lydsblackthorn" label="lydsblackthorn" start="2017-02-05T01:28:56" end="2017-02-05T01:28:56">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="marcelomarani" label="marcelomarani" start="2017-10-03T21:39:20" end="2017-10-03T21:39:20">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="danilodonizeth" label="danilodonizeth" start="2017-10-13T14:40:01" end="2017-10-13T14:40:01">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="anamariabsb" label="anamariabsb" start="2017-10-16T06:49:17" end="2017-10-16T06:49:17">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="caosbaco" label="caosbaco" start="2017-10-19T08:08:40" end="2017-10-19T08:08:40">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="luisnassif" label="luisnassif" start="2017-10-24T11:46:29" end="2017-10-24T11:46:29">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="corarufino" label="corarufino" start="2017-09-29T19:19:56" end="2017-09-29T19:19:56">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="kellylanne" label="kellylanne" start="2017-10-02T16:08:10" end="2017-10-02T16:08:10">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="__sallada" label="__sallada" start="2017-04-22T02:41:56" end="2017-04-22T02:41:56">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="olavo_silveira" label="olavo_silveira" start="2017-10-05T02:09:22" end="2017-10-05T02:09:22">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="falazion" label="falazion" start="2017-09-30T14:57:32" end="2017-09-30T14:57:32">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="warlordhy" label="warlordhy" start="2017-11-08T16:34:34" end="2017-11-08T16:34:34">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="soullbeto" label="soullbeto" start="2017-09-29T10:36:23" end="2017-09-29T10:36:23">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="andre_ferr1" label="andre_ferr1" start="2017-10-02T02:21:41" end="2017-10-02T02:21:41">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="luizlaurocha" label="luizlaurocha" start="2017-10-11T17:36:56" end="2017-10-11T18:13:52">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="altairsalesio" label="altairsalesio" start="2017-09-30T21:33:07" end="2017-09-30T21:33:07">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="bhqmais" label="bhqmais" start="2017-10-04T23:51:34" end="2017-10-04T23:51:34">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="pablo_peixoto" label="pablo_peixoto" start="2017-10-05T19:27:43" end="2017-10-05T19:27:43">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="profedimota" label="profedimota" start="2017-10-02T15:52:54" end="2017-10-02T15:52:54">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="feguimaraes" label="feguimaraes" start="2017-10-05T13:48:34" end="2017-10-05T13:48:34">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="donniedarko73" label="donniedarko73" start="2017-10-04T12:40:21" end="2017-10-04T12:40:21">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ianisit" label="ianisit" start="2017-10-06T22:40:38" end="2017-10-06T22:40:38">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="edvandiaslima" label="edvandiaslima" start="2017-09-30T21:44:40" end="2017-09-30T21:44:40">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ritacassiamart5" label="ritacassiamart5" start="2017-11-17T12:46:05" end="2017-11-17T12:46:05">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="joaquim_cantan" label="joaquim_cantan" start="2017-10-01T15:04:15" end="2017-10-01T15:04:15">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="gabesevilha" label="gabesevilha" start="2017-12-08T10:06:41" end="2017-12-08T10:06:41">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="felipemendesp" label="felipemendesp" start="2017-04-15T21:23:52" end="2017-04-15T21:23:52">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="brunoadriano82" label="brunoadriano82" start="2017-10-27T02:27:37" end="2017-10-27T02:27:37">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="korinbby" label="korinbby" start="2017-02-04T01:20:39" end="2017-02-04T01:20:39">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="lumicheletti" label="lumicheletti" start="2017-09-30T14:16:58" end="2017-09-30T14:16:58">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="datenaband" label="datenaband" start="2017-10-02T19:00:49" end="2017-10-30T03:02:24">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="merdanaparede" label="merdanaparede" start="2017-09-30T00:56:21" end="2017-10-02T00:50:31">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="daisesm" label="daisesm" start="2017-10-10T00:20:26" end="2017-10-10T00:20:26">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="pejotha" label="pejotha" start="2017-10-02T18:10:43" end="2017-10-02T18:10:43">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jmrcalado" label="jmrcalado" start="2017-10-18T03:28:06" end="2017-10-18T03:28:06">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="mehdicsp" label="mehdicsp" start="2017-07-24T21:49:33" end="2017-07-24T21:49:33">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="marinastourinho" label="marinastourinho" start="2017-10-03T21:24:28" end="2017-10-03T21:24:28">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="giprincessgi" label="giprincessgi" start="2017-10-16T01:11:00" end="2017-10-16T01:11:00">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="franciscoreisjr" label="franciscoreisjr" start="2017-11-09T11:37:58" end="2017-11-09T11:37:58">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="capita_lista" label="capita_lista" start="2017-12-21T09:55:05" end="2017-12-21T09:55:05">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="folhanet" label="folhanet" start="2017-09-29T21:22:41" end="2017-09-29T21:22:41">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="hortsy" label="hortsy" start="2017-09-29T22:43:24" end="2017-09-29T22:43:24">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="olharpost" label="olharpost" start="2017-10-04T19:29:28" end="2017-11-03T19:54:35">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="silvervet2001" label="silvervet2001" start="2017-09-29T14:23:25" end="2017-09-29T14:23:25">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="mat_girl" label="mat_girl" start="2017-10-08T04:39:23" end="2017-10-08T04:39:23">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="capitudoidinha" label="capitudoidinha" start="2017-10-08T04:20:37" end="2017-10-09T02:22:40">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="cartacapital" label="cartacapital" start="2017-10-03T18:01:49" end="2017-12-25T16:30:19">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="rovicentte" label="rovicentte" start="2017-10-18T16:30:07" end="2017-10-18T16:30:07">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="seadisara" label="seadisara" start="2017-11-09T21:42:24" end="2017-11-09T21:42:24">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="duart_neves" label="duart_neves" start="2017-10-05T13:16:56" end="2017-10-05T13:16:56">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="idasartorio" label="idasartorio" start="2017-10-18T16:45:47" end="2017-10-18T16:45:47">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="rafaeldias_1" label="rafaeldias_1" start="2017-10-20T05:43:44" end="2017-10-20T05:43:44">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="kenzaskk" label="kenzaskk" start="2017-06-27T18:56:33" end="2017-06-27T18:56:33">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="albarittto" label="albarittto" start="2017-03-20T03:31:45" end="2017-03-20T03:31:45">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="marciamgonzalez" label="marciamgonzalez" start="2017-10-01T02:52:38" end="2017-10-11T03:14:08">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="c_refazenda" label="c_refazenda" start="2017-10-02T02:21:49" end="2017-10-02T02:21:49">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="portalsemanaon" label="portalsemanaon" start="2017-10-09T14:30:05" end="2017-10-09T14:30:05">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="djwhyne" label="djwhyne" start="2017-03-09T03:16:48" end="2017-03-09T03:16:48">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="pietrobraganca" label="pietrobraganca" start="2017-09-29T03:38:50" end="2017-09-29T03:38:50">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="marcoshbsouza" label="marcoshbsouza" start="2017-10-01T04:02:49" end="2017-10-01T04:02:49">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="psolnacamara" label="psolnacamara" start="2017-11-06T16:36:33" end="2017-11-06T16:36:33">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="brunenrik" label="brunenrik" start="2017-09-29T14:44:59" end="2017-09-29T14:44:59">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="marbrettas" label="marbrettas" start="2017-11-20T21:06:26" end="2017-11-20T21:06:26">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="digatudo" label="digatudo" start="2017-10-07T19:10:06" end="2017-10-07T19:10:06">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="sergionasc" label="sergionasc" start="2017-10-16T01:08:30" end="2017-10-16T01:08:30">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="artebrasileiros" label="artebrasileiros" start="2017-09-29T22:20:14" end="2017-09-29T22:20:14">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="edsonaran" label="edsonaran" start="2017-10-01T17:16:51" end="2017-10-01T18:44:14">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="gunnxz" label="gunnxz" start="2017-09-29T00:47:33" end="2017-09-29T00:47:33">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="phantonese" label="phantonese" start="2017-10-04T23:49:46" end="2017-10-04T23:49:46">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="saffirdf" label="saffirdf" start="2017-09-30T03:16:20" end="2017-09-30T03:16:20">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="abenfazeja" label="abenfazeja" start="2017-10-03T12:47:20" end="2017-10-03T12:47:20">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="fusivelnet" label="fusivelnet" start="2017-10-01T08:46:57" end="2017-10-01T08:46:57">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="juridicobritney" label="juridicobritney" start="2017-11-12T22:51:25" end="2017-11-12T22:51:25">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="opinista_social" label="opinista_social" start="2017-10-04T12:07:08" end="2017-10-05T15:47:30">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="tonidozanex" label="tonidozanex" start="2017-09-29T20:38:38" end="2017-09-29T20:38:38">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="arturteixeirass" label="arturteixeirass" start="2017-09-28T23:07:03" end="2017-09-28T23:07:03">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="idelmondes" label="idelmondes" start="2017-10-01T12:00:54" end="2017-10-01T12:00:54">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ferferrairo" label="ferferrairo" start="2017-10-02T04:39:15" end="2017-10-02T05:07:50">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="bibiskrebsky" label="bibiskrebsky" start="2017-09-30T02:21:11" end="2017-09-30T02:21:11">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="luciano198541" label="luciano198541" start="2017-11-09T22:15:54" end="2017-11-09T22:15:54">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="wemersonverde" label="wemersonverde" start="2017-10-12T03:38:19" end="2017-10-12T03:38:19">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ademirferreira" label="ademirferreira" start="2017-09-29T08:24:19" end="2017-09-29T08:24:19">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="nick_marcos_11" label="nick_marcos_11" start="2017-10-03T11:45:02" end="2017-10-03T11:45:02">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="sabbracadabra0" label="sabbracadabra0" start="2017-09-28T22:36:43" end="2017-09-28T22:36:43">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="stewedik" label="stewedik" start="2017-10-11T14:07:23" end="2017-10-11T14:07:23">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="soucalmo" label="soucalmo" start="2017-10-24T01:35:37" end="2017-10-24T01:35:37">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="rriccarddo" label="rriccarddo" start="2017-09-29T15:22:59" end="2017-09-29T15:22:59">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="y_mktlines" label="y_mktlines" start="2017-03-18T18:46:34" end="2017-03-18T18:46:34">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="lfrivabem" label="lfrivabem" start="2017-10-07T18:01:14" end="2017-10-07T18:01:14">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="mcesar1968" label="mcesar1968" start="2017-10-06T00:34:47" end="2017-10-06T00:34:47">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="wagnerpacheco_" label="wagnerpacheco_" start="2017-09-28T23:10:27" end="2017-09-28T23:10:27">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="artreview_" label="artreview_" start="2017-10-02T10:30:24" end="2017-10-02T10:30:24">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="gbrlgesteira" label="gbrlgesteira" start="2017-10-09T03:53:03" end="2017-10-09T03:53:03">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="felipe_1910" label="felipe_1910" start="2017-10-01T23:08:19" end="2017-10-01T23:08:19">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ph2017sp" label="ph2017sp" start="2017-10-08T04:59:15" end="2017-10-08T21:55:13">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="paulo_avelarbr" label="paulo_avelarbr" start="2017-10-11T23:57:35" end="2017-10-11T23:57:35">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="maizomenas" label="maizomenas" start="2017-11-11T17:39:56" end="2017-11-11T17:39:56">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="fatocerto" label="fatocerto" start="2017-10-07T02:12:14" end="2017-10-07T02:12:14">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="nietzscheasno" label="nietzscheasno" start="2017-10-19T23:40:27" end="2017-10-19T23:40:27">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="crisprodrigues" label="crisprodrigues" start="2017-10-02T11:47:58" end="2017-10-02T11:47:58">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="sandroborelli" label="sandroborelli" start="2017-10-05T11:53:59" end="2017-10-05T11:53:59">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="hericaquintao" label="hericaquintao" start="2017-10-10T17:10:31" end="2017-10-10T17:10:31">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="renedepaula" label="renedepaula" start="2017-03-17T23:15:18" end="2017-03-17T23:15:18">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="comigoestajesus" label="comigoestajesus" start="2017-11-06T19:09:48" end="2017-11-06T19:09:48">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="paulo7662" label="paulo7662" start="2017-10-15T20:27:46" end="2017-10-15T20:27:46">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="aliara_p" label="aliara_p" start="2017-09-29T15:18:00" end="2017-09-29T15:18:00">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="zaga_silos" label="zaga_silos" start="2017-11-09T19:04:54" end="2017-11-09T19:04:54">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="choracuica" label="choracuica" start="2017-09-28T22:57:38" end="2017-09-28T22:57:38">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="hdiiego" label="hdiiego" start="2017-09-30T19:51:54" end="2017-09-30T19:51:54">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="henrique_mendes" label="henrique_mendes" start="2017-10-24T08:33:48" end="2017-10-24T08:33:48">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="roluchsinger" label="roluchsinger" start="2017-09-30T19:58:23" end="2017-09-30T19:58:23">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="gijohndo" label="gijohndo" start="2017-07-06T21:12:45" end="2017-07-06T21:12:45">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="dprinceaurora" label="dprinceaurora" start="2017-10-13T00:28:16" end="2017-10-13T00:28:16">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="hecterossexual" label="hecterossexual" start="2017-10-16T13:02:40" end="2017-10-16T13:02:40">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="nanou9294" label="nanou9294" start="2017-08-01T22:36:12" end="2017-08-01T22:36:12">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="kiritsu79" label="kiritsu79" start="2017-10-01T20:05:05" end="2017-10-01T20:05:05">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ritaleeena" label="ritaleeena" start="2017-10-16T04:13:09" end="2017-10-16T04:13:09">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="zelandiaa" label="zelandiaa" start="2017-10-02T15:48:08" end="2017-10-02T15:48:08">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="fireinbomb_" label="fireinbomb_" start="2017-04-03T03:56:35" end="2017-04-03T03:56:35">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="denisearcoverde" label="denisearcoverde" start="2017-10-01T01:07:51" end="2017-10-01T01:07:51">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="lpandradee" label="lpandradee" start="2017-10-17T20:56:23" end="2017-10-17T20:56:23">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="dwmars" label="dwmars" start="2017-03-19T04:05:25" end="2017-03-19T04:05:25">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="nana_paes" label="nana_paes" start="2017-10-02T01:53:04" end="2017-10-02T01:53:04">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ryneuh" label="ryneuh" start="2017-07-11T20:39:47" end="2017-07-11T20:39:47">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="dufilhofilho" label="dufilhofilho" start="2017-10-04T10:06:50" end="2017-11-12T22:04:12">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="shalomuchiha" label="shalomuchiha" start="2017-10-04T14:41:50" end="2017-10-04T14:41:50">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="rgmurilo" label="rgmurilo" start="2017-09-29T16:54:31" end="2017-09-29T16:54:31">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="clebervg" label="clebervg" start="2017-10-02T15:31:55" end="2017-10-04T19:01:33">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="lauralimp" label="lauralimp" start="2017-10-05T03:41:36" end="2017-10-05T03:41:36">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="odatilografo" label="odatilografo" start="2017-10-01T23:21:06" end="2017-10-01T23:21:06">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="camila_jsv" label="camila_jsv" start="2017-11-14T15:04:27" end="2017-11-14T15:04:27">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="edilsonaguiais" label="edilsonaguiais" start="2017-12-03T14:25:46" end="2017-12-03T14:25:46">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="williamcl10" label="williamcl10" start="2017-11-01T23:51:31" end="2017-11-01T23:51:31">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="tbnnoticias1" label="tbnnoticias1" start="2017-10-02T14:35:41" end="2017-10-02T14:35:41">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="fabi_maranhao" label="fabi_maranhao" start="2017-10-03T21:53:29" end="2017-10-03T21:53:29">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="_rerossi" label="_rerossi" start="2017-10-06T14:24:32" end="2017-10-06T14:24:32">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="editoraboitempo" label="editoraboitempo" start="2017-10-19T12:43:38" end="2017-10-19T12:43:38">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="thiago26barros" label="thiago26barros" start="2017-10-05T09:31:00" end="2017-10-05T09:31:00">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jonathasmaresia" label="jonathasmaresia" start="2017-10-05T05:04:48" end="2017-10-05T05:04:48">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="liberalwyz" label="liberalwyz" start="2017-10-02T12:12:31" end="2017-10-10T00:51:51">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="tatianaraujo" label="tatianaraujo" start="2017-10-08T20:35:25" end="2017-10-08T20:36:49">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ze_carnica" label="ze_carnica" start="2017-10-31T16:06:03" end="2017-10-31T16:06:03">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jonchuuriki" label="jonchuuriki" start="2017-10-20T15:12:45" end="2017-10-20T15:12:45">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="walland3ux" label="walland3ux" start="2017-11-05T09:09:39" end="2017-11-05T09:09:39">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="cuuuuuhh" label="cuuuuuhh" start="2017-01-04T19:55:42" end="2017-01-04T19:55:42">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="revista_st_" label="revista_st_" start="2017-10-04T19:29:14" end="2017-10-04T19:29:14">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="tonyfjc" label="tonyfjc" start="2017-10-02T13:49:04" end="2017-10-02T13:49:04">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="andrelasak" label="andrelasak" start="2017-10-03T15:30:40" end="2017-10-03T15:30:40">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="glaubermatheus7" label="glaubermatheus7" start="2017-10-09T02:46:40" end="2017-10-09T02:46:40">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="silasfiorotti" label="silasfiorotti" start="2017-10-05T02:25:21" end="2017-10-08T17:20:10">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="belasein" label="belasein" start="2017-10-27T03:09:40" end="2017-10-27T03:09:40">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="michels_nat" label="michels_nat" start="2017-10-06T16:58:49" end="2017-10-06T16:58:49">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="marsolange" label="marsolange" start="2017-10-03T14:07:35" end="2017-10-03T14:07:35">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="cas_oliveira" label="cas_oliveira" start="2017-10-10T14:19:10" end="2017-10-10T14:19:10">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="nekoforov" label="nekoforov" start="2017-03-25T14:54:58" end="2017-03-25T14:54:58">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="votenowjb_" label="votenowjb_" start="2017-08-07T02:11:53" end="2017-08-07T02:11:53">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="portalampost" label="portalampost" start="2017-11-13T22:43:03" end="2017-11-13T22:43:03">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="vampadudu" label="vampadudu" start="2017-09-29T17:37:28" end="2017-09-29T17:37:28">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="filigrine" label="filigrine" start="2017-03-22T13:46:56" end="2017-03-22T13:46:56">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="antoniojunior28" label="antoniojunior28" start="2017-10-17T00:19:02" end="2017-10-17T00:19:02">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="juca_sampa" label="juca_sampa" start="2017-11-19T21:56:16" end="2017-11-19T21:56:16">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="dpaulocarvalho" label="dpaulocarvalho" start="2017-10-07T17:43:17" end="2017-10-07T17:43:17">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="codespoti" label="codespoti" start="2017-10-25T20:12:52" end="2017-10-25T20:12:52">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jcnpereira" label="jcnpereira" start="2017-11-06T09:35:59" end="2017-11-06T09:35:59">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="jhosybrasil" label="jhosybrasil" start="2017-10-01T03:36:41" end="2017-10-01T03:36:41">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="maurinhohonda" label="maurinhohonda" start="2017-10-01T19:12:43" end="2017-10-18T14:23:36">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="marcelomoraesbr" label="marcelomoraesbr" start="2017-09-29T19:47:18" end="2017-09-29T19:47:18">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="darcymramos1" label="darcymramos1" start="2017-10-17T17:12:54" end="2017-10-17T17:12:54">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="sylvainjustum" label="sylvainjustum" start="2017-10-03T22:18:16" end="2017-10-03T22:18:16">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="carlosroberiod2" label="carlosroberiod2" start="2017-11-06T13:16:25" end="2017-11-06T13:16:25">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="wilsonricardog3" label="wilsonricardog3" start="2017-09-29T13:53:03" end="2017-09-29T13:53:03">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="djsidneygomes" label="djsidneygomes" start="2017-10-10T21:15:06" end="2017-10-10T21:15:06">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="beringloss" label="beringloss" start="2017-10-28T19:40:43" end="2017-10-28T19:40:43">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="straub" label="straub" start="2017-10-10T12:45:34" end="2017-10-10T12:45:34">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="frsamp" label="frsamp" start="2017-10-05T17:06:33" end="2017-10-05T17:06:33">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="diego_s_silva" label="diego_s_silva" start="2017-11-07T20:55:44" end="2017-11-07T20:55:44">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="morenodan" label="morenodan" start="2017-10-01T15:05:39" end="2017-10-01T15:05:39">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="paidomotion" label="paidomotion" start="2017-10-14T12:36:47" end="2017-10-14T12:36:47">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="tonprans" label="tonprans" start="2017-09-30T04:52:24" end="2017-09-30T04:52:24">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="tool_lhao" label="tool_lhao" start="2017-10-04T01:03:21" end="2017-10-04T01:03:21">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="esthefanyconce3" label="esthefanyconce3" start="2017-07-04T22:55:02" end="2017-07-04T22:55:02">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="fernandoright" label="fernandoright" start="2017-10-04T18:05:15" end="2017-10-04T18:05:15">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="elizeurodri" label="elizeurodri" start="2017-10-04T13:41:05" end="2017-10-04T13:41:05">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="eualexo" label="eualexo" start="2017-10-03T19:04:45" end="2017-10-03T19:04:45">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="diegos13a" label="diegos13a" start="2017-09-28T23:21:03" end="2017-09-28T23:21:03">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="reginacamargo1" label="reginacamargo1" start="2017-09-30T07:22:20" end="2017-10-01T17:17:12">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="okaroleski" label="okaroleski" start="2017-09-30T01:12:26" end="2017-09-30T01:12:26">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="russogado" label="russogado" start="2017-09-29T01:50:52" end="2017-09-29T01:50:52">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="mau__mau__jr_19" label="mau__mau__jr_19" start="2017-12-29T01:07:12" end="2017-12-29T01:07:12">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="pussycrazyclub" label="pussycrazyclub" start="2017-11-20T12:30:15" end="2017-11-20T12:30:15">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ptribeirao" label="ptribeirao" start="2017-10-04T15:47:02" end="2017-11-11T15:39:50">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="danubiamag" label="danubiamag" start="2017-10-04T03:13:36" end="2017-10-04T03:13:36">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="cadelaceu" label="cadelaceu" start="2017-10-03T19:41:56" end="2017-10-03T19:41:56">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="esquilo_" label="esquilo_" start="2017-10-03T20:46:14" end="2017-10-03T20:46:14">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="cecidelua" label="cecidelua" start="2017-10-04T18:13:49" end="2017-10-04T18:13:49">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="bobhorcades" label="bobhorcades" start="2017-11-09T14:02:00" end="2017-11-09T14:02:00">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="gothchrist" label="gothchrist" start="2017-10-18T15:55:12" end="2017-10-18T15:55:12">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="cquestoes" label="cquestoes" start="2017-10-09T18:34:07" end="2017-10-09T18:34:07">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="mbeca" label="mbeca" start="2017-10-04T20:23:30" end="2017-10-04T20:23:30">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="aadriferrer" label="aadriferrer" start="2017-03-21T22:57:13" end="2017-03-21T22:57:13">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="isadoracamrg" label="isadoracamrg" start="2017-09-28T23:02:00" end="2017-09-28T23:02:00">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="games2002" label="games2002" start="2017-10-09T01:46:24" end="2017-10-09T01:46:24">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="ela_tvm" label="ela_tvm" start="2017-10-07T15:51:55" end="2017-10-07T15:51:55">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="adilsoncapel" label="adilsoncapel" start="2017-09-28T22:41:27" end="2017-10-01T00:25:14">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="_belmale" label="_belmale" start="2017-10-07T13:09:15" end="2017-10-07T13:09:15">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="juliafloress_" label="juliafloress_" start="2017-11-27T01:29:29" end="2017-11-27T01:29:29">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="andrepiaui" label="andrepiaui" start="2017-09-29T18:30:40" end="2017-09-29T18:30:40">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="beneditarodri11" label="beneditarodri11" start="2017-10-02T20:14:04" end="2017-10-02T20:14:04">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="kamisson" label="kamisson" start="2017-09-30T11:45:18" end="2017-09-30T11:45:18">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="matfsv" label="matfsv" start="2017-10-05T00:39:23" end="2017-10-05T00:39:23">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="lauraallici4" label="lauraallici4" start="2017-01-06T00:07:07" end="2017-01-06T00:07:07">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="hipo_crisinha" label="hipo_crisinha" start="2017-11-30T23:45:31" end="2017-12-01T05:22:43">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="veragimenez" label="veragimenez" start="2017-09-30T02:35:06" end="2017-09-30T02:35:06">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="cacopoeta" label="cacopoeta" start="2017-10-05T19:57:02" end="2017-10-05T19:57:02">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="matteii_" label="matteii_" start="2017-02-02T19:22:09" end="2017-02-02T19:22:09">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="0eduardoloiola0" label="0eduardoloiola0" start="2017-09-29T16:30:24" end="2017-09-29T16:30:24">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="drikaoquendo" label="drikaoquendo" start="2017-10-01T04:06:18" end="2017-10-01T04:06:18">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+      <node id="rbressane" label="rbressane" start="2017-10-02T15:16:33" end="2017-10-03T14:45:52">
+        <attvalues>
+          <attvalue for="0" value="defensor" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="virginiasousa" target="virginiasousa" id="0" weight="1" type="reply">
+        <spells>
+          <spell start="2017-09-29T20:26:01" end="2017-09-29T20:26:01" />
+        </spells>
+        <attvalues>
+          <attvalue for="1" value="defensor→defensor" />
+        </attvalues>
+      </edge>
+      <edge source="brunolunax" target="brunolunax" id="1" weight="1" type="reply">
+        <spells>
+          <spell start="2017-10-03T17:32:14" end="2017-10-03T17:32:14" />
+        </spells>
+        <attvalues>
+          <attvalue for="1" value="defensor→defensor" />
+        </attvalues>
+      </edge>
+      <edge source="warlordhy" target="warlordhy" id="2" weight="1" type="reply">
+        <spells>
+          <spell start="2017-11-08T16:34:34" end="2017-11-08T16:34:34" />
+        </spells>
+        <attvalues>
+          <attvalue for="1" value="defensor→defensor" />
+        </attvalues>
+      </edge>
+      <edge source="psolnacamara" target="psolnacamara" id="3" weight="2" type="reply">
+        <spells>
+          <spell start="2017-11-06T16:36:33" end="2017-11-06T16:36:33" />
+          <spell start="2017-11-06T16:36:33" end="2017-11-06T16:36:33" />
+        </spells>
+        <attvalues>
+          <attvalue for="1" value="defensor→defensor" />
+        </attvalues>
+      </edge>
+      <edge source="ferferrairo" target="ferferrairo" id="4" weight="1" type="reply">
+        <spells>
+          <spell start="2017-10-02T04:39:15" end="2017-10-02T04:39:15" />
+        </spells>
+        <attvalues>
+          <attvalue for="1" value="defensor→defensor" />
+        </attvalues>
+      </edge>
+      <edge source="clebervg" target="clebervg" id="5" weight="2" type="reply">
+        <spells>
+          <spell start="2017-10-04T19:01:33" end="2017-10-04T19:01:33" />
+          <spell start="2017-10-04T18:56:28" end="2017-10-04T18:56:28" />
+        </spells>
+        <attvalues>
+          <attvalue for="1" value="defensor→defensor" />
+        </attvalues>
+      </edge>
+      <edge source="tatianaraujo" target="midianinja" id="6" weight="2" type="reply">
+        <spells>
+          <spell start="2017-10-08T20:35:25" end="2017-10-08T20:35:25" />
+          <spell start="2017-10-08T20:35:25" end="2017-10-08T20:35:25" />
+        </spells>
+        <attvalues>
+          <attvalue for="1" value="defensor→defensor" />
+        </attvalues>
+      </edge>
+      <edge source="games2002" target="games2002" id="7" weight="1" type="reply">
+        <spells>
+          <spell start="2017-10-09T01:46:24" end="2017-10-09T01:46:24" />
+        </spells>
+        <attvalues>
+          <attvalue for="1" value="defensor→defensor" />
+        </attvalues>
+      </edge>
+      <edge source="matfsv" target="matfsv" id="8" weight="1" type="reply">
+        <spells>
+          <spell start="2017-10-05T00:39:23" end="2017-10-05T00:39:23" />
+        </spells>
+        <attvalues>
+          <attvalue for="1" value="defensor→defensor" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

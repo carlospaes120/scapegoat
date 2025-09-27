@@ -78,7 +78,7 @@ def extract_tweets_from_file(file_path):
         return []
 
 all_tweets = []
-raw_folder = Path("../data/raw/Monark")
+raw_folder = Path("../data/raw/karolconka")
 
 for file_path in raw_folder.glob("*.json"):
     print(f"🔍 Processing: {file_path.name}")
@@ -86,7 +86,7 @@ for file_path in raw_folder.glob("*.json"):
     all_tweets.extend(tweets)
 
 # Write to .jsonl
-output_path = Path("../data/raw/tweets_cleaned_monark.jsonl")
+output_path = Path("../data/raw/tweets_cleaned_karolconka.jsonl")
 with output_path.open("w", encoding="utf-8") as out:
     for tweet in all_tweets:
         json.dump(tweet, out, ensure_ascii=False)

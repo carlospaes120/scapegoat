@@ -1,7 +1,7 @@
 import os
 import json
 
-folder_path = "../data/raw"
+folder_path = "../data/raw/karolconka"
 total_items = 0
 
 for filename in os.listdir(folder_path):
