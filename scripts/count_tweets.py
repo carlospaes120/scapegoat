@@ -13,8 +13,10 @@ for filename in os.listdir(folder_path):
 
                 # If the file is a list of objects
                 for entry in records:
-                    item_count = entry.get("metadata", {}).get("item_count", 0)
+                    meta = entry.get("metadata", {})
+                    item_count = meta.get("item_count", meta.get("total_entries_in_response", 0))
                     total_items += item_count
+
 
         except Exception as e:
             print(f"Error reading {filename}: {e}")
