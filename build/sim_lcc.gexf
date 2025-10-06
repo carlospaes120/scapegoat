@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-21">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="54" label="54" />
+      <node id="125" label="125" />
+      <node id="84" label="84" />
+      <node id="29" label="29" />
+      <node id="133" label="133" />
+      <node id="33" label="33" />
+      <node id="2" label="2" />
+      <node id="24" label="24" />
+      <node id="101" label="101" />
+      <node id="135" label="135" />
+      <node id="71" label="71" />
+      <node id="48" label="48" />
+      <node id="28" label="28" />
+      <node id="38" label="38" />
+      <node id="96" label="96" />
+      <node id="57" label="57" />
+      <node id="50" label="50" />
+    </nodes>
+    <edges>
+      <edge source="54" target="2" id="0" weight="1.0" />
+      <edge source="54" target="71" id="1" weight="1.0" />
+      <edge source="54" target="133" id="2" weight="1.0" />
+      <edge source="125" target="50" id="3" weight="1.0" />
+      <edge source="125" target="57" id="4" weight="1.0" />
+      <edge source="125" target="28" id="5" weight="1.0" />
+      <edge source="125" target="135" id="6" weight="1.0" />
+      <edge source="84" target="28" id="7" weight="1.0" />
+      <edge source="29" target="101" id="8" weight="1.0" />
+      <edge source="33" target="48" id="9" weight="1.0" />
+      <edge source="2" target="101" id="10" weight="1.0" />
+      <edge source="2" target="135" id="11" weight="1.0" />
+      <edge source="24" target="71" id="12" weight="1.0" />
+      <edge source="71" target="48" id="13" weight="1.0" />
+      <edge source="38" target="50" id="14" weight="1.0" />
+      <edge source="38" target="96" id="15" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

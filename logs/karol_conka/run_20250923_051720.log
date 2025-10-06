@@ -1,0 +1,229 @@
+2025-09-23 05:17:20,070 - INFO - [📅] Processando 39 dias: 2021-01-25 → 2021-03-05
+2025-09-23 05:17:20,608 - INFO - [🏠] Going to Twitter homepage first...
+2025-09-23 05:17:28,878 - INFO - [📅] Processando dia 1/39: 2021-01-25
+2025-09-23 05:17:28,879 - INFO - [📅] Coletando dia: 2021-01-25 até 2021-01-26
+2025-09-23 05:17:28,880 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-01-25+until%3A2021-01-26&f=live&src=typed_query
+2025-09-23 05:17:37,881 - INFO - [✅] Timeline carregada para 2021-01-25
+2025-09-23 05:17:42,570 - INFO - [📊] Dia 2021-01-25 - Scroll 1: +21 novos tweets (Total dia: 21)
+2025-09-23 05:17:47,379 - INFO - [📊] Dia 2021-01-25 - Scroll 2: +30 novos tweets (Total dia: 51)
+2025-09-23 05:17:52,128 - INFO - [📊] Dia 2021-01-25 - Scroll 3: +28 novos tweets (Total dia: 79)
+2025-09-23 05:17:56,815 - INFO - [📊] Dia 2021-01-25 - Scroll 4: +26 novos tweets (Total dia: 105)
+2025-09-23 05:18:01,602 - INFO - [📊] Dia 2021-01-25 - Scroll 5: +29 novos tweets (Total dia: 134)
+2025-09-23 05:18:06,329 - INFO - [📊] Dia 2021-01-25 - Scroll 6: +23 novos tweets (Total dia: 157)
+2025-09-23 05:18:11,126 - INFO - [📊] Dia 2021-01-25 - Scroll 7: +36 novos tweets (Total dia: 193)
+2025-09-23 05:18:16,070 - INFO - [📊] Dia 2021-01-25 - Scroll 8: +34 novos tweets (Total dia: 227)
+2025-09-23 05:18:20,835 - INFO - [📊] Dia 2021-01-25 - Scroll 9: +27 novos tweets (Total dia: 254)
+2025-09-23 05:18:25,645 - INFO - [📊] Dia 2021-01-25 - Scroll 10: +30 novos tweets (Total dia: 284)
+2025-09-23 05:18:30,510 - INFO - [📊] Dia 2021-01-25 - Scroll 11: +43 novos tweets (Total dia: 327)
+2025-09-23 05:18:35,231 - INFO - [📊] Dia 2021-01-25 - Scroll 12: +36 novos tweets (Total dia: 363)
+2025-09-23 05:18:39,862 - INFO - [📊] Dia 2021-01-25 - Scroll 13: +14 novos tweets (Total dia: 377)
+2025-09-23 05:18:44,467 - INFO - [📊] Dia 2021-01-25 - Scroll 14: +0 novos tweets (Total dia: 377)
+2025-09-23 05:18:49,051 - INFO - [📊] Dia 2021-01-25 - Scroll 15: +0 novos tweets (Total dia: 377)
+2025-09-23 05:18:53,667 - INFO - [📊] Dia 2021-01-25 - Scroll 16: +0 novos tweets (Total dia: 377)
+2025-09-23 05:18:58,245 - INFO - [📊] Dia 2021-01-25 - Scroll 17: +0 novos tweets (Total dia: 377)
+2025-09-23 05:19:02,857 - INFO - [📊] Dia 2021-01-25 - Scroll 18: +0 novos tweets (Total dia: 377)
+2025-09-23 05:19:02,858 - INFO - [🛑] 10 scrolls sem novos tweets, parando dia 2021-01-25
+2025-09-23 05:19:02,859 - INFO - [✅] Dia 2021-01-25 finalizado: 377 tweets coletados
+2025-09-23 05:19:02,859 - INFO - [✅] Dia 2021-01-25 finalizado: 377 tweets únicos
+2025-09-23 05:19:02,859 - INFO - [📅] Processando dia 2/39: 2021-01-26
+2025-09-23 05:19:02,859 - INFO - [📅] Coletando dia: 2021-01-26 até 2021-01-27
+2025-09-23 05:19:02,859 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-01-26+until%3A2021-01-27&f=live&src=typed_query
+2025-09-23 05:19:11,524 - INFO - [✅] Timeline carregada para 2021-01-26
+2025-09-23 05:19:16,211 - INFO - [📊] Dia 2021-01-26 - Scroll 1: +26 novos tweets (Total dia: 26)
+2025-09-23 05:19:20,927 - INFO - [📊] Dia 2021-01-26 - Scroll 2: +32 novos tweets (Total dia: 58)
+2025-09-23 05:19:25,743 - INFO - [📊] Dia 2021-01-26 - Scroll 3: +40 novos tweets (Total dia: 98)
+2025-09-23 05:19:30,325 - INFO - [📊] Dia 2021-01-26 - Scroll 4: +0 novos tweets (Total dia: 98)
+2025-09-23 05:19:34,969 - INFO - [📊] Dia 2021-01-26 - Scroll 5: +0 novos tweets (Total dia: 98)
+2025-09-23 05:19:39,563 - INFO - [📊] Dia 2021-01-26 - Scroll 6: +0 novos tweets (Total dia: 98)
+2025-09-23 05:19:44,153 - INFO - [📊] Dia 2021-01-26 - Scroll 7: +0 novos tweets (Total dia: 98)
+2025-09-23 05:19:48,761 - INFO - [📊] Dia 2021-01-26 - Scroll 8: +0 novos tweets (Total dia: 98)
+2025-09-23 05:19:48,762 - INFO - [🛑] 10 scrolls sem novos tweets, parando dia 2021-01-26
+2025-09-23 05:19:48,762 - INFO - [✅] Dia 2021-01-26 finalizado: 98 tweets coletados
+2025-09-23 05:19:48,763 - INFO - [✅] Dia 2021-01-26 finalizado: 98 tweets únicos
+2025-09-23 05:19:48,763 - INFO - [📅] Processando dia 3/39: 2021-01-27
+2025-09-23 05:19:48,763 - INFO - [📅] Coletando dia: 2021-01-27 até 2021-01-28
+2025-09-23 05:19:48,763 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-01-27+until%3A2021-01-28&f=live&src=typed_query
+2025-09-23 05:20:07,369 - WARNING - [⚠️] Nenhum resultado imediato para 2021-01-27
+2025-09-23 05:20:07,369 - INFO - [✅] Dia 2021-01-27 finalizado: 0 tweets únicos
+2025-09-23 05:20:07,369 - INFO - [📅] Processando dia 4/39: 2021-01-28
+2025-09-23 05:20:07,369 - INFO - [📅] Coletando dia: 2021-01-28 até 2021-01-29
+2025-09-23 05:20:07,369 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-01-28+until%3A2021-01-29&f=live&src=typed_query
+2025-09-23 05:20:25,742 - WARNING - [⚠️] Nenhum resultado imediato para 2021-01-28
+2025-09-23 05:20:25,743 - INFO - [✅] Dia 2021-01-28 finalizado: 0 tweets únicos
+2025-09-23 05:20:25,744 - INFO - [📅] Processando dia 5/39: 2021-01-29
+2025-09-23 05:20:25,744 - INFO - [📅] Coletando dia: 2021-01-29 até 2021-01-30
+2025-09-23 05:20:25,745 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-01-29+until%3A2021-01-30&f=live&src=typed_query
+2025-09-23 05:20:44,168 - WARNING - [⚠️] Nenhum resultado imediato para 2021-01-29
+2025-09-23 05:20:44,168 - INFO - [✅] Dia 2021-01-29 finalizado: 0 tweets únicos
+2025-09-23 05:20:44,168 - INFO - [📅] Processando dia 6/39: 2021-01-30
+2025-09-23 05:20:44,168 - INFO - [📅] Coletando dia: 2021-01-30 até 2021-01-31
+2025-09-23 05:20:44,168 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-01-30+until%3A2021-01-31&f=live&src=typed_query
+2025-09-23 05:21:02,538 - WARNING - [⚠️] Nenhum resultado imediato para 2021-01-30
+2025-09-23 05:21:02,540 - INFO - [✅] Dia 2021-01-30 finalizado: 0 tweets únicos
+2025-09-23 05:21:02,541 - INFO - [📅] Processando dia 7/39: 2021-01-31
+2025-09-23 05:21:02,541 - INFO - [📅] Coletando dia: 2021-01-31 até 2021-02-01
+2025-09-23 05:21:02,542 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-01-31+until%3A2021-02-01&f=live&src=typed_query
+2025-09-23 05:21:20,908 - WARNING - [⚠️] Nenhum resultado imediato para 2021-01-31
+2025-09-23 05:21:20,908 - INFO - [✅] Dia 2021-01-31 finalizado: 0 tweets únicos
+2025-09-23 05:21:20,908 - INFO - [📅] Processando dia 8/39: 2021-02-01
+2025-09-23 05:21:20,908 - INFO - [📅] Coletando dia: 2021-02-01 até 2021-02-02
+2025-09-23 05:21:20,909 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-01+until%3A2021-02-02&f=live&src=typed_query
+2025-09-23 05:21:39,302 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-01
+2025-09-23 05:21:39,303 - INFO - [✅] Dia 2021-02-01 finalizado: 0 tweets únicos
+2025-09-23 05:21:39,304 - INFO - [📅] Processando dia 9/39: 2021-02-02
+2025-09-23 05:21:39,305 - INFO - [📅] Coletando dia: 2021-02-02 até 2021-02-03
+2025-09-23 05:21:39,306 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-02+until%3A2021-02-03&f=live&src=typed_query
+2025-09-23 05:21:57,683 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-02
+2025-09-23 05:21:57,683 - INFO - [✅] Dia 2021-02-02 finalizado: 0 tweets únicos
+2025-09-23 05:21:57,683 - INFO - [📅] Processando dia 10/39: 2021-02-03
+2025-09-23 05:21:57,683 - INFO - [📅] Coletando dia: 2021-02-03 até 2021-02-04
+2025-09-23 05:21:57,684 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-03+until%3A2021-02-04&f=live&src=typed_query
+2025-09-23 05:22:16,039 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-03
+2025-09-23 05:22:16,040 - INFO - [✅] Dia 2021-02-03 finalizado: 0 tweets únicos
+2025-09-23 05:22:16,041 - INFO - [📅] Processando dia 11/39: 2021-02-04
+2025-09-23 05:22:16,042 - INFO - [📅] Coletando dia: 2021-02-04 até 2021-02-05
+2025-09-23 05:22:16,042 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-04+until%3A2021-02-05&f=live&src=typed_query
+2025-09-23 05:22:34,480 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-04
+2025-09-23 05:22:34,481 - INFO - [✅] Dia 2021-02-04 finalizado: 0 tweets únicos
+2025-09-23 05:22:34,482 - INFO - [📅] Processando dia 12/39: 2021-02-05
+2025-09-23 05:22:34,483 - INFO - [📅] Coletando dia: 2021-02-05 até 2021-02-06
+2025-09-23 05:22:34,484 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-05+until%3A2021-02-06&f=live&src=typed_query
+2025-09-23 05:22:52,956 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-05
+2025-09-23 05:22:52,957 - INFO - [✅] Dia 2021-02-05 finalizado: 0 tweets únicos
+2025-09-23 05:22:52,957 - INFO - [📅] Processando dia 13/39: 2021-02-06
+2025-09-23 05:22:52,958 - INFO - [📅] Coletando dia: 2021-02-06 até 2021-02-07
+2025-09-23 05:22:52,958 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-06+until%3A2021-02-07&f=live&src=typed_query
+2025-09-23 05:23:11,346 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-06
+2025-09-23 05:23:11,347 - INFO - [✅] Dia 2021-02-06 finalizado: 0 tweets únicos
+2025-09-23 05:23:11,348 - INFO - [📅] Processando dia 14/39: 2021-02-07
+2025-09-23 05:23:11,349 - INFO - [📅] Coletando dia: 2021-02-07 até 2021-02-08
+2025-09-23 05:23:11,350 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-07+until%3A2021-02-08&f=live&src=typed_query
+2025-09-23 05:23:29,716 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-07
+2025-09-23 05:23:29,716 - INFO - [✅] Dia 2021-02-07 finalizado: 0 tweets únicos
+2025-09-23 05:23:29,717 - INFO - [📅] Processando dia 15/39: 2021-02-08
+2025-09-23 05:23:29,717 - INFO - [📅] Coletando dia: 2021-02-08 até 2021-02-09
+2025-09-23 05:23:29,717 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-08+until%3A2021-02-09&f=live&src=typed_query
+2025-09-23 05:23:48,099 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-08
+2025-09-23 05:23:48,101 - INFO - [✅] Dia 2021-02-08 finalizado: 0 tweets únicos
+2025-09-23 05:23:48,102 - INFO - [📅] Processando dia 16/39: 2021-02-09
+2025-09-23 05:23:48,103 - INFO - [📅] Coletando dia: 2021-02-09 até 2021-02-10
+2025-09-23 05:23:48,103 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-09+until%3A2021-02-10&f=live&src=typed_query
+2025-09-23 05:24:06,457 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-09
+2025-09-23 05:24:06,458 - INFO - [✅] Dia 2021-02-09 finalizado: 0 tweets únicos
+2025-09-23 05:24:06,459 - INFO - [📅] Processando dia 17/39: 2021-02-10
+2025-09-23 05:24:06,460 - INFO - [📅] Coletando dia: 2021-02-10 até 2021-02-11
+2025-09-23 05:24:06,460 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-10+until%3A2021-02-11&f=live&src=typed_query
+2025-09-23 05:24:24,833 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-10
+2025-09-23 05:24:24,834 - INFO - [✅] Dia 2021-02-10 finalizado: 0 tweets únicos
+2025-09-23 05:24:24,835 - INFO - [📅] Processando dia 18/39: 2021-02-11
+2025-09-23 05:24:24,835 - INFO - [📅] Coletando dia: 2021-02-11 até 2021-02-12
+2025-09-23 05:24:24,836 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-11+until%3A2021-02-12&f=live&src=typed_query
+2025-09-23 05:24:43,189 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-11
+2025-09-23 05:24:43,190 - INFO - [✅] Dia 2021-02-11 finalizado: 0 tweets únicos
+2025-09-23 05:24:43,191 - INFO - [📅] Processando dia 19/39: 2021-02-12
+2025-09-23 05:24:43,192 - INFO - [📅] Coletando dia: 2021-02-12 até 2021-02-13
+2025-09-23 05:24:43,192 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-12+until%3A2021-02-13&f=live&src=typed_query
+2025-09-23 05:25:01,592 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-12
+2025-09-23 05:25:01,593 - INFO - [✅] Dia 2021-02-12 finalizado: 0 tweets únicos
+2025-09-23 05:25:01,594 - INFO - [📅] Processando dia 20/39: 2021-02-13
+2025-09-23 05:25:01,595 - INFO - [📅] Coletando dia: 2021-02-13 até 2021-02-14
+2025-09-23 05:25:01,595 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-13+until%3A2021-02-14&f=live&src=typed_query
+2025-09-23 05:25:19,962 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-13
+2025-09-23 05:25:19,963 - INFO - [✅] Dia 2021-02-13 finalizado: 0 tweets únicos
+2025-09-23 05:25:19,964 - INFO - [📅] Processando dia 21/39: 2021-02-14
+2025-09-23 05:25:19,965 - INFO - [📅] Coletando dia: 2021-02-14 até 2021-02-15
+2025-09-23 05:25:19,965 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-14+until%3A2021-02-15&f=live&src=typed_query
+2025-09-23 05:25:38,328 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-14
+2025-09-23 05:25:38,329 - INFO - [✅] Dia 2021-02-14 finalizado: 0 tweets únicos
+2025-09-23 05:25:38,330 - INFO - [📅] Processando dia 22/39: 2021-02-15
+2025-09-23 05:25:38,331 - INFO - [📅] Coletando dia: 2021-02-15 até 2021-02-16
+2025-09-23 05:25:38,332 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-15+until%3A2021-02-16&f=live&src=typed_query
+2025-09-23 05:25:56,691 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-15
+2025-09-23 05:25:56,692 - INFO - [✅] Dia 2021-02-15 finalizado: 0 tweets únicos
+2025-09-23 05:25:56,692 - INFO - [📅] Processando dia 23/39: 2021-02-16
+2025-09-23 05:25:56,692 - INFO - [📅] Coletando dia: 2021-02-16 até 2021-02-17
+2025-09-23 05:25:56,693 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-16+until%3A2021-02-17&f=live&src=typed_query
+2025-09-23 05:26:15,056 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-16
+2025-09-23 05:26:15,056 - INFO - [✅] Dia 2021-02-16 finalizado: 0 tweets únicos
+2025-09-23 05:26:15,057 - INFO - [📅] Processando dia 24/39: 2021-02-17
+2025-09-23 05:26:15,057 - INFO - [📅] Coletando dia: 2021-02-17 até 2021-02-18
+2025-09-23 05:26:15,057 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-17+until%3A2021-02-18&f=live&src=typed_query
+2025-09-23 05:26:33,445 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-17
+2025-09-23 05:26:33,447 - INFO - [✅] Dia 2021-02-17 finalizado: 0 tweets únicos
+2025-09-23 05:26:33,447 - INFO - [📅] Processando dia 25/39: 2021-02-18
+2025-09-23 05:26:33,448 - INFO - [📅] Coletando dia: 2021-02-18 até 2021-02-19
+2025-09-23 05:26:33,449 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-18+until%3A2021-02-19&f=live&src=typed_query
+2025-09-23 05:26:51,820 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-18
+2025-09-23 05:26:51,821 - INFO - [✅] Dia 2021-02-18 finalizado: 0 tweets únicos
+2025-09-23 05:26:51,821 - INFO - [📅] Processando dia 26/39: 2021-02-19
+2025-09-23 05:26:51,821 - INFO - [📅] Coletando dia: 2021-02-19 até 2021-02-20
+2025-09-23 05:26:51,821 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-19+until%3A2021-02-20&f=live&src=typed_query
+2025-09-23 05:27:10,212 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-19
+2025-09-23 05:27:10,213 - INFO - [✅] Dia 2021-02-19 finalizado: 0 tweets únicos
+2025-09-23 05:27:10,214 - INFO - [📅] Processando dia 27/39: 2021-02-20
+2025-09-23 05:27:10,214 - INFO - [📅] Coletando dia: 2021-02-20 até 2021-02-21
+2025-09-23 05:27:10,215 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-20+until%3A2021-02-21&f=live&src=typed_query
+2025-09-23 05:27:28,560 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-20
+2025-09-23 05:27:28,561 - INFO - [✅] Dia 2021-02-20 finalizado: 0 tweets únicos
+2025-09-23 05:27:28,561 - INFO - [📅] Processando dia 28/39: 2021-02-21
+2025-09-23 05:27:28,561 - INFO - [📅] Coletando dia: 2021-02-21 até 2021-02-22
+2025-09-23 05:27:28,561 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-21+until%3A2021-02-22&f=live&src=typed_query
+2025-09-23 05:27:46,954 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-21
+2025-09-23 05:27:46,954 - INFO - [✅] Dia 2021-02-21 finalizado: 0 tweets únicos
+2025-09-23 05:27:46,954 - INFO - [📅] Processando dia 29/39: 2021-02-22
+2025-09-23 05:27:46,955 - INFO - [📅] Coletando dia: 2021-02-22 até 2021-02-23
+2025-09-23 05:27:46,955 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-22+until%3A2021-02-23&f=live&src=typed_query
+2025-09-23 05:28:05,381 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-22
+2025-09-23 05:28:05,381 - INFO - [✅] Dia 2021-02-22 finalizado: 0 tweets únicos
+2025-09-23 05:28:05,381 - INFO - [📅] Processando dia 30/39: 2021-02-23
+2025-09-23 05:28:05,381 - INFO - [📅] Coletando dia: 2021-02-23 até 2021-02-24
+2025-09-23 05:28:05,382 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-23+until%3A2021-02-24&f=live&src=typed_query
+2025-09-23 05:28:23,770 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-23
+2025-09-23 05:28:23,771 - INFO - [✅] Dia 2021-02-23 finalizado: 0 tweets únicos
+2025-09-23 05:28:23,771 - INFO - [📅] Processando dia 31/39: 2021-02-24
+2025-09-23 05:28:23,771 - INFO - [📅] Coletando dia: 2021-02-24 até 2021-02-25
+2025-09-23 05:28:23,771 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-24+until%3A2021-02-25&f=live&src=typed_query
+2025-09-23 05:28:42,172 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-24
+2025-09-23 05:28:42,173 - INFO - [✅] Dia 2021-02-24 finalizado: 0 tweets únicos
+2025-09-23 05:28:42,174 - INFO - [📅] Processando dia 32/39: 2021-02-25
+2025-09-23 05:28:42,174 - INFO - [📅] Coletando dia: 2021-02-25 até 2021-02-26
+2025-09-23 05:28:42,174 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-25+until%3A2021-02-26&f=live&src=typed_query
+2025-09-23 05:29:00,595 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-25
+2025-09-23 05:29:00,596 - INFO - [✅] Dia 2021-02-25 finalizado: 0 tweets únicos
+2025-09-23 05:29:00,597 - INFO - [📅] Processando dia 33/39: 2021-02-26
+2025-09-23 05:29:00,598 - INFO - [📅] Coletando dia: 2021-02-26 até 2021-02-27
+2025-09-23 05:29:00,599 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-26+until%3A2021-02-27&f=live&src=typed_query
+2025-09-23 05:29:18,970 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-26
+2025-09-23 05:29:18,971 - INFO - [✅] Dia 2021-02-26 finalizado: 0 tweets únicos
+2025-09-23 05:29:18,971 - INFO - [📅] Processando dia 34/39: 2021-02-27
+2025-09-23 05:29:18,971 - INFO - [📅] Coletando dia: 2021-02-27 até 2021-02-28
+2025-09-23 05:29:18,972 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-27+until%3A2021-02-28&f=live&src=typed_query
+2025-09-23 05:29:37,347 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-27
+2025-09-23 05:29:37,347 - INFO - [✅] Dia 2021-02-27 finalizado: 0 tweets únicos
+2025-09-23 05:29:37,347 - INFO - [📅] Processando dia 35/39: 2021-02-28
+2025-09-23 05:29:37,347 - INFO - [📅] Coletando dia: 2021-02-28 até 2021-03-01
+2025-09-23 05:29:37,348 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-02-28+until%3A2021-03-01&f=live&src=typed_query
+2025-09-23 05:29:55,723 - WARNING - [⚠️] Nenhum resultado imediato para 2021-02-28
+2025-09-23 05:29:55,723 - INFO - [✅] Dia 2021-02-28 finalizado: 0 tweets únicos
+2025-09-23 05:29:55,723 - INFO - [📅] Processando dia 36/39: 2021-03-01
+2025-09-23 05:29:55,724 - INFO - [📅] Coletando dia: 2021-03-01 até 2021-03-02
+2025-09-23 05:29:55,724 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-03-01+until%3A2021-03-02&f=live&src=typed_query
+2025-09-23 05:30:14,193 - WARNING - [⚠️] Nenhum resultado imediato para 2021-03-01
+2025-09-23 05:30:14,194 - INFO - [✅] Dia 2021-03-01 finalizado: 0 tweets únicos
+2025-09-23 05:30:14,194 - INFO - [📅] Processando dia 37/39: 2021-03-02
+2025-09-23 05:30:14,194 - INFO - [📅] Coletando dia: 2021-03-02 até 2021-03-03
+2025-09-23 05:30:14,195 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-03-02+until%3A2021-03-03&f=live&src=typed_query
+2025-09-23 05:30:32,590 - WARNING - [⚠️] Nenhum resultado imediato para 2021-03-02
+2025-09-23 05:30:32,591 - INFO - [✅] Dia 2021-03-02 finalizado: 0 tweets únicos
+2025-09-23 05:30:32,591 - INFO - [📅] Processando dia 38/39: 2021-03-03
+2025-09-23 05:30:32,592 - INFO - [📅] Coletando dia: 2021-03-03 até 2021-03-04
+2025-09-23 05:30:32,592 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-03-03+until%3A2021-03-04&f=live&src=typed_query
+2025-09-23 05:30:51,012 - WARNING - [⚠️] Nenhum resultado imediato para 2021-03-03
+2025-09-23 05:30:51,013 - INFO - [✅] Dia 2021-03-03 finalizado: 0 tweets únicos
+2025-09-23 05:30:51,013 - INFO - [📅] Processando dia 39/39: 2021-03-04
+2025-09-23 05:30:51,013 - INFO - [📅] Coletando dia: 2021-03-04 até 2021-03-05
+2025-09-23 05:30:51,013 - INFO - [🔗] URL: https://twitter.com/search?q=%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt+since%3A2021-03-04+until%3A2021-03-05&f=live&src=typed_query
+2025-09-23 05:31:09,458 - WARNING - [⚠️] Nenhum resultado imediato para 2021-03-04
+2025-09-23 05:31:09,458 - INFO - [✅] Dia 2021-03-04 finalizado: 0 tweets únicos
+2025-09-23 05:31:09,459 - INFO - [🚪] Coleta finalizada. Total: 475 tweets únicos
+2025-09-23 05:31:09,651 - INFO - [💾] Resultados salvos em: data/raw\karol_conka_2021-01-25_2021-03-05_20250923_053109.json

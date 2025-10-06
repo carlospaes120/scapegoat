@@ -1,212 +1,196 @@
-<<<<<<< HEAD
-## Pipeline NetLogo → Gephi (scapegoat roles)
+# Mimetics Metrics: Temporal Network Analysis Toolkit
 
-Este projeto cria um pipeline para transformar `events.csv` (exportado de uma simulação NetLogo) em artefatos prontos para o Gephi, incluindo rótulos dinâmicos de papéis (roles) inferidos na janela de pico.
+A comprehensive Python toolkit for analyzing temporal network metrics in directed, unweighted, unsigned graphs using sliding windows.
 
-### Instalação
+## 🚀 Features
+
+- **Comprehensive Metrics**: 20+ temporal network metrics including PageRank, betweenness centrality, community detection, and more
+- **Sliding Window Analysis**: Flexible temporal windowing with configurable size and step
+- **Community Detection**: Support for both Louvain and Leiden algorithms
+- **Burst Detection**: Advanced burst detection with onset and climax identification
+- **Visualization**: Rich plotting capabilities for all metrics
+- **CLI Interface**: Command-line tools for batch processing
+- **Dose-Response Analysis**: Statistical analysis of factor effects on network dynamics
+
+## 📦 Installation
+
+### Quick Install
 
 ```bash
-python -m venv .venv
-. .venv/bin/activate  # Windows PowerShell: .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 
-### Uso
+### Development Install
 
 ```bash
-python build_graph.py \
-  --in events.csv \
-  --outdir build \
-  --window 100 \
-  --leaders 3 \
-  --eps 0.2 \
-  --coattention-dt 0
+git clone https://github.com/your-repo/mimetics-metrics.git
+cd mimetics-metrics
+pip install -e .
 ```
 
-- **--in**: caminho para `events.csv` (obrigatório)
-- **--outdir**: diretório de saída (default: `build`)
-- **--window**: tamanho da janela (ticks) para detectar a janela de pico
-- **--leaders**: K do top-K por `out_strength` na janela de pico
-- **--eps**: peso para tentativas fracassadas no `viz_weight`
-- **--coattention-dt**: se > 0, exporta `edges_coattention.csv` (rede não-direcionada entre co-acusadores)
+### Optional Dependencies
 
-### Artefatos gerados (em `build/`)
-
-- `nodes.csv`: `id, role, betweenness, in_strength, out_strength, peak_window_start, peak_window_end`
-- `edges.csv`: `source, target, weight, attempts, successes, viz_weight`
-- `graph.gexf`: grafo dirigido com atributos acima
-- (opcional) `edges_coattention.csv`
-
-### Heurística de papéis (na janela de pico)
-
-- A janela de pico é a com maior número de eventos; empate: maior soma de `amount`.
-- **vítima (scapegoat)**: maior `net_in = in_strength − out_strength`, muitos fails como fonte; empate final por menor grau na janela.
-- **líder**: top-K por `out_strength` na janela; empate: betweenness/PageRank na rede agregada.
-- **acusador_falho**: nós (≠ líder, ≠ vítima) com `success=0` como fonte > 0.
-- **vítima_falhada (substituta)**: alvos diretos do scapegoat na janela e/ou nós com `in_strength` alto (percentil 75), excluindo scapegoat e líderes.
-- **neutro**: todos os demais.
-
-### Import no Gephi
-
-1. File → Open `build/graph.gexf`.
-2. Appearance → Partition: colorir por `role`.
-3. Appearance → Ranking: tamanho por `in_strength` ou `out_strength`.
-4. Layout → ForceAtlas2: habilitar LinLog Mode, Prevent Overlap. Edge Weight Influence ~ 1.0.
-5. Para mais densidade visual, use `viz_weight` como Weight no import.
-
-### Resumo impresso
-
-O script imprime: janela de pico, id da vítima (scapegoat), lista de líderes, contagem por role e nº de nós/arestas agregados.
-
-### Formato esperado de events.csv
-
-Colunas obrigatórias: `tick, source, target, success`. Coluna `amount` é opcional; se ausente, assume 1.0.
-
-### Patch de logging no NetLogo
-
-```netlogo
-extensions [ csv ]
-
-to setup
-  clear-all
-  file-close-all
-  file-delete "events.csv"
-  file-open "events.csv"
-  file-print csv:to-row ["tick" "source" "target" "success" "amount"]
-  file-close
-end
-
-to log-accusation [src tgt success? amount]
-  file-open "events.csv"
-  file-print csv:to-row (list ticks [who] of src [who] of tgt (ifelse-value success? [1] [0]) amount)
-  file-close
-end
-
-to attempt-transfer [tgt]
-  let amount 1
-  let success? (random-float 1 < prob-transfer)
-  ; ... atualiza estados/cores/tensão ...
-  log-accusation self tgt success? amount
-end
+For advanced features:
+```bash
+pip install leidenalg igraph
 ```
 
-### Desenvolvimento
+## 🚀 Quick Start
 
-- Código principal em `build_graph.py` com pandas/networkx.
-- Teste rápido em `tests/test_smoke.py` gera dados sintéticos e verifica artefatos.
+### 1. Prepare Your Data
 
-### Requisitos
+Your CSV file should contain at least these columns:
+- `src`: Source node ID
+- `dst`: Destination node ID  
+- `timestamp`: Interaction timestamp
 
-- Python 3.9+
-- `pandas`, `numpy`, `networkx`
-=======
-## Pipeline NetLogo → Gephi (scapegoat roles)
+Optional columns:
+- `label_skeptic`: Skeptic label (0/1)
+- `label_friendly`: Friendly label (0/1)
+- `case_id`: Case identifier
+- `victim_id`: Victim node ID
+- `leader_id`: Leader node ID
 
-Este projeto cria um pipeline para transformar `events.csv` (exportado de uma simulação NetLogo) em artefatos prontos para o Gephi, incluindo rótulos dinâmicos de papéis (roles) inferidos na janela de pico.
-
-### Instalação
+### 2. Compute Metrics
 
 ```bash
-python -m venv .venv
-. .venv/bin/activate  # Windows PowerShell: .venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+python -m mimetics_metrics.cli_compute --csv data.csv --window 6H --step 6H
 ```
 
-### Uso
+### 3. Create Plots
 
 ```bash
-python build_graph.py \
-  --in events.csv \
-  --outdir build \
-  --window 100 \
-  --leaders 3 \
-  --eps 0.2 \
-  --coattention-dt 0
+python -m mimetics_metrics.cli_plots --metrics results/metrics_by_window.csv --all-plots
 ```
 
-- **--in**: caminho para `events.csv` (obrigatório)
-- **--outdir**: diretório de saída (default: `build`)
-- **--window**: tamanho da janela (ticks) para detectar a janela de pico
-- **--leaders**: K do top-K por `out_strength` na janela de pico
-- **--eps**: peso para tentativas fracassadas no `viz_weight`
-- **--coattention-dt**: se > 0, exporta `edges_coattention.csv` (rede não-direcionada entre co-acusadores)
+## 📊 Metrics Overview
 
-### Artefatos gerados (em `build/`)
+### Burst Metrics
+- `peak_mean`: Mean activity level
+- `peak_median`: Median activity level
+- `onset_flag`: Whether onset was detected
+- `climax_flag`: Whether climax was detected
 
-- `nodes.csv`: `id, role, betweenness, in_strength, out_strength, peak_window_start, peak_window_end`
-- `edges.csv`: `source, target, weight, attempts, successes, viz_weight`
-- `graph.gexf`: grafo dirigido com atributos acima
-- (opcional) `edges_coattention.csv`
+### Reorganization Metrics
+- `topk_pr_share_k5`: Share of top-5 PageRank nodes
+- `topk_pr_share_k10`: Share of top-10 PageRank nodes
+- `betweenness_centralization`: Freeman betweenness centralization
+- `leader_pagerank`: PageRank of leader node
+- `leader_rank`: Rank of leader node
 
-### Heurística de papéis (na janela de pico)
+### Community Metrics
+- `nmi_next`: NMI with next window
+- `n_communities`: Number of communities
+- `modularity`: Modularity score
 
-- A janela de pico é a com maior número de eventos; empate: maior soma de `amount`.
-- **vítima (scapegoat)**: maior `net_in = in_strength − out_strength`, muitos fails como fonte; empate final por menor grau na janela.
-- **líder**: top-K por `out_strength` na janela; empate: betweenness/PageRank na rede agregada.
-- **acusador_falho**: nós (≠ líder, ≠ vítima) com `success=0` como fonte > 0.
-- **vítima_falhada (substituta)**: alvos diretos do scapegoat na janela e/ou nós com `in_strength` alto (percentil 75), excluindo scapegoat e líderes.
-- **neutro**: todos os demais.
+### Victim Isolation Metrics
+- `victim_reciprocity`: Number of reciprocal connections
+- `victim_scc_size`: Size of strongly connected component
+- `victim_ego_density`: Ego density of victim
+- `victim_inshare`: In-degree share of victim
+- `time_to_isolation`: Time to isolation
 
-### Import no Gephi
+### Network Structure Metrics
+- `n_nodes`: Number of nodes
+- `n_edges`: Number of edges
+- `density`: Graph density
+- `avg_path_len`: Average shortest path length
+- `eff_diameter`: Effective diameter
 
-1. File → Open `build/graph.gexf`.
-2. Appearance → Partition: colorir por `role`.
-3. Appearance → Ranking: tamanho por `in_strength` ou `out_strength`.
-4. Layout → ForceAtlas2: habilitar LinLog Mode, Prevent Overlap. Edge Weight Influence ~ 1.0.
-5. Para mais densidade visual, use `viz_weight` como Weight no import.
+## 🎯 Use Cases
 
-### Resumo impresso
+- **Social Network Analysis**: Study group dynamics and influence patterns
+- **Communication Networks**: Analyze information flow and burst patterns
+- **Organizational Networks**: Track leadership changes and community evolution
+- **Biological Networks**: Study protein interactions and regulatory networks
+- **Economic Networks**: Analyze trade relationships and market dynamics
 
-O script imprime: janela de pico, id da vítima (scapegoat), lista de líderes, contagem por role e nº de nós/arestas agregados.
+## 📈 Example Outputs
 
-### Formato esperado de events.csv
-
-Colunas obrigatórias: `tick, source, target, success`. Coluna `amount` é opcional; se ausente, assume 1.0.
-
-### Patch de logging no NetLogo
-
-```netlogo
-extensions [ csv ]
-
-to setup
-  clear-all
-  file-close-all
-  file-delete "events.csv"
-  file-open "events.csv"
-  file-print csv:to-row ["tick" "source" "target" "success" "amount"]
-  file-close
-end
-
-to log-accusation [src tgt success? amount]
-  file-open "events.csv"
-  file-print csv:to-row (list ticks [who] of src [who] of tgt (ifelse-value success? [1] [0]) amount)
-  file-close
-end
-
-to attempt-transfer [tgt]
-  let amount 1
-  let success? (random-float 1 < prob-transfer)
-  ; ... atualiza estados/cores/tensão ...
-  log-accusation self tgt success? amount
-end
+### Metrics File
+```csv
+t_start,t_end,n_nodes,n_edges,density,peak_mean,peak_median,onset_flag,climax_flag,...
+2023-01-01T00:00:00,2023-01-01T06:00:00,10,15,0.167,12.5,11.0,False,False,...
+2023-01-01T06:00:00,2023-01-01T12:00:00,12,18,0.136,15.2,14.0,True,False,...
 ```
 
-### Desenvolvimento
+### Generated Plots
+- `burst_series.png`: Activity levels with onset/climax markers
+- `topk_centralization.png`: Influence concentration over time
+- `nmi_series.png`: Community stability (NMI scores)
+- `isolation_victim.png`: Victim isolation metrics
+- `dose_response_skeptics.png`: Skeptic effect analysis
+- `dose_response_friendly.png`: Friendly node effect analysis
+- `residual_panel.png`: Post-ritual residual analysis
 
-- Código principal em `build_graph.py` com pandas/networkx.
-- Teste rápido em `tests/test_smoke.py` gera dados sintéticos e verifica artefatos.
+## 🔧 Advanced Usage
 
-### Requisitos
+### Multiple Case Analysis
 
-- Python 3.9+
-- `pandas`, `numpy`, `networkx`
->>>>>>> fcecce7 (chore: init pipeline (convert_events + build_graph))
+```bash
+python -m mimetics_metrics.cli_compute \
+    --csv data.csv \
+    --case-col case_id \
+    --victim-file victims.csv \
+    --skeptic-file skeptics.csv
+```
 
+### Large Graph Optimization
 
+```bash
+python -m mimetics_metrics.cli_compute \
+    --csv data.csv \
+    --approx-betweenness 1000 \
+    --outdir results/
+```
 
+### Custom Window Sizes
 
+```bash
+# 1-hour windows with 30-minute steps
+python -m mimetics_metrics.cli_compute \
+    --csv data.csv \
+    --window 1H \
+    --step 30M \
+    --outdir results/
+```
 
+## 📚 Documentation
 
+- [README](mimetics_metrics/docs/README.md): Complete overview and installation
+- [METRICS](mimetics_metrics/docs/METRICS.md): Detailed metric definitions and formulas
+- [USAGE](mimetics_metrics/docs/USAGE.md): Comprehensive usage guide and examples
 
+## 🧪 Testing
 
+Run the test suite:
 
+```bash
+python -m pytest mimetics_metrics/tests/
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please see the contributing guidelines for details.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 📞 Support
+
+For questions and support:
+- Create an issue on GitHub
+- Check the documentation
+- Review the examples
+
+## 🙏 Acknowledgments
+
+- NetworkX community for graph algorithms
+- Scikit-learn for machine learning utilities
+- Matplotlib for visualization capabilities
+- The open-source community for inspiration and tools
+
+---
+
+**Mimetics Metrics**: Unlock the dynamics of temporal networks with comprehensive analysis and visualization tools.

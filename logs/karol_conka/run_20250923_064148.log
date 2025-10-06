@@ -1,0 +1,355 @@
+2025-09-23 06:41:48,065 - INFO - [📅] Processando 39 dias: 2021-01-25 → 2021-03-05
+2025-09-23 06:41:48,503 - INFO - [🏠] Going to Twitter homepage first...
+2025-09-23 06:41:53,568 - INFO - [▶] Dia 2021-01-25 → 2021-01-26 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:41:53,568 - INFO - [🔄] Tentativa 1/3 para dia 2021-01-25
+2025-09-23 06:41:53,569 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:41:53,569 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-25+until%3A2021-01-26+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:07,441 - INFO - [✅] Timeline carregada para 2021-01-25
+2025-09-23 06:42:07,456 - WARNING - [⚠️] Página problemática detectada: Erro detectado: something went wrong
+2025-09-23 06:42:07,456 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:42:23,876 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:42:23,948 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:42:23,948 - INFO - [🔄] Tentativa 2/3 para dia 2021-01-25
+2025-09-23 06:42:23,948 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:42:23,949 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-25+until%3A2021-01-26+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:23,950 - ERROR - [❌] Erro ao coletar dia 2021-01-25: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:23,950 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:42:28,458 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:42:28,464 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:42:28,470 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:42:28,470 - INFO - [🔄] Tentativa 3/3 para dia 2021-01-25
+2025-09-23 06:42:28,470 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:42:28,470 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-25+until%3A2021-01-26+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:28,472 - ERROR - [❌] Erro ao coletar dia 2021-01-25: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:28,472 - WARNING - [⚠️] Dia 2021-01-25 sem resultados após 3 tentativas
+2025-09-23 06:42:28,472 - INFO - [✅] Dia 2021-01-25 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:42:28,472 - INFO - [▶] Próximo: 2021-01-26
+2025-09-23 06:42:28,473 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-01-25.json
+2025-09-23 06:42:28,473 - INFO - [📊] Distribuição por data: {'2021-01-25': 0}
+2025-09-23 06:42:28,473 - INFO - [▶] Dia 2021-01-26 → 2021-01-27 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:42:28,473 - INFO - [🔄] Tentativa 1/3 para dia 2021-01-26
+2025-09-23 06:42:28,473 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:42:28,474 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-26+until%3A2021-01-27+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:28,474 - ERROR - [❌] Erro ao coletar dia 2021-01-26: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:28,475 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:42:31,482 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:42:31,489 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:42:31,498 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:42:31,498 - INFO - [🔄] Tentativa 2/3 para dia 2021-01-26
+2025-09-23 06:42:31,498 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:42:31,499 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-26+until%3A2021-01-27+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:31,501 - ERROR - [❌] Erro ao coletar dia 2021-01-26: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:31,501 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:42:36,009 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:42:36,016 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:42:36,022 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:42:36,022 - INFO - [🔄] Tentativa 3/3 para dia 2021-01-26
+2025-09-23 06:42:36,023 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:42:36,023 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-26+until%3A2021-01-27+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:36,025 - ERROR - [❌] Erro ao coletar dia 2021-01-26: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:36,026 - WARNING - [⚠️] Dia 2021-01-26 sem resultados após 3 tentativas
+2025-09-23 06:42:36,026 - INFO - [✅] Dia 2021-01-26 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:42:36,026 - INFO - [▶] Próximo: 2021-01-27
+2025-09-23 06:42:36,027 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-01-26.json
+2025-09-23 06:42:36,028 - INFO - [📊] Distribuição por data: {'2021-01-26': 0}
+2025-09-23 06:42:36,028 - WARNING - [⚠️] Dois dias sem progresso; aumentando tolerância (stale-scrolls += 5)
+2025-09-23 06:42:36,028 - INFO - [▶] Dia 2021-01-27 → 2021-01-28 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:42:36,028 - INFO - [🔄] Tentativa 1/3 para dia 2021-01-27
+2025-09-23 06:42:36,029 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:42:36,029 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-27+until%3A2021-01-28+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:36,031 - ERROR - [❌] Erro ao coletar dia 2021-01-27: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:36,031 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:42:39,036 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:42:39,038 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:42:39,043 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:42:39,043 - INFO - [🔄] Tentativa 2/3 para dia 2021-01-27
+2025-09-23 06:42:39,043 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:42:39,043 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-27+until%3A2021-01-28+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:39,044 - ERROR - [❌] Erro ao coletar dia 2021-01-27: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:39,044 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:42:43,553 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:42:43,558 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:42:43,564 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:42:43,565 - INFO - [🔄] Tentativa 3/3 para dia 2021-01-27
+2025-09-23 06:42:43,565 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:42:43,565 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-27+until%3A2021-01-28+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:43,567 - ERROR - [❌] Erro ao coletar dia 2021-01-27: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:43,568 - WARNING - [⚠️] Dia 2021-01-27 sem resultados após 3 tentativas
+2025-09-23 06:42:43,568 - INFO - [✅] Dia 2021-01-27 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:42:43,568 - INFO - [▶] Próximo: 2021-01-28
+2025-09-23 06:42:43,569 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-01-27.json
+2025-09-23 06:42:43,569 - INFO - [📊] Distribuição por data: {'2021-01-27': 0}
+2025-09-23 06:42:43,569 - INFO - [▶] Dia 2021-01-28 → 2021-01-29 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:42:43,569 - INFO - [🔄] Tentativa 1/3 para dia 2021-01-28
+2025-09-23 06:42:43,569 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:42:43,570 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-28+until%3A2021-01-29+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:43,571 - ERROR - [❌] Erro ao coletar dia 2021-01-28: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:43,571 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:42:46,577 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:42:46,584 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:42:46,591 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:42:46,592 - INFO - [🔄] Tentativa 2/3 para dia 2021-01-28
+2025-09-23 06:42:46,592 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:42:46,592 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-28+until%3A2021-01-29+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:46,595 - ERROR - [❌] Erro ao coletar dia 2021-01-28: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:46,595 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:42:51,098 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:42:51,102 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:42:51,105 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:42:51,105 - INFO - [🔄] Tentativa 3/3 para dia 2021-01-28
+2025-09-23 06:42:51,106 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:42:51,106 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-28+until%3A2021-01-29+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:51,107 - ERROR - [❌] Erro ao coletar dia 2021-01-28: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:51,108 - WARNING - [⚠️] Dia 2021-01-28 sem resultados após 3 tentativas
+2025-09-23 06:42:51,108 - INFO - [✅] Dia 2021-01-28 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:42:51,108 - INFO - [▶] Próximo: 2021-01-29
+2025-09-23 06:42:51,109 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-01-28.json
+2025-09-23 06:42:51,109 - INFO - [📊] Distribuição por data: {'2021-01-28': 0}
+2025-09-23 06:42:51,109 - INFO - [▶] Dia 2021-01-29 → 2021-01-30 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:42:51,109 - INFO - [🔄] Tentativa 1/3 para dia 2021-01-29
+2025-09-23 06:42:51,109 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:42:51,109 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-29+until%3A2021-01-30+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:51,111 - ERROR - [❌] Erro ao coletar dia 2021-01-29: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:51,111 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:42:54,118 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:42:54,123 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:42:54,128 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:42:54,128 - INFO - [🔄] Tentativa 2/3 para dia 2021-01-29
+2025-09-23 06:42:54,128 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:42:54,129 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-29+until%3A2021-01-30+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:54,131 - ERROR - [❌] Erro ao coletar dia 2021-01-29: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:54,131 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:42:58,639 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:42:58,643 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:42:58,650 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:42:58,650 - INFO - [🔄] Tentativa 3/3 para dia 2021-01-29
+2025-09-23 06:42:58,651 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:42:58,651 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-29+until%3A2021-01-30+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:58,656 - ERROR - [❌] Erro ao coletar dia 2021-01-29: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:58,656 - WARNING - [⚠️] Dia 2021-01-29 sem resultados após 3 tentativas
+2025-09-23 06:42:58,656 - INFO - [✅] Dia 2021-01-29 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:42:58,656 - INFO - [▶] Próximo: 2021-01-30
+2025-09-23 06:42:58,657 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-01-29.json
+2025-09-23 06:42:58,657 - INFO - [📊] Distribuição por data: {'2021-01-29': 0}
+2025-09-23 06:42:58,657 - INFO - [▶] Dia 2021-01-30 → 2021-01-31 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:42:58,658 - INFO - [🔄] Tentativa 1/3 para dia 2021-01-30
+2025-09-23 06:42:58,658 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:42:58,658 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-30+until%3A2021-01-31+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:42:58,659 - ERROR - [❌] Erro ao coletar dia 2021-01-30: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:42:58,659 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:01,663 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:01,666 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:01,670 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:01,671 - INFO - [🔄] Tentativa 2/3 para dia 2021-01-30
+2025-09-23 06:43:01,671 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:43:01,671 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-30+until%3A2021-01-31+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:01,673 - ERROR - [❌] Erro ao coletar dia 2021-01-30: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:01,673 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:06,181 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:06,186 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:06,192 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:06,192 - INFO - [🔄] Tentativa 3/3 para dia 2021-01-30
+2025-09-23 06:43:06,192 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:43:06,192 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-30+until%3A2021-01-31+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:06,194 - ERROR - [❌] Erro ao coletar dia 2021-01-30: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:06,194 - WARNING - [⚠️] Dia 2021-01-30 sem resultados após 3 tentativas
+2025-09-23 06:43:06,194 - INFO - [✅] Dia 2021-01-30 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:43:06,194 - INFO - [▶] Próximo: 2021-01-31
+2025-09-23 06:43:06,195 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-01-30.json
+2025-09-23 06:43:06,195 - INFO - [📊] Distribuição por data: {'2021-01-30': 0}
+2025-09-23 06:43:06,195 - INFO - [▶] Dia 2021-01-31 → 2021-02-01 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:43:06,195 - INFO - [🔄] Tentativa 1/3 para dia 2021-01-31
+2025-09-23 06:43:06,195 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:43:06,195 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-31+until%3A2021-02-01+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:06,196 - ERROR - [❌] Erro ao coletar dia 2021-01-31: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:06,197 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:09,203 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:09,207 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:09,213 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:09,213 - INFO - [🔄] Tentativa 2/3 para dia 2021-01-31
+2025-09-23 06:43:09,214 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:43:09,214 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-31+until%3A2021-02-01+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:09,215 - ERROR - [❌] Erro ao coletar dia 2021-01-31: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:09,216 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:13,718 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:13,720 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:13,724 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:13,724 - INFO - [🔄] Tentativa 3/3 para dia 2021-01-31
+2025-09-23 06:43:13,724 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:43:13,724 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-31+until%3A2021-02-01+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:13,726 - ERROR - [❌] Erro ao coletar dia 2021-01-31: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:13,727 - WARNING - [⚠️] Dia 2021-01-31 sem resultados após 3 tentativas
+2025-09-23 06:43:13,727 - INFO - [✅] Dia 2021-01-31 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:43:13,727 - INFO - [▶] Próximo: 2021-02-01
+2025-09-23 06:43:13,728 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-01-31.json
+2025-09-23 06:43:13,728 - INFO - [📊] Distribuição por data: {'2021-01-31': 0}
+2025-09-23 06:43:13,729 - INFO - [▶] Dia 2021-02-01 → 2021-02-02 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:43:13,729 - INFO - [🔄] Tentativa 1/3 para dia 2021-02-01
+2025-09-23 06:43:13,729 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:43:13,729 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-01+until%3A2021-02-02+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:13,731 - ERROR - [❌] Erro ao coletar dia 2021-02-01: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:13,731 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:16,740 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:16,745 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:16,751 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:16,751 - INFO - [🔄] Tentativa 2/3 para dia 2021-02-01
+2025-09-23 06:43:16,751 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:43:16,752 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-01+until%3A2021-02-02+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:16,753 - ERROR - [❌] Erro ao coletar dia 2021-02-01: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:16,753 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:21,259 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:21,263 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:21,268 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:21,269 - INFO - [🔄] Tentativa 3/3 para dia 2021-02-01
+2025-09-23 06:43:21,269 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:43:21,269 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-01+until%3A2021-02-02+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:21,271 - ERROR - [❌] Erro ao coletar dia 2021-02-01: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:21,271 - WARNING - [⚠️] Dia 2021-02-01 sem resultados após 3 tentativas
+2025-09-23 06:43:21,271 - INFO - [✅] Dia 2021-02-01 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:43:21,272 - INFO - [▶] Próximo: 2021-02-02
+2025-09-23 06:43:21,273 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-02-01.json
+2025-09-23 06:43:21,273 - INFO - [📊] Distribuição por data: {'2021-02-01': 0}
+2025-09-23 06:43:21,273 - INFO - [▶] Dia 2021-02-02 → 2021-02-03 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:43:21,273 - INFO - [🔄] Tentativa 1/3 para dia 2021-02-02
+2025-09-23 06:43:21,273 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:43:21,273 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-02+until%3A2021-02-03+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:21,275 - ERROR - [❌] Erro ao coletar dia 2021-02-02: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:21,275 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:24,278 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:24,281 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:24,285 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:24,286 - INFO - [🔄] Tentativa 2/3 para dia 2021-02-02
+2025-09-23 06:43:24,286 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:43:24,287 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-02+until%3A2021-02-03+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:24,289 - ERROR - [❌] Erro ao coletar dia 2021-02-02: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:24,289 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:28,794 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:28,797 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:28,803 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:28,803 - INFO - [🔄] Tentativa 3/3 para dia 2021-02-02
+2025-09-23 06:43:28,803 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:43:28,804 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-02+until%3A2021-02-03+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:28,806 - ERROR - [❌] Erro ao coletar dia 2021-02-02: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:28,806 - WARNING - [⚠️] Dia 2021-02-02 sem resultados após 3 tentativas
+2025-09-23 06:43:28,806 - INFO - [✅] Dia 2021-02-02 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:43:28,807 - INFO - [▶] Próximo: 2021-02-03
+2025-09-23 06:43:28,808 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-02-02.json
+2025-09-23 06:43:28,808 - INFO - [📊] Distribuição por data: {'2021-02-02': 0}
+2025-09-23 06:43:28,808 - INFO - [▶] Dia 2021-02-03 → 2021-02-04 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:43:28,809 - INFO - [🔄] Tentativa 1/3 para dia 2021-02-03
+2025-09-23 06:43:28,809 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:43:28,809 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-03+until%3A2021-02-04+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:28,810 - ERROR - [❌] Erro ao coletar dia 2021-02-03: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:28,811 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:31,812 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:31,814 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:31,818 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:31,818 - INFO - [🔄] Tentativa 2/3 para dia 2021-02-03
+2025-09-23 06:43:31,819 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:43:31,819 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-03+until%3A2021-02-04+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:31,821 - ERROR - [❌] Erro ao coletar dia 2021-02-03: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:31,821 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:36,328 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:36,332 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:36,335 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:36,336 - INFO - [🔄] Tentativa 3/3 para dia 2021-02-03
+2025-09-23 06:43:36,336 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:43:36,336 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-03+until%3A2021-02-04+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:36,338 - ERROR - [❌] Erro ao coletar dia 2021-02-03: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:36,338 - WARNING - [⚠️] Dia 2021-02-03 sem resultados após 3 tentativas
+2025-09-23 06:43:36,338 - INFO - [✅] Dia 2021-02-03 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:43:36,338 - INFO - [▶] Próximo: 2021-02-04
+2025-09-23 06:43:36,339 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-02-03.json
+2025-09-23 06:43:36,339 - INFO - [📊] Distribuição por data: {'2021-02-03': 0}
+2025-09-23 06:43:36,339 - INFO - [▶] Dia 2021-02-04 → 2021-02-05 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:43:36,339 - INFO - [🔄] Tentativa 1/3 para dia 2021-02-04
+2025-09-23 06:43:36,340 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:43:36,340 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-04+until%3A2021-02-05+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:36,341 - ERROR - [❌] Erro ao coletar dia 2021-02-04: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:36,341 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:39,348 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:39,352 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:39,359 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:39,360 - INFO - [🔄] Tentativa 2/3 para dia 2021-02-04
+2025-09-23 06:43:39,361 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:43:39,361 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-04+until%3A2021-02-05+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:39,364 - ERROR - [❌] Erro ao coletar dia 2021-02-04: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:39,365 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:43,873 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:43,879 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:43,885 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:43,885 - INFO - [🔄] Tentativa 3/3 para dia 2021-02-04
+2025-09-23 06:43:43,886 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:43:43,886 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-04+until%3A2021-02-05+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:43,888 - ERROR - [❌] Erro ao coletar dia 2021-02-04: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:43,888 - WARNING - [⚠️] Dia 2021-02-04 sem resultados após 3 tentativas
+2025-09-23 06:43:43,889 - INFO - [✅] Dia 2021-02-04 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:43:43,889 - INFO - [▶] Próximo: 2021-02-05
+2025-09-23 06:43:43,890 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-02-04.json
+2025-09-23 06:43:43,890 - INFO - [📊] Distribuição por data: {'2021-02-04': 0}
+2025-09-23 06:43:43,890 - INFO - [▶] Dia 2021-02-05 → 2021-02-06 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:43:43,890 - INFO - [🔄] Tentativa 1/3 para dia 2021-02-05
+2025-09-23 06:43:43,891 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:43:43,891 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-05+until%3A2021-02-06+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:43,892 - ERROR - [❌] Erro ao coletar dia 2021-02-05: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:43,892 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:46,894 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:46,895 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:46,898 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:46,898 - INFO - [🔄] Tentativa 2/3 para dia 2021-02-05
+2025-09-23 06:43:46,898 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:43:46,898 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-05+until%3A2021-02-06+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:46,899 - ERROR - [❌] Erro ao coletar dia 2021-02-05: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:46,899 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:51,404 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:51,407 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:51,413 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:51,413 - INFO - [🔄] Tentativa 3/3 para dia 2021-02-05
+2025-09-23 06:43:51,413 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:43:51,414 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-05+until%3A2021-02-06+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:51,415 - ERROR - [❌] Erro ao coletar dia 2021-02-05: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:51,415 - WARNING - [⚠️] Dia 2021-02-05 sem resultados após 3 tentativas
+2025-09-23 06:43:51,416 - INFO - [✅] Dia 2021-02-05 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:43:51,416 - INFO - [▶] Próximo: 2021-02-06
+2025-09-23 06:43:51,417 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-02-05.json
+2025-09-23 06:43:51,417 - INFO - [📊] Distribuição por data: {'2021-02-05': 0}
+2025-09-23 06:43:51,417 - INFO - [▶] Dia 2021-02-06 → 2021-02-07 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:43:51,417 - INFO - [🔄] Tentativa 1/3 para dia 2021-02-06
+2025-09-23 06:43:51,418 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:43:51,418 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-06+until%3A2021-02-07+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:51,419 - ERROR - [❌] Erro ao coletar dia 2021-02-06: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:51,419 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:54,423 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:54,427 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:54,433 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:54,433 - INFO - [🔄] Tentativa 2/3 para dia 2021-02-06
+2025-09-23 06:43:54,433 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:43:54,434 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-06+until%3A2021-02-07+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:54,436 - ERROR - [❌] Erro ao coletar dia 2021-02-06: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:54,437 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:43:58,939 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:43:58,941 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:43:58,944 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:43:58,944 - INFO - [🔄] Tentativa 3/3 para dia 2021-02-06
+2025-09-23 06:43:58,944 - INFO - [⏱️] Sleep ajustado para: 3.38s
+2025-09-23 06:43:58,944 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-06+until%3A2021-02-07+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:58,947 - ERROR - [❌] Erro ao coletar dia 2021-02-06: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:58,947 - WARNING - [⚠️] Dia 2021-02-06 sem resultados após 3 tentativas
+2025-09-23 06:43:58,947 - INFO - [✅] Dia 2021-02-06 concluído | novos no dia: 0 | total único acumulado: 0
+2025-09-23 06:43:58,947 - INFO - [▶] Próximo: 2021-02-07
+2025-09-23 06:43:58,948 - INFO - [📁] Arquivo diário salvo: data/raw\karol_conka\daily\2021-02-06.json
+2025-09-23 06:43:58,948 - INFO - [📊] Distribuição por data: {'2021-02-06': 0}
+2025-09-23 06:43:58,948 - INFO - [▶] Dia 2021-02-07 → 2021-02-08 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:43:58,948 - INFO - [🔄] Tentativa 1/3 para dia 2021-02-07
+2025-09-23 06:43:58,948 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:43:58,949 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-07+until%3A2021-02-08+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:43:58,950 - ERROR - [❌] Erro ao coletar dia 2021-02-07: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:43:58,950 - INFO - [🔄] Tentando recuperar...
+2025-09-23 06:44:01,955 - WARNING - [⚠️] Erro no reload: Page.reload: Target page, context or browser has been closed
+2025-09-23 06:44:01,957 - WARNING - [🔄] Reiniciando browser...
+2025-09-23 06:44:01,961 - ERROR - [❌] Erro ao reiniciar browser: BrowserContext.new_page: Target page, context or browser has been closed
+2025-09-23 06:44:01,961 - INFO - [🔄] Tentativa 2/3 para dia 2021-02-07
+2025-09-23 06:44:01,961 - INFO - [⏱️] Sleep ajustado para: 2.25s
+2025-09-23 06:44:01,961 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-02-07+until%3A2021-02-08+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:44:01,963 - ERROR - [❌] Erro ao coletar dia 2021-02-07: Page.goto: Target page, context or browser has been closed
+2025-09-23 06:44:01,963 - INFO - [🔄] Tentando recuperar...
