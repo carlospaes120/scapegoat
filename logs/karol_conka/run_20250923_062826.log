@@ -1,0 +1,38 @@
+2025-09-23 06:28:27,013 - INFO - [📅] Processando 39 dias: 2021-01-25 → 2021-03-05
+2025-09-23 06:28:27,444 - INFO - [🏠] Going to Twitter homepage first...
+2025-09-23 06:28:33,193 - INFO - [▶] Dia 2021-01-25 → 2021-01-26 (since/until do slice); URL contém &f=live&src=typed_query
+2025-09-23 06:28:33,194 - INFO - [🔄] Tentativa 1/3 para dia 2021-01-25
+2025-09-23 06:28:33,194 - INFO - [⏱️] Sleep ajustado para: 1.50s
+2025-09-23 06:28:33,195 - INFO - [🔗] URL: https://twitter.com/search?q=%28%28+%22Karol+Conk%C3%A1%22+OR+%22Karol+Conka%22+OR+KarolConka+OR+%23KarolConka+OR+%23KarolConk%C3%A1+OR+%40Karolconka+%29+lang%3Apt%29+since%3A2021-01-25+until%3A2021-01-26+lang%3Apt&f=live&src=typed_query
+2025-09-23 06:28:42,205 - INFO - [✅] Timeline carregada para 2021-01-25
+2025-09-23 06:28:46,925 - INFO - [📊] Dia 2021-01-25 - Scroll 1: +21 novos tweets (Total dia: 21)
+2025-09-23 06:28:51,694 - INFO - [📊] Dia 2021-01-25 - Scroll 2: +31 novos tweets (Total dia: 52)
+2025-09-23 06:28:56,486 - INFO - [📊] Dia 2021-01-25 - Scroll 3: +27 novos tweets (Total dia: 79)
+2025-09-23 06:29:01,236 - INFO - [📊] Dia 2021-01-25 - Scroll 4: +22 novos tweets (Total dia: 101)
+2025-09-23 06:29:06,067 - INFO - [📊] Dia 2021-01-25 - Scroll 5: +35 novos tweets (Total dia: 136)
+2025-09-23 06:29:10,834 - INFO - [📊] Dia 2021-01-25 - Scroll 6: +32 novos tweets (Total dia: 168)
+2025-09-23 06:29:15,631 - INFO - [📊] Dia 2021-01-25 - Scroll 7: +33 novos tweets (Total dia: 201)
+2025-09-23 06:29:20,475 - INFO - [📊] Dia 2021-01-25 - Scroll 8: +34 novos tweets (Total dia: 235)
+2025-09-23 06:29:25,237 - INFO - [📊] Dia 2021-01-25 - Scroll 9: +32 novos tweets (Total dia: 267)
+2025-09-23 06:29:29,988 - INFO - [📊] Dia 2021-01-25 - Scroll 10: +34 novos tweets (Total dia: 301)
+2025-09-23 06:29:34,849 - INFO - [📊] Dia 2021-01-25 - Scroll 11: +35 novos tweets (Total dia: 336)
+2025-09-23 06:29:39,590 - INFO - [📊] Dia 2021-01-25 - Scroll 12: +32 novos tweets (Total dia: 368)
+2025-09-23 06:29:44,304 - INFO - [📊] Dia 2021-01-25 - Scroll 13: +33 novos tweets (Total dia: 401)
+2025-09-23 06:29:48,893 - INFO - [📊] Dia 2021-01-25 - Scroll 14: +11 novos tweets (Total dia: 412)
+2025-09-23 06:29:53,484 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:30:09,546 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:30:25,404 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:30:41,259 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:31:02,055 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:31:22,843 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:31:43,673 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:32:04,454 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:32:25,214 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:32:45,985 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:33:06,776 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:33:27,708 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:33:48,650 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:34:09,575 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:34:30,329 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:34:51,086 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh
+2025-09-23 06:35:11,836 - WARNING - [⚠️] 3 scrolls sem novos tweets, acionando refresh

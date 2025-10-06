@@ -77,3 +77,32 @@ mlruns/
 output/
 checkpoints/
 mod
+# --- extra (layout) ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+data/raw/**
+data/interim/**
+data/processed/**
+graphs/**
+results/figures/**
+results/reports/**
+logs/**
+!data/.keep
+!graphs/.keep
+!results/.keep
+!logs/.keep
+
+# cookies e segredos
+*cookies*.json
+*.env
+.env*
+
+# notebooks cache
+*.nbproject

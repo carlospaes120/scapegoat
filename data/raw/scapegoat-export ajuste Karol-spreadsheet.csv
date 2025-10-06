@@ -1,0 +1,21 @@
+"BehaviorSpace results (NetLogo 6.4.0)","Spreadsheet version 2.0"
+"scapegoat-export.nlogo"
+"ajuste Karol"
+"09/22/2025 14:28:59:389 -0300"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"-17","17","-17","17"
+"[run number]","1","1"
+"friendliness","40",
+"skepticism","60",
+"datacollector?","true",
+"numnodes","300",
+"scapegoat?","true",
+"[reporter]","[step]","count turtles"
+"[final]","0","301"
+"[min]","0","301"
+"[max]","0","301"
+"[mean]","0","301"
+"[total steps]","0","0"
+
+"[all run data]","[step]","count turtles"
+,"0","301"

@@ -1,0 +1,4809 @@
+{
+  "metadata": {
+    "query": "( \"Karol Conká\" OR \"Karol Conka\" OR KarolConka OR #KarolConka OR #KarolConká OR @Karolconka ) lang:pt",
+    "since": "2021-01-25",
+    "until": "2021-03-05",
+    "lang": "pt",
+    "timestamp": "20250923_051720",
+    "total_tweets": 475,
+    "daily_stats": {
+      "2021-01-25": 377,
+      "2021-01-26": 98,
+      "2021-01-27": 0,
+      "2021-01-28": 0,
+      "2021-01-29": 0,
+      "2021-01-30": 0,
+      "2021-01-31": 0,
+      "2021-02-01": 0,
+      "2021-02-02": 0,
+      "2021-02-03": 0,
+      "2021-02-04": 0,
+      "2021-02-05": 0,
+      "2021-02-06": 0,
+      "2021-02-07": 0,
+      "2021-02-08": 0,
+      "2021-02-09": 0,
+      "2021-02-10": 0,
+      "2021-02-11": 0,
+      "2021-02-12": 0,
+      "2021-02-13": 0,
+      "2021-02-14": 0,
+      "2021-02-15": 0,
+      "2021-02-16": 0,
+      "2021-02-17": 0,
+      "2021-02-18": 0,
+      "2021-02-19": 0,
+      "2021-02-20": 0,
+      "2021-02-21": 0,
+      "2021-02-22": 0,
+      "2021-02-23": 0,
+      "2021-02-24": 0,
+      "2021-02-25": 0,
+      "2021-02-26": 0,
+      "2021-02-27": 0,
+      "2021-02-28": 0,
+      "2021-03-01": 0,
+      "2021-03-02": 0,
+      "2021-03-03": 0,
+      "2021-03-04": 0
+    },
+    "parameters": {
+      "max_scrolls": 60,
+      "min_new_per_scroll": 3,
+      "sleep": 1.5,
+      "stale_scrolls": 10
+    }
+  },
+  "tweets": [
+    {
+      "id_str": "1353843408641675265",
+      "id": "1353843408641675265",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353843408641675265",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353841559297552385",
+      "id": "1353841559297552385",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353841559297552385",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353839626797121536",
+      "id": "1353839626797121536",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353839626797121536",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353842515615604737",
+      "id": "1353842515615604737",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353842515615604737",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353842152489574402",
+      "id": "1353842152489574402",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353842152489574402",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353841184846786564",
+      "id": "1353841184846786564",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353841184846786564",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353841258360414208",
+      "id": "1353841258360414208",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353841258360414208",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353843424101867520",
+      "id": "1353843424101867520",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353843424101867520",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353839987800858627",
+      "id": "1353839987800858627",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353839987800858627",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353840281741889537",
+      "id": "1353840281741889537",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353840281741889537",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353841074859610112",
+      "id": "1353841074859610112",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353841074859610112",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353839958147166208",
+      "id": "1353839958147166208",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353839958147166208",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353843545849917441",
+      "id": "1353843545849917441",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353843545849917441",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353843568285278208",
+      "id": "1353843568285278208",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353843568285278208",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353839936852676608",
+      "id": "1353839936852676608",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353839936852676608",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353840327757615105",
+      "id": "1353840327757615105",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353840327757615105",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353840433558859776",
+      "id": "1353840433558859776",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353840433558859776",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353840197578973185",
+      "id": "1353840197578973185",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353840197578973185",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353839607209746433",
+      "id": "1353839607209746433",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353839607209746433",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353843372415451136",
+      "id": "1353843372415451136",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353843372415451136",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353842714937331712",
+      "id": "1353842714937331712",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353842714937331712",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825100718632960",
+      "id": "1353825100718632960",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825100718632960",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825454541729792",
+      "id": "1353825454541729792",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825454541729792",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353827643360210944",
+      "id": "1353827643360210944",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353827643360210944",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825895971250176",
+      "id": "1353825895971250176",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825895971250176",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353826159608406016",
+      "id": "1353826159608406016",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353826159608406016",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353826821108879360",
+      "id": "1353826821108879360",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353826821108879360",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825735425863680",
+      "id": "1353825735425863680",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825735425863680",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353824295743533058",
+      "id": "1353824295743533058",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353824295743533058",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825302854643713",
+      "id": "1353825302854643713",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825302854643713",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353824185194336258",
+      "id": "1353824185194336258",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353824185194336258",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353824681866964992",
+      "id": "1353824681866964992",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353824681866964992",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353826509878939648",
+      "id": "1353826509878939648",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353826509878939648",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825302846312448",
+      "id": "1353825302846312448",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825302846312448",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353827454545231872",
+      "id": "1353827454545231872",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353827454545231872",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353827168619552768",
+      "id": "1353827168619552768",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353827168619552768",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353827936646946821",
+      "id": "1353827936646946821",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353827936646946821",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353828286820921344",
+      "id": "1353828286820921344",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353828286820921344",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825321737478145",
+      "id": "1353825321737478145",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825321737478145",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825361365258242",
+      "id": "1353825361365258242",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825361365258242",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353824286969114626",
+      "id": "1353824286969114626",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353824286969114626",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825194650042369",
+      "id": "1353825194650042369",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825194650042369",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353827141423652864",
+      "id": "1353827141423652864",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353827141423652864",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353827306280775681",
+      "id": "1353827306280775681",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353827306280775681",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353823761120849975",
+      "id": "1353823761120849975",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353823761120849975",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353828644863561728",
+      "id": "1353828644863561728",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353828644863561728",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825166338486272",
+      "id": "1353825166338486272",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825166338486272",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825156012138497",
+      "id": "1353825156012138497",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825156012138497",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825622687100930",
+      "id": "1353825622687100930",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825622687100930",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353826373811531777",
+      "id": "1353826373811531777",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353826373811531777",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353825313319505922",
+      "id": "1353825313319505922",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353825313319505922",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353809183561408513",
+      "id": "1353809183561408513",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353809183561408513",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353804028174598145",
+      "id": "1353804028174598145",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353804028174598145",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353802343607902208",
+      "id": "1353802343607902208",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353802343607902208",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353810804332761088",
+      "id": "1353810804332761088",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353810804332761088",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1351380662582874112",
+      "id": "1351380662582874112",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1351380662582874112",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353801352087003137",
+      "id": "1353801352087003137",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353801352087003137",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353805217943474176",
+      "id": "1353805217943474176",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353805217943474176",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353809873105022976",
+      "id": "1353809873105022976",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353809873105022976",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353809913101897728",
+      "id": "1353809913101897728",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353809913101897728",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353802923810181121",
+      "id": "1353802923810181121",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353802923810181121",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353802139269820417",
+      "id": "1353802139269820417",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353802139269820417",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353804829315969024",
+      "id": "1353804829315969024",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353804829315969024",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353801264358977538",
+      "id": "1353801264358977538",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353801264358977538",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353813862429167616",
+      "id": "1353813862429167616",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353813862429167616",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353812473820934146",
+      "id": "1353812473820934146",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353812473820934146",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353801240245915648",
+      "id": "1353801240245915648",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353801240245915648",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353808980389322752",
+      "id": "1353808980389322752",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353808980389322752",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353802016389271553",
+      "id": "1353802016389271553",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353802016389271553",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353802916335902720",
+      "id": "1353802916335902720",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353802916335902720",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353805351989207040",
+      "id": "1353805351989207040",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353805351989207040",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353801731625332737",
+      "id": "1353801731625332737",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353801731625332737",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353447638436360193",
+      "id": "1353447638436360193",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353447638436360193",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353811312397217793",
+      "id": "1353811312397217793",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353811312397217793",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353813421645582336",
+      "id": "1353813421645582336",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353813421645582336",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353807414391410691",
+      "id": "1353807414391410691",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353807414391410691",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353801774356963328",
+      "id": "1353801774356963328",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353801774356963328",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353806359708512258",
+      "id": "1353806359708512258",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353806359708512258",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353801182226079745",
+      "id": "1353801182226079745",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353801182226079745",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353792620435283969",
+      "id": "1353792620435283969",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353792620435283969",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353794827859734539",
+      "id": "1353794827859734539",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353794827859734539",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353794759169630215",
+      "id": "1353794759169630215",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353794759169630215",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353792372556095489",
+      "id": "1353792372556095489",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353792372556095489",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353793991121231872",
+      "id": "1353793991121231872",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353793991121231872",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353792592757088256",
+      "id": "1353792592757088256",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353792592757088256",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353789876152496130",
+      "id": "1353789876152496130",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353789876152496130",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353795464320184321",
+      "id": "1353795464320184321",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353795464320184321",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353487440380571649",
+      "id": "1353487440380571649",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353487440380571649",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353795472230592513",
+      "id": "1353795472230592513",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353795472230592513",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353795228956811265",
+      "id": "1353795228956811265",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353795228956811265",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353788139521929217",
+      "id": "1353788139521929217",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353788139521929217",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353788023188709376",
+      "id": "1353788023188709376",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353788023188709376",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353794027888533512",
+      "id": "1353794027888533512",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353794027888533512",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353794721873874944",
+      "id": "1353794721873874944",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353794721873874944",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353787563287457794",
+      "id": "1353787563287457794",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353787563287457794",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353793729803513859",
+      "id": "1353793729803513859",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353793729803513859",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353795263429832705",
+      "id": "1353795263429832705",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353795263429832705",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353793431202656256",
+      "id": "1353793431202656256",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353793431202656256",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353792201080381441",
+      "id": "1353792201080381441",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353792201080381441",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353793839933304835",
+      "id": "1353793839933304835",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353793839933304835",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353791006047612936",
+      "id": "1353791006047612936",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353791006047612936",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353788914985807874",
+      "id": "1353788914985807874",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353788914985807874",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353791968023900160",
+      "id": "1353791968023900160",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353791968023900160",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353795373706457088",
+      "id": "1353795373706457088",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353795373706457088",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353794725476757504",
+      "id": "1353794725476757504",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353794725476757504",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353757294518001667",
+      "id": "1353757294518001667",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353757294518001667",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353755533187100675",
+      "id": "1353755533187100675",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353755533187100675",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353751517577285637",
+      "id": "1353751517577285637",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353751517577285637",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353762040314277888",
+      "id": "1353762040314277888",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353762040314277888",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353764203887271936",
+      "id": "1353764203887271936",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353764203887271936",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353765108082741248",
+      "id": "1353765108082741248",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353765108082741248",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353761957971709952",
+      "id": "1353761957971709952",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353761957971709952",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353761719055601664",
+      "id": "1353761719055601664",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353761719055601664",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353760605442875394",
+      "id": "1353760605442875394",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353760605442875394",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353765937565102082",
+      "id": "1353765937565102082",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353765937565102082",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353762329230499844",
+      "id": "1353762329230499844",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353762329230499844",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353761916737490944",
+      "id": "1353761916737490944",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353761916737490944",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353758042538602497",
+      "id": "1353758042538602497",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353758042538602497",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353764493780783104",
+      "id": "1353764493780783104",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353764493780783104",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353761103537467392",
+      "id": "1353761103537467392",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353761103537467392",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353758896108797953",
+      "id": "1353758896108797953",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353758896108797953",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353760701421117440",
+      "id": "1353760701421117440",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353760701421117440",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353767614284255232",
+      "id": "1353767614284255232",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353767614284255232",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353765584383717378",
+      "id": "1353765584383717378",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353765584383717378",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353760436592795649",
+      "id": "1353760436592795649",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353760436592795649",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353766833078329344",
+      "id": "1353766833078329344",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353766833078329344",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353761410174640129",
+      "id": "1353761410174640129",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353761410174640129",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353757448587382784",
+      "id": "1353757448587382784",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353757448587382784",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353769557245177857",
+      "id": "1353769557245177857",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353769557245177857",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353752124895719424",
+      "id": "1353752124895719424",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353752124895719424",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353758958192889860",
+      "id": "1353758958192889860",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353758958192889860",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353769358850482179",
+      "id": "1353769358850482179",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353769358850482179",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353753188902592512",
+      "id": "1353753188902592512",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353753188902592512",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353766870030159873",
+      "id": "1353766870030159873",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353766870030159873",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353727676373196800",
+      "id": "1353727676373196800",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353727676373196800",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353725011706712064",
+      "id": "1353725011706712064",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353725011706712064",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353728073024344066",
+      "id": "1353728073024344066",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353728073024344066",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353730619457622019",
+      "id": "1353730619457622019",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353730619457622019",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353729902852382721",
+      "id": "1353729902852382721",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353729902852382721",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353731812032454665",
+      "id": "1353731812032454665",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353731812032454665",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353728879781961728",
+      "id": "1353728879781961728",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353728879781961728",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353731719065645058",
+      "id": "1353731719065645058",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353731719065645058",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353733598579482625",
+      "id": "1353733598579482625",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353733598579482625",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353723390536904704",
+      "id": "1353723390536904704",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353723390536904704",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353723626487472130",
+      "id": "1353723626487472130",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353723626487472130",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353724710492786688",
+      "id": "1353724710492786688",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353724710492786688",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353725241663631360",
+      "id": "1353725241663631360",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353725241663631360",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353731297273929728",
+      "id": "1353731297273929728",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353731297273929728",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353731321328234498",
+      "id": "1353731321328234498",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353731321328234498",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353730293216256001",
+      "id": "1353730293216256001",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353730293216256001",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353727816282628107",
+      "id": "1353727816282628107",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353727816282628107",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353732182129340422",
+      "id": "1353732182129340422",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353732182129340422",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353725941579722754",
+      "id": "1353725941579722754",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353725941579722754",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353727093608239106",
+      "id": "1353727093608239106",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353727093608239106",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353732917181227010",
+      "id": "1353732917181227010",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353732917181227010",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353734184309817345",
+      "id": "1353734184309817345",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353734184309817345",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353728361089159169",
+      "id": "1353728361089159169",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353728361089159169",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353687810809733120",
+      "id": "1353687810809733120",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353687810809733120",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353706387872903168",
+      "id": "1353706387872903168",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353706387872903168",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353704053822410752",
+      "id": "1353704053822410752",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353704053822410752",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353711893047889925",
+      "id": "1353711893047889925",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353711893047889925",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353701527471403009",
+      "id": "1353701527471403009",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353701527471403009",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353709852112072704",
+      "id": "1353709852112072704",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353709852112072704",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353712198850383872",
+      "id": "1353712198850383872",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353712198850383872",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353708609784446989",
+      "id": "1353708609784446989",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353708609784446989",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353699912886734857",
+      "id": "1353699912886734857",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353699912886734857",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353712179288158208",
+      "id": "1353712179288158208",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353712179288158208",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353701886260555777",
+      "id": "1353701886260555777",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353701886260555777",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353712294308556801",
+      "id": "1353712294308556801",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353712294308556801",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353699236798492675",
+      "id": "1353699236798492675",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353699236798492675",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353703960775979010",
+      "id": "1353703960775979010",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353703960775979010",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353702239454552067",
+      "id": "1353702239454552067",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353702239454552067",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353702430735785989",
+      "id": "1353702430735785989",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353702430735785989",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353701791049854981",
+      "id": "1353701791049854981",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353701791049854981",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353701999997554703",
+      "id": "1353701999997554703",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353701999997554703",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353702015294181381",
+      "id": "1353702015294181381",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353702015294181381",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353696119096827904",
+      "id": "1353696119096827904",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353696119096827904",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353700311706304513",
+      "id": "1353700311706304513",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353700311706304513",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353710632017809409",
+      "id": "1353710632017809409",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353710632017809409",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353710581862322176",
+      "id": "1353710581862322176",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353710581862322176",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353702318571728896",
+      "id": "1353702318571728896",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353702318571728896",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353712342668861447",
+      "id": "1353712342668861447",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353712342668861447",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353702499438514176",
+      "id": "1353702499438514176",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353702499438514176",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353703133860532227",
+      "id": "1353703133860532227",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353703133860532227",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353703915217367040",
+      "id": "1353703915217367040",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353703915217367040",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353712041656258561",
+      "id": "1353712041656258561",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353712041656258561",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353698535909294083",
+      "id": "1353698535909294083",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353698535909294083",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353701439583956992",
+      "id": "1353701439583956992",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353701439583956992",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353692767956987905",
+      "id": "1353692767956987905",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353692767956987905",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353689057008758784",
+      "id": "1353689057008758784",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353689057008758784",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353698317004374017",
+      "id": "1353698317004374017",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353698317004374017",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353692933929787403",
+      "id": "1353692933929787403",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353692933929787403",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353702691252408321",
+      "id": "1353702691252408321",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353702691252408321",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353560145935085569",
+      "id": "1353560145935085569",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353560145935085569",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353540231794987016",
+      "id": "1353540231794987016",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353540231794987016",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353570560782036993",
+      "id": "1353570560782036993",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353570560782036993",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353549970390081536",
+      "id": "1353549970390081536",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353549970390081536",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353557746906525696",
+      "id": "1353557746906525696",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353557746906525696",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353566547290284032",
+      "id": "1353566547290284032",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353566547290284032",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353547470731620353",
+      "id": "1353547470731620353",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353547470731620353",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353569651184304130",
+      "id": "1353569651184304130",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353569651184304130",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353543779781902337",
+      "id": "1353543779781902337",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353543779781902337",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353545717835554816",
+      "id": "1353545717835554816",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353545717835554816",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353544491521765377",
+      "id": "1353544491521765377",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353544491521765377",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353555621757464576",
+      "id": "1353555621757464576",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353555621757464576",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353565997131771905",
+      "id": "1353565997131771905",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353565997131771905",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353558448294813697",
+      "id": "1353558448294813697",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353558448294813697",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353546067221090305",
+      "id": "1353546067221090305",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353546067221090305",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353555801898700800",
+      "id": "1353555801898700800",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353555801898700800",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353543201626476544",
+      "id": "1353543201626476544",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353543201626476544",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353548584076136449",
+      "id": "1353548584076136449",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353548584076136449",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353543158068637698",
+      "id": "1353543158068637698",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353543158068637698",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353552362196103184",
+      "id": "1353552362196103184",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353552362196103184",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353559738945040384",
+      "id": "1353559738945040384",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353559738945040384",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353553906157187089",
+      "id": "1353553906157187089",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353553906157187089",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353563491056181249",
+      "id": "1353563491056181249",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353563491056181249",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353545667877228545",
+      "id": "1353545667877228545",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353545667877228545",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353562537661526016",
+      "id": "1353562537661526016",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353562537661526016",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353555687587110918",
+      "id": "1353555687587110918",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353555687587110918",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353568514557292544",
+      "id": "1353568514557292544",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353568514557292544",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353554243370840066",
+      "id": "1353554243370840066",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353554243370840066",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353546993436684289",
+      "id": "1353546993436684289",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353546993436684289",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353544944225546242",
+      "id": "1353544944225546242",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353544944225546242",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353551795465891840",
+      "id": "1353551795465891840",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353551795465891840",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353571048940331008",
+      "id": "1353571048940331008",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353571048940331008",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353547674616782853",
+      "id": "1353547674616782853",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353547674616782853",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353542697290756102",
+      "id": "1353542697290756102",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353542697290756102",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353520097248374784",
+      "id": "1353520097248374784",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353520097248374784",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353522623217610752",
+      "id": "1353522623217610752",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353522623217610752",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353519721728110593",
+      "id": "1353519721728110593",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353519721728110593",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353506558186057729",
+      "id": "1353506558186057729",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353506558186057729",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353523800541978627",
+      "id": "1353523800541978627",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353523800541978627",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353521048835264514",
+      "id": "1353521048835264514",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353521048835264514",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353521136387108864",
+      "id": "1353521136387108864",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353521136387108864",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353521893270290433",
+      "id": "1353521893270290433",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353521893270290433",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353525603060875266",
+      "id": "1353525603060875266",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353525603060875266",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353520194178732037",
+      "id": "1353520194178732037",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353520194178732037",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353525294993448961",
+      "id": "1353525294993448961",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353525294993448961",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353521087980720128",
+      "id": "1353521087980720128",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353521087980720128",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353525053862924288",
+      "id": "1353525053862924288",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353525053862924288",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353520876126425090",
+      "id": "1353520876126425090",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353520876126425090",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353519465019928576",
+      "id": "1353519465019928576",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353519465019928576",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353523257295609856",
+      "id": "1353523257295609856",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353523257295609856",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353525071378325505",
+      "id": "1353525071378325505",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353525071378325505",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353523015087222784",
+      "id": "1353523015087222784",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353523015087222784",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353523110004326400",
+      "id": "1353523110004326400",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353523110004326400",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353521554500497409",
+      "id": "1353521554500497409",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353521554500497409",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353521326703697921",
+      "id": "1353521326703697921",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353521326703697921",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353522079669366786",
+      "id": "1353522079669366786",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353522079669366786",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353522799000891392",
+      "id": "1353522799000891392",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353522799000891392",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353520725336973318",
+      "id": "1353520725336973318",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353520725336973318",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353525539915636739",
+      "id": "1353525539915636739",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353525539915636739",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353521797405298688",
+      "id": "1353521797405298688",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353521797405298688",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353521714517463048",
+      "id": "1353521714517463048",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353521714517463048",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353515110682284033",
+      "id": "1353515110682284033",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353515110682284033",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513933215322121",
+      "id": "1353513933215322121",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513933215322121",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513733776093184",
+      "id": "1353513733776093184",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513733776093184",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513521770868736",
+      "id": "1353513521770868736",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513521770868736",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353515081837981696",
+      "id": "1353515081837981696",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353515081837981696",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513073110351872",
+      "id": "1353513073110351872",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513073110351872",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353512329783234560",
+      "id": "1353512329783234560",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353512329783234560",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353514380097449987",
+      "id": "1353514380097449987",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353514380097449987",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513034292064257",
+      "id": "1353513034292064257",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513034292064257",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353514249428094976",
+      "id": "1353514249428094976",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353514249428094976",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513452241899520",
+      "id": "1353513452241899520",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513452241899520",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513792131444737",
+      "id": "1353513792131444737",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513792131444737",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353512695123877888",
+      "id": "1353512695123877888",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353512695123877888",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353514426117332992",
+      "id": "1353514426117332992",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353514426117332992",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353512452680519680",
+      "id": "1353512452680519680",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353512452680519680",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353515108102774786",
+      "id": "1353515108102774786",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353515108102774786",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513870778839048",
+      "id": "1353513870778839048",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513870778839048",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513712632606720",
+      "id": "1353513712632606720",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513712632606720",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513056601600001",
+      "id": "1353513056601600001",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513056601600001",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353514976749740033",
+      "id": "1353514976749740033",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353514976749740033",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513275556823040",
+      "id": "1353513275556823040",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513275556823040",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513142605799424",
+      "id": "1353513142605799424",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513142605799424",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513668953202688",
+      "id": "1353513668953202688",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513668953202688",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513238907015169",
+      "id": "1353513238907015169",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513238907015169",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513090843889664",
+      "id": "1353513090843889664",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513090843889664",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513719674908675",
+      "id": "1353513719674908675",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513719674908675",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353512438453456896",
+      "id": "1353512438453456896",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353512438453456896",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513318737186817",
+      "id": "1353513318737186817",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513318737186817",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353514184080838656",
+      "id": "1353514184080838656",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353514184080838656",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353513264366448640",
+      "id": "1353513264366448640",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353513264366448640",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509774428692480",
+      "id": "1353509774428692480",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509774428692480",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509341832368128",
+      "id": "1353509341832368128",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509341832368128",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509627753869312",
+      "id": "1353509627753869312",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509627753869312",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509257350623240",
+      "id": "1353509257350623240",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509257350623240",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509716991868928",
+      "id": "1353509716991868928",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509716991868928",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353508984850964480",
+      "id": "1353508984850964480",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353508984850964480",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509736164024341",
+      "id": "1353509736164024341",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509736164024341",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509486598758402",
+      "id": "1353509486598758402",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509486598758402",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509077641551872",
+      "id": "1353509077641551872",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509077641551872",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509859275268106",
+      "id": "1353509859275268106",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509859275268106",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509893408514048",
+      "id": "1353509893408514048",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509893408514048",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509636800995329",
+      "id": "1353509636800995329",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509636800995329",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509347310133248",
+      "id": "1353509347310133248",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509347310133248",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509253634547713",
+      "id": "1353509253634547713",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509253634547713",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509858864214022",
+      "id": "1353509858864214022",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509858864214022",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509903927799810",
+      "id": "1353509903927799810",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509903927799810",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509549865627648",
+      "id": "1353509549865627648",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509549865627648",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509291131596802",
+      "id": "1353509291131596802",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509291131596802",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509226228961280",
+      "id": "1353509226228961280",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509226228961280",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509093386940416",
+      "id": "1353509093386940416",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509093386940416",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509049988501504",
+      "id": "1353509049988501504",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509049988501504",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509670409920512",
+      "id": "1353509670409920512",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509670409920512",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509310354096128",
+      "id": "1353509310354096128",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509310354096128",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509280167690241",
+      "id": "1353509280167690241",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509280167690241",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509780523003904",
+      "id": "1353509780523003904",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509780523003904",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509919119519746",
+      "id": "1353509919119519746",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509919119519746",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509053754970118",
+      "id": "1353509053754970118",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509053754970118",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509050160476160",
+      "id": "1353509050160476160",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509050160476160",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509875825991684",
+      "id": "1353509875825991684",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509875825991684",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509298458996738",
+      "id": "1353509298458996738",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509298458996738",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509463471357953",
+      "id": "1353509463471357953",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509463471357953",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509938325291017",
+      "id": "1353509938325291017",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509938325291017",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509223993376770",
+      "id": "1353509223993376770",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509223993376770",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509901004402688",
+      "id": "1353509901004402688",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509901004402688",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509199628689411",
+      "id": "1353509199628689411",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509199628689411",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509180917903360",
+      "id": "1353509180917903360",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509180917903360",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509600364998660",
+      "id": "1353509600364998660",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509600364998660",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509851062824962",
+      "id": "1353509851062824962",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509851062824962",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509621881778176",
+      "id": "1353509621881778176",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509621881778176",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509329387855872",
+      "id": "1353509329387855872",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509329387855872",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509209783083008",
+      "id": "1353509209783083008",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509209783083008",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353506655615541248",
+      "id": "1353506655615541248",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353506655615541248",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353509094552981504",
+      "id": "1353509094552981504",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353509094552981504",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507175134539777",
+      "id": "1353507175134539777",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507175134539777",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507074588745729",
+      "id": "1353507074588745729",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507074588745729",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353506850759712769",
+      "id": "1353506850759712769",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353506850759712769",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507494732115969",
+      "id": "1353507494732115969",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507494732115969",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507710940098560",
+      "id": "1353507710940098560",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507710940098560",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507603817631744",
+      "id": "1353507603817631744",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507603817631744",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353506914852859905",
+      "id": "1353506914852859905",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353506914852859905",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507813482352640",
+      "id": "1353507813482352640",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507813482352640",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507217606062080",
+      "id": "1353507217606062080",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507217606062080",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507697694564352",
+      "id": "1353507697694564352",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507697694564352",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507828175142914",
+      "id": "1353507828175142914",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507828175142914",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507769115168768",
+      "id": "1353507769115168768",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507769115168768",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507130784026624",
+      "id": "1353507130784026624",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507130784026624",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507637212622849",
+      "id": "1353507637212622849",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507637212622849",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507149641621505",
+      "id": "1353507149641621505",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507149641621505",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507279119806465",
+      "id": "1353507279119806465",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507279119806465",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353506997648453632",
+      "id": "1353506997648453632",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353506997648453632",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507463178428416",
+      "id": "1353507463178428416",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507463178428416",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507312070258689",
+      "id": "1353507312070258689",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507312070258689",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507025037221888",
+      "id": "1353507025037221888",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507025037221888",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507735611043840",
+      "id": "1353507735611043840",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507735611043840",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507196349378560",
+      "id": "1353507196349378560",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507196349378560",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353506985346527237",
+      "id": "1353506985346527237",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353506985346527237",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507543490953217",
+      "id": "1353507543490953217",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507543490953217",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507383499231233",
+      "id": "1353507383499231233",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507383499231233",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507629633576961",
+      "id": "1353507629633576961",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507629633576961",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353506747336568832",
+      "id": "1353506747336568832",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353506747336568832",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507402948218880",
+      "id": "1353507402948218880",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507402948218880",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507204809318405",
+      "id": "1353507204809318405",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507204809318405",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507144038051841",
+      "id": "1353507144038051841",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507144038051841",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507754359599104",
+      "id": "1353507754359599104",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507754359599104",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507785628119041",
+      "id": "1353507785628119041",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507785628119041",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507372296261633",
+      "id": "1353507372296261633",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507372296261633",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507112752701440",
+      "id": "1353507112752701440",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507112752701440",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507310673522691",
+      "id": "1353507310673522691",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507310673522691",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353507341807874048",
+      "id": "1353507341807874048",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353507341807874048",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353505078737571842",
+      "id": "1353505078737571842",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353505078737571842",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353505612857036800",
+      "id": "1353505612857036800",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353505612857036800",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353500103642898432",
+      "id": "1353500103642898432",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353500103642898432",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353505637964124162",
+      "id": "1353505637964124162",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353505637964124162",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1352041104397529089",
+      "id": "1352041104397529089",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1352041104397529089",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353504095508815873",
+      "id": "1353504095508815873",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353504095508815873",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353505879556026369",
+      "id": "1353505879556026369",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353505879556026369",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353503187681103872",
+      "id": "1353503187681103872",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353503187681103872",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353499507166740493",
+      "id": "1353499507166740493",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353499507166740493",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353496091858251777",
+      "id": "1353496091858251777",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353496091858251777",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353502374426517506",
+      "id": "1353502374426517506",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353502374426517506",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353496751685173253",
+      "id": "1353496751685173253",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353496751685173253",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353494732014559233",
+      "id": "1353494732014559233",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353494732014559233",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1353497413244358657",
+      "id": "1353497413244358657",
+      "created_at": "2021-01-25",
+      "full_text": "[DOM Fallback] Tweet ID: 1353497413244358657",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354210355334025219",
+      "id": "1354210355334025219",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354210355334025219",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354209815841615872",
+      "id": "1354209815841615872",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354209815841615872",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354210036936028162",
+      "id": "1354210036936028162",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354210036936028162",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354191203617681408",
+      "id": "1354191203617681408",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354191203617681408",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354211789521772544",
+      "id": "1354211789521772544",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354211789521772544",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354212000033886214",
+      "id": "1354212000033886214",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354212000033886214",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354210683274092548",
+      "id": "1354210683274092548",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354210683274092548",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354212154866618368",
+      "id": "1354212154866618368",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354212154866618368",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354212299297447947",
+      "id": "1354212299297447947",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354212299297447947",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354210720183963649",
+      "id": "1354210720183963649",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354210720183963649",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354211207352344578",
+      "id": "1354211207352344578",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354211207352344578",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354210744280211464",
+      "id": "1354210744280211464",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354210744280211464",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354211560495919108",
+      "id": "1354211560495919108",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354211560495919108",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354211606876585988",
+      "id": "1354211606876585988",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354211606876585988",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354211276080214017",
+      "id": "1354211276080214017",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354211276080214017",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354211120068915200",
+      "id": "1354211120068915200",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354211120068915200",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354212258780475392",
+      "id": "1354212258780475392",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354212258780475392",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354212090236514314",
+      "id": "1354212090236514314",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354212090236514314",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354210601078292483",
+      "id": "1354210601078292483",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354210601078292483",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354210178502160388",
+      "id": "1354210178502160388",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354210178502160388",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354211632109510657",
+      "id": "1354211632109510657",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354211632109510657",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354210759866265600",
+      "id": "1354210759866265600",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354210759866265600",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354211883725819912",
+      "id": "1354211883725819912",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354211883725819912",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354122254813196289",
+      "id": "1354122254813196289",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354122254813196289",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354212093571059716",
+      "id": "1354212093571059716",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354212093571059716",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354210907765825536",
+      "id": "1354210907765825536",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354210907765825536",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354201125247975427",
+      "id": "1354201125247975427",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354201125247975427",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354203715457048576",
+      "id": "1354203715457048576",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354203715457048576",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354202434185392129",
+      "id": "1354202434185392129",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354202434185392129",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354201261860663298",
+      "id": "1354201261860663298",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354201261860663298",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354200681834553344",
+      "id": "1354200681834553344",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354200681834553344",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354203838589370371",
+      "id": "1354203838589370371",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354203838589370371",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354203949117677571",
+      "id": "1354203949117677571",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354203949117677571",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354204462332727306",
+      "id": "1354204462332727306",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354204462332727306",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354202922507268100",
+      "id": "1354202922507268100",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354202922507268100",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354205115452948482",
+      "id": "1354205115452948482",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354205115452948482",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354201215706554368",
+      "id": "1354201215706554368",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354201215706554368",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354201011443945472",
+      "id": "1354201011443945472",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354201011443945472",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354205309523386369",
+      "id": "1354205309523386369",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354205309523386369",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354204408045830145",
+      "id": "1354204408045830145",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354204408045830145",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354204723444928512",
+      "id": "1354204723444928512",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354204723444928512",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354203876963082251",
+      "id": "1354203876963082251",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354203876963082251",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354202050473693187",
+      "id": "1354202050473693187",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354202050473693187",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354200662767235072",
+      "id": "1354200662767235072",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354200662767235072",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354201975034937346",
+      "id": "1354201975034937346",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354201975034937346",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1156572244283404292",
+      "id": "1156572244283404292",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1156572244283404292",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354205131529719810",
+      "id": "1354205131529719810",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354205131529719810",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354202647851659264",
+      "id": "1354202647851659264",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354202647851659264",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354202159185879040",
+      "id": "1354202159185879040",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354202159185879040",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354203796969123842",
+      "id": "1354203796969123842",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354203796969123842",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354202617359060992",
+      "id": "1354202617359060992",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354202617359060992",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354204022572527629",
+      "id": "1354204022572527629",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354204022572527629",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354206067090190337",
+      "id": "1354206067090190337",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354206067090190337",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354066780784898048",
+      "id": "1354066780784898048",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354066780784898048",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354201559761084417",
+      "id": "1354201559761084417",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354201559761084417",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354204484042444803",
+      "id": "1354204484042444803",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354204484042444803",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354201611443298307",
+      "id": "1354201611443298307",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354201611443298307",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354203282894434305",
+      "id": "1354203282894434305",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354203282894434305",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354191710612574210",
+      "id": "1354191710612574210",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354191710612574210",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354192597250695169",
+      "id": "1354192597250695169",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354192597250695169",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354196212786802693",
+      "id": "1354196212786802693",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354196212786802693",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354197240567488516",
+      "id": "1354197240567488516",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354197240567488516",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354193893668102146",
+      "id": "1354193893668102146",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354193893668102146",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354195274764328962",
+      "id": "1354195274764328962",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354195274764328962",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354192204252774403",
+      "id": "1354192204252774403",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354192204252774403",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354191457708605446",
+      "id": "1354191457708605446",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354191457708605446",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354191606753210372",
+      "id": "1354191606753210372",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354191606753210372",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354197254534475777",
+      "id": "1354197254534475777",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354197254534475777",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354194532359925760",
+      "id": "1354194532359925760",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354194532359925760",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354193189729656833",
+      "id": "1354193189729656833",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354193189729656833",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354195535096328197",
+      "id": "1354195535096328197",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354195535096328197",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354193105151553536",
+      "id": "1354193105151553536",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354193105151553536",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354196617377832964",
+      "id": "1354196617377832964",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354196617377832964",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354191674440822785",
+      "id": "1354191674440822785",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354191674440822785",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354194735460704257",
+      "id": "1354194735460704257",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354194735460704257",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354196769442299908",
+      "id": "1354196769442299908",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354196769442299908",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354193429157318657",
+      "id": "1354193429157318657",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354193429157318657",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354194982475849729",
+      "id": "1354194982475849729",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354194982475849729",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354195138877288453",
+      "id": "1354195138877288453",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354195138877288453",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354193992909520897",
+      "id": "1354193992909520897",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354193992909520897",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354193230716350470",
+      "id": "1354193230716350470",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354193230716350470",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354194974804475908",
+      "id": "1354194974804475908",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354194974804475908",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354193186109976579",
+      "id": "1354193186109976579",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354193186109976579",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354191706401484801",
+      "id": "1354191706401484801",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354191706401484801",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354067678936358912",
+      "id": "1354067678936358912",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354067678936358912",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354192032135262208",
+      "id": "1354192032135262208",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354192032135262208",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354194377602686987",
+      "id": "1354194377602686987",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354194377602686987",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354193795592712192",
+      "id": "1354193795592712192",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354193795592712192",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354192793388912640",
+      "id": "1354192793388912640",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354192793388912640",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354197036275527688",
+      "id": "1354197036275527688",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354197036275527688",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354195841788096512",
+      "id": "1354195841788096512",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354195841788096512",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354193445846478852",
+      "id": "1354193445846478852",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354193445846478852",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354193275989733378",
+      "id": "1354193275989733378",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354193275989733378",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1341540262301020161",
+      "id": "1341540262301020161",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1341540262301020161",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354191893589073922",
+      "id": "1354191893589073922",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354191893589073922",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354192974985486337",
+      "id": "1354192974985486337",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354192974985486337",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354191844578631680",
+      "id": "1354191844578631680",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354191844578631680",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    },
+    {
+      "id_str": "1354192942056038402",
+      "id": "1354192942056038402",
+      "created_at": "2021-01-26",
+      "full_text": "[DOM Fallback] Tweet ID: 1354192942056038402",
+      "user": {
+        "screen_name": "unknown"
+      },
+      "entities": {}
+    }
+  ]
+}

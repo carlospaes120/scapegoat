@@ -1,0 +1,19 @@
+Métrica,Eduardo Bueno,Karol Conká,Monark,Wagner,ABM Sintético,Ranking (1=melhor)
+Tamanho da Rede,798,318,4035,1352,88,Monark > Wagner > Eduardo > Karol > ABM
+Densidade,0.00133,0.00302,0.00032,0.00069,0.01202,ABM > Karol > Eduardo > Wagner > Monark
+Desigualdade (Gini),0.543,0.417,0.793,0.768,0.534,Karol > Eduardo > ABM > Wagner > Monark
+Concentração (HHI),0.0046,0.0174,0.0485,0.0399,0.0229,Eduardo > Karol > ABM > Wagner > Monark
+Centralização,0.021,0.108,0.273,0.177,0.035,Eduardo > ABM > Karol > Wagner > Monark
+Top 1% Share,0.021,0.115,0.212,0.192,0.043,Eduardo > ABM > Karol > Wagner > Monark
+Top 5% Share,0.091,0.174,0.295,0.260,0.196,Eduardo > ABM > Karol > Wagner > Monark
+Top 10% Share,0.150,0.214,0.370,0.306,0.337,Eduardo > Karol > Wagner > ABM > Monark
+Clustering,0.031,0.000,0.040,0.008,0.015,Monark > Eduardo > ABM > Wagner > Karol
+Comunidades,96,31,587,229,13,Monark > Wagner > Eduardo > Karol > ABM
+Modularidade,0.756,0.653,0.791,0.899,0.748,Wagner > Monark > ABM > Eduardo > Karol
+Estrutura,Distribuída,Compacta,Massiva,Grande,Pequena,
+Característica Principal,Maior igualdade,Maior coesão,Maior hierarquia,Maior modularidade,Maior densidade,
+
+
+
+
+
