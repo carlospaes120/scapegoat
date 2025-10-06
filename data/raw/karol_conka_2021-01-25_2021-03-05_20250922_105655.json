@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "query": "( \"Karol Conká\" OR \"Karol Conka\" OR KarolConka OR #KarolConka OR #KarolConká OR @Karolconka ) lang:pt since:2021-01-25 until:2021-03-05",
+    "since": "2021-01-25",
+    "until": "2021-03-05",
+    "total_tweets": 0,
+    "timestamp": "20250922_105655",
+    "target_tweets": 5000
+  },
+  "tweets": []
+}

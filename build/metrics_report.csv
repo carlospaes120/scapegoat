@@ -1,0 +1,27 @@
+metric                    ,sim                  ,emp                   ,abs_diff               ,notes
+n_nodes                   ,140                  ,140                   ,0.0                    ,
+n_edges                   ,91                   ,82                    ,9.0                    ,
+density                   ,0.004676258992805755 ,0.004213771839671121  ,0.00046248715313463445 ,
+n_weak_components         ,49                   ,59                    ,10.0                   ,
+n_strong_components       ,140                  ,140                   ,0.0                    ,
+largest_wcc_nodes         ,18                   ,17                    ,1.0                    ,
+largest_wcc_edges         ,17                   ,16                    ,1.0                    ,
+avg_shortest_path_lcc     ,4.254901960784314    ,3.926470588235294     ,0.3284313725490198     ,
+diameter_lcc              ,10                   ,9                     ,1.0                    ,
+reciprocity               ,0.0                  ,0.0                   ,0.0                    ,directed only
+avg_clustering_ud         ,0.0                  ,0.015873015873015872  ,0.015873015873015872   ,
+degree_assortativity_ud   ,0.023744814761836923 ,-0.010410027618440829 ,0.03415484238027775    ,
+modularity_ud             ,0.9074459475083825   ,0.9086853063652588    ,0.0012393588568763159  ,
+n_communities_ud          ,29                   ,26                    ,3.0                    ,
+ks_in_degree              ,0.0500;p=0.9951      ,NA                    ,NA                     ,KS
+ks_out_degree             ,0.0500;p=0.9951      ,NA                    ,NA                     ,KS
+ks_in_strength            ,0.0500;p=0.9951      ,NA                    ,NA                     ,KS
+ks_out_strength           ,0.0500;p=0.9951      ,NA                    ,NA                     ,KS
+kendall_tau_in_strength   ,nan;p=nan            ,NA                    ,NA                     ,kendall
+overlap_at_k_in_strength  ,0.1111111111111111   ,NA                    ,NA                     ,top10
+kendall_tau_out_strength  ,-0.0253;p=0.795      ,NA                    ,NA                     ,kendall
+overlap_at_k_out_strength ,0.05263157894736842  ,NA                    ,NA                     ,top10
+kendall_tau_betweenness   ,-0.1644;p=0.1697     ,NA                    ,NA                     ,kendall
+overlap_at_k_betweenness  ,0.05263157894736842  ,NA                    ,NA                     ,top10
+kendall_tau_pagerank      ,nan;p=nan            ,NA                    ,NA                     ,kendall
+overlap_at_k_pagerank     ,0.1111111111111111   ,NA                    ,NA                     ,top10

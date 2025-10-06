@@ -1,0 +1,16 @@
+Categoria,Melhor Caso,Valor,Pior Caso,Valor,Observação
+Rede Maior,Monark,4035 nós,ABM Sintético,88 nós,Monark tem 45x mais nós que ABM
+Rede Mais Densa,ABM Sintético,0.01202,Karol Conká,0.00302,ABM tem 4x mais densa que Karol
+Mais Igualitário,Karol Conká,0.417 Gini,Monark,0.793 Gini,Karol tem 47% menos desigualdade
+Menos Centralizado,Eduardo Bueno,0.021,Monark,0.273,Eduardo tem 13x menos centralização
+Menor Concentração,Eduardo Bueno,0.0046 HHI,Monark,0.0485 HHI,Eduardo tem 10x menos concentração
+Maior Modularidade,Wagner,0.899,Karol Conká,0.653,Wagner tem 38% mais modularidade
+Mais Coeso,Monark,0.040 clustering,Karol Conká,0.000 clustering,Monark tem clustering 4x maior
+Mais Fragmentado,Monark,587 comunidades,ABM Sintético,13 comunidades,Monark tem 45x mais comunidades
+Mais Temporal,ABM Sintético,N/A,Karol Conká,0.966 Gini diário,Apenas Karol tem dados temporais
+Tipo de Rede,Empírica,4 casos,Sintética,1 caso,80% casos empíricos vs 20% sintéticos
+
+
+
+
+
