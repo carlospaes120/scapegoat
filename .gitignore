@@ -35,7 +35,7 @@ ENV/
 # Data (raw & intermediate)
 # ==========================
 # Raw JSONL / tweet dumps
-*.jsonl
+#*.jsonl
 *.json
 
 # CSV exports (ignore all but test CSVs)
