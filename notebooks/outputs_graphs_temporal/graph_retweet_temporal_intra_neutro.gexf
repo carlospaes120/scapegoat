@@ -1,0 +1,2824 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-26">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="dynamic" name="" timeformat="date">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="stance" type="string" />
+    </attributes>
+    <nodes>
+      <node id="dddinha" label="dddinha" start="2017-10-01T13:02:46" end="2017-10-01T13:02:46">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="felixsteel0" label="felixsteel0" start="2017-12-21T00:40:19" end="2017-12-21T00:40:19">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="albertprass" label="albertprass" start="2017-10-04T14:17:23" end="2017-10-04T14:17:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="deputadoamauri" label="deputadoamauri" start="2017-11-15T16:16:19" end="2017-11-15T16:16:19">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="uainoticiaspro" label="uainoticiaspro" start="2017-10-03T13:53:04" end="2017-10-03T13:53:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="tvilhadigital" label="tvilhadigital" start="2017-10-27T15:37:01" end="2017-10-27T15:37:01">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="radioestacaotop" label="radioestacaotop" start="2017-03-27T06:01:33" end="2017-03-27T06:01:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="estudioi" label="estudioi" start="2017-09-29T16:21:28" end="2017-10-09T16:18:26">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="nona_alves" label="nona_alves" start="2017-10-09T19:26:06" end="2017-10-09T19:26:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="manoelfsouza" label="manoelfsouza" start="2017-10-08T22:34:36" end="2017-10-08T22:34:36">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="hugobonemer" label="hugobonemer" start="2017-10-09T19:58:42" end="2017-10-09T19:58:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="macaubenselife" label="macaubenselife" start="2017-10-01T08:58:06" end="2017-10-01T09:31:30">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="juarezsampaio" label="juarezsampaio" start="2017-10-03T18:57:46" end="2017-10-03T18:57:46">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="alxpqno" label="alxpqno" start="2017-11-15T18:56:05" end="2017-11-15T18:56:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="bonerriper" label="bonerriper" start="2017-10-17T00:47:49" end="2017-10-17T00:47:49">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="birahcarvalho11" label="birahcarvalho11" start="2017-10-23T23:03:45" end="2017-10-23T23:03:45">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="zegeraldo1436" label="zegeraldo1436" start="2017-11-09T21:41:14" end="2017-11-15T22:39:51">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="clicrbsrs" label="clicrbsrs" start="2017-11-09T23:00:00" end="2017-11-09T23:00:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ricardo02040104" label="ricardo02040104" start="2017-10-08T01:31:10" end="2017-10-08T01:31:10">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sapopemba" label="sapopemba" start="2017-10-02T14:55:42" end="2017-10-02T14:55:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="aliinecorreiia" label="aliinecorreiia" start="2017-03-17T18:33:47" end="2017-03-17T18:33:47">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="milroch" label="milroch" start="2017-10-18T02:39:14" end="2017-10-18T02:39:14">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="eneidaferraz" label="eneidaferraz" start="2017-10-09T19:19:36" end="2017-10-09T19:19:36">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="brazilurgente" label="brazilurgente" start="2017-10-06T22:34:08" end="2017-10-25T14:01:50">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="vejaocentro" label="vejaocentro" start="2017-10-02T22:00:12" end="2017-10-02T22:00:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gazetadopovo" label="gazetadopovo" start="2017-10-29T01:41:00" end="2017-11-30T12:54:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="agazetaweb" label="agazetaweb" start="2017-10-03T17:13:12" end="2017-10-03T17:13:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="helenacharlesc" label="helenacharlesc" start="2017-10-02T02:56:17" end="2017-10-24T22:46:17">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="witcarvalho2" label="witcarvalho2" start="2017-11-09T22:55:11" end="2017-11-09T22:55:11">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rochasergyo" label="rochasergyo" start="2017-10-02T21:35:08" end="2017-10-02T21:35:08">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rafasteles" label="rafasteles" start="2017-10-02T20:43:24" end="2017-10-02T20:43:24">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="noticiasdodia_1" label="noticiasdodia_1" start="2017-10-02T00:46:37" end="2017-10-02T00:46:37">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="internetlegal" label="internetlegal" start="2017-10-17T18:42:03" end="2017-10-17T18:42:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="nilsinhocl" label="nilsinhocl" start="2017-10-02T16:14:02" end="2017-10-02T16:14:02">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="estadaocultura" label="estadaocultura" start="2017-11-09T16:38:51" end="2017-11-09T16:38:51">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marcorj72" label="marcorj72" start="2017-10-25T01:44:49" end="2017-10-25T01:44:49">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rdsweb" label="rdsweb" start="2017-10-25T01:56:51" end="2017-10-25T01:56:51">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="thiag0dias" label="thiag0dias" start="2017-10-02T20:07:36" end="2017-11-27T18:48:08">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gabegabinho" label="gabegabinho" start="2017-01-29T22:46:55" end="2017-01-29T22:46:55">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jesusapocrifo" label="jesusapocrifo" start="2017-10-17T22:20:28" end="2017-10-17T22:20:28">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="blogospelba" label="blogospelba" start="2017-10-02T13:35:28" end="2017-10-02T13:35:28">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="q6ploda" label="q6ploda" start="2017-09-28T22:38:42" end="2017-09-28T22:38:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="herrnussbaum" label="herrnussbaum" start="2017-10-05T03:45:44" end="2017-10-05T03:45:44">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="brownpress2017" label="brownpress2017" start="2017-10-02T19:07:24" end="2017-10-06T19:04:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="blogdarenatabh" label="blogdarenatabh" start="2017-10-03T14:28:45" end="2017-10-03T14:28:45">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="buzzfeednewsbr" label="buzzfeednewsbr" start="2017-11-23T17:40:01" end="2017-11-23T17:42:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mluizacampos" label="mluizacampos" start="2017-10-06T15:00:02" end="2017-10-06T15:00:02">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="neymariam" label="neymariam" start="2017-10-04T02:13:10" end="2017-10-04T02:13:10">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ramiropissetti" label="ramiropissetti" start="2017-10-04T08:46:27" end="2017-10-04T08:46:27">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="louysejoy" label="louysejoy" start="2017-09-30T17:41:57" end="2017-09-30T17:41:57">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="einesellesenie" label="einesellesenie" start="2017-10-13T13:28:51" end="2017-10-13T13:28:51">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="buxixo" label="buxixo" start="2017-10-02T14:55:42" end="2017-10-02T14:55:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="danieljapui" label="danieljapui" start="2017-10-03T00:59:16" end="2017-10-03T00:59:16">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mulattieriraul" label="mulattieriraul" start="2017-10-16T19:18:03" end="2017-10-16T19:18:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rcastigatm" label="rcastigatm" start="2017-10-09T22:50:06" end="2017-10-09T22:50:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="veja" label="veja" start="2017-10-05T02:21:30" end="2017-11-09T16:08:58">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marcelocruz2" label="marcelocruz2" start="2017-10-12T19:02:25" end="2017-10-12T19:02:25">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="boitatah2020" label="boitatah2020" start="2017-10-02T19:45:05" end="2017-10-02T19:45:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marcofarma" label="marcofarma" start="2017-10-04T08:34:23" end="2017-10-04T08:34:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="manoellalive" label="manoellalive" start="2017-10-09T21:38:52" end="2017-10-09T21:38:52">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jeffersongerc" label="jeffersongerc" start="2017-09-29T20:10:34" end="2017-09-29T20:10:34">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="almeeidadan" label="almeeidadan" start="2017-10-01T18:38:03" end="2017-10-01T18:38:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sitemegabuzz" label="sitemegabuzz" start="2017-10-03T22:51:14" end="2017-10-03T22:51:14">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mgoreteprince" label="mgoreteprince" start="2017-11-09T17:07:11" end="2017-11-09T17:07:11">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marionegocio" label="marionegocio" start="2017-10-25T15:22:31" end="2017-11-28T21:21:07">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mprescinoti" label="mprescinoti" start="2017-09-29T00:44:12" end="2017-11-27T10:56:32">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="blaster_tpnews" label="blaster_tpnews" start="2017-09-29T21:45:22" end="2017-09-29T21:45:22">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="irineubere" label="irineubere" start="2017-10-06T12:37:53" end="2017-10-06T12:37:53">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pornsitespot" label="pornsitespot" start="2017-10-20T14:08:18" end="2017-10-20T14:08:18">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="futabloide" label="futabloide" start="2017-10-03T00:01:48" end="2017-10-03T00:01:48">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="luizantonio_ldv" label="luizantonio_ldv" start="2017-10-02T20:41:32" end="2017-10-02T20:41:32">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marcialimacris_" label="marcialimacris_" start="2017-11-28T15:25:23" end="2017-11-28T15:25:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="tadeunova" label="tadeunova" start="2017-10-22T14:30:27" end="2017-10-22T14:30:27">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="fernandesfb95" label="fernandesfb95" start="2017-10-03T21:23:09" end="2017-10-03T21:23:09">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="avidozaur" label="avidozaur" start="2017-03-08T16:09:45" end="2017-03-08T16:09:45">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="aninhamofatto" label="aninhamofatto" start="2017-10-02T21:21:22" end="2017-10-02T21:21:22">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="1thiagomoreira" label="1thiagomoreira" start="2017-03-16T23:35:35" end="2017-03-16T23:35:35">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marchahist" label="marchahist" start="2017-10-02T14:39:54" end="2017-10-02T15:02:17">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="blogteleguiado" label="blogteleguiado" start="2017-10-07T16:57:35" end="2017-10-07T17:16:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jradares" label="jradares" start="2017-11-04T03:20:39" end="2017-11-04T03:20:39">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="thaisassouza" label="thaisassouza" start="2017-10-01T14:23:43" end="2017-10-01T14:23:43">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="camarasaopaulo" label="camarasaopaulo" start="2017-10-18T21:44:52" end="2017-10-18T21:44:52">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="renatoopiceblum" label="renatoopiceblum" start="2017-10-17T19:25:13" end="2017-10-17T19:25:13">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="fps3000" label="fps3000" start="2017-09-29T02:15:14" end="2017-12-22T22:13:37">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rrinterativo" label="rrinterativo" start="2017-10-25T10:02:25" end="2017-10-25T10:02:25">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="albertocrec" label="albertocrec" start="2017-11-27T11:43:06" end="2017-11-27T11:43:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="vicebrasil" label="vicebrasil" start="2017-10-12T13:32:00" end="2017-10-12T13:32:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="beatsthemarcos" label="beatsthemarcos" start="2017-10-02T11:30:47" end="2017-10-24T22:31:22">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pelomundonow" label="pelomundonow" start="2017-10-06T17:28:05" end="2017-10-06T17:28:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="agazetase" label="agazetase" start="2017-11-09T19:41:50" end="2017-11-09T19:41:50">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="janaianauchoa" label="janaianauchoa" start="2017-10-09T10:01:21" end="2017-10-09T10:01:21">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="desouzabetalab" label="desouzabetalab" start="2017-10-03T10:11:38" end="2017-10-03T10:11:38">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="g1saopaulo" label="g1saopaulo" start="2017-10-02T14:46:08" end="2017-10-24T22:20:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="claudiacliberty" label="claudiacliberty" start="2017-09-29T09:26:40" end="2017-11-27T16:42:18">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="alesvitsky" label="alesvitsky" start="2017-10-11T02:01:34" end="2017-10-11T02:01:34">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="brunomenegueli" label="brunomenegueli" start="2017-10-21T11:12:09" end="2017-10-21T11:12:09">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="siamarr" label="siamarr" start="2017-10-03T18:39:46" end="2017-10-11T23:10:02">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="___florence" label="___florence" start="2017-03-18T21:41:40" end="2017-03-18T21:41:40">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jornaldarecord" label="jornaldarecord" start="2017-10-03T13:00:15" end="2017-10-03T13:00:15">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="felipefl10" label="felipefl10" start="2017-09-29T02:53:05" end="2017-09-29T02:53:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pa_rabello" label="pa_rabello" start="2017-10-01T00:15:34" end="2017-10-01T00:15:34">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="valtvmidia" label="valtvmidia" start="2017-10-02T00:52:35" end="2017-10-24T23:59:43">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="carlinhagomes75" label="carlinhagomes75" start="2017-10-09T01:14:22" end="2017-10-09T01:14:22">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jrwandeir" label="jrwandeir" start="2017-10-03T21:15:43" end="2017-10-03T21:15:43">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pamelaalves204" label="pamelaalves204" start="2017-10-10T20:31:52" end="2017-10-10T20:31:52">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="dalberemerick" label="dalberemerick" start="2017-09-29T00:53:56" end="2017-09-29T00:53:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="tubarao1976" label="tubarao1976" start="2017-10-04T03:33:51" end="2017-10-04T03:33:51">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="math_18dc" label="math_18dc" start="2017-10-03T13:15:56" end="2017-10-03T13:15:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jaymelimaacp" label="jaymelimaacp" start="2017-10-25T07:26:52" end="2017-10-25T07:26:52">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="soraggitiago" label="soraggitiago" start="2017-10-21T12:17:04" end="2017-10-21T12:17:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="beckmancampelo" label="beckmancampelo" start="2017-10-16T12:24:30" end="2017-10-16T12:24:30">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="domtotal" label="domtotal" start="2017-10-03T11:51:39" end="2017-10-03T11:51:39">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="portalbonde" label="portalbonde" start="2017-10-03T13:45:06" end="2017-10-03T13:45:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="aribeiromayer" label="aribeiromayer" start="2017-10-03T13:58:59" end="2017-10-03T13:58:59">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sp_arte" label="sp_arte" start="2017-11-23T19:00:45" end="2017-11-23T19:00:45">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mpires70" label="mpires70" start="2017-11-09T22:54:05" end="2017-11-09T22:54:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marcosmusse" label="marcosmusse" start="2017-10-04T01:55:30" end="2017-10-04T01:55:30">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="joaonuness_00" label="joaonuness_00" start="2017-09-28T22:44:43" end="2017-10-15T16:07:38">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ismaelsomgospel" label="ismaelsomgospel" start="2017-10-02T01:46:54" end="2017-10-02T01:46:54">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ju_assmann" label="ju_assmann" start="2017-02-17T02:58:01" end="2017-02-17T02:58:01">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="justiav" label="justiav" start="2017-10-06T02:02:24" end="2017-10-06T02:02:24">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="riva18525954" label="riva18525954" start="2017-10-17T18:50:56" end="2017-10-17T18:50:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gazetablog" label="gazetablog" start="2017-10-04T13:01:55" end="2017-10-04T13:01:55">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="carajastdbom" label="carajastdbom" start="2017-10-02T22:14:26" end="2017-10-02T22:14:26">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sarubo" label="sarubo" start="2017-10-07T16:59:03" end="2017-10-07T16:59:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="alanderson_ass" label="alanderson_ass" start="2017-10-02T20:20:58" end="2017-10-02T20:20:58">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="zzezeh" label="zzezeh" start="2017-10-05T08:43:34" end="2017-10-05T08:43:34">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="tatilobatto" label="tatilobatto" start="2017-10-04T01:43:31" end="2017-11-16T18:21:55">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="solfigueiredo" label="solfigueiredo" start="2017-10-02T22:16:42" end="2017-10-02T22:16:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="vicspm" label="vicspm" start="2017-10-02T15:28:40" end="2017-10-02T15:28:40">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sitedaboa" label="sitedaboa" start="2017-09-30T18:40:42" end="2017-09-30T18:40:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="thiagojfb" label="thiagojfb" start="2017-10-17T18:55:50" end="2017-10-17T18:55:50">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="glauco_mendes_" label="glauco_mendes_" start="2017-10-02T23:20:50" end="2017-10-02T23:20:50">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="dionarpe" label="dionarpe" start="2017-11-09T19:13:28" end="2017-11-09T19:13:28">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="dlreitaelegante" label="dlreitaelegante" start="2017-10-01T01:01:34" end="2017-10-17T13:21:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="stanleyburburin" label="stanleyburburin" start="2017-11-09T23:23:30" end="2017-11-09T23:23:30">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="reinaldo_cruz" label="reinaldo_cruz" start="2017-10-04T16:15:03" end="2017-10-04T16:15:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="g1poparte" label="g1poparte" start="2017-10-02T14:46:12" end="2017-10-09T14:28:10">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="myriandauer" label="myriandauer" start="2017-10-05T01:35:53" end="2017-10-05T01:35:53">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="joelmakarrolynn" label="joelmakarrolynn" start="2017-10-01T14:07:42" end="2017-10-01T14:07:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sorgitzak" label="sorgitzak" start="2017-09-28T22:35:09" end="2017-11-28T20:32:11">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ana_luiza72" label="ana_luiza72" start="2017-10-06T15:47:48" end="2017-10-06T15:47:48">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pregador_jeffer" label="pregador_jeffer" start="2017-09-30T14:07:25" end="2017-09-30T14:07:25">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="patrum" label="patrum" start="2017-10-25T12:24:03" end="2017-10-25T12:24:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="alinedudu" label="alinedudu" start="2017-10-15T19:47:00" end="2017-10-15T19:47:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="prmileo" label="prmileo" start="2017-10-05T10:51:56" end="2017-10-05T10:51:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="tiago_souza2012" label="tiago_souza2012" start="2017-10-21T12:31:26" end="2017-10-21T12:31:26">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jovemonlinebr" label="jovemonlinebr" start="2017-11-09T19:22:00" end="2017-11-09T19:24:32">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="paulofinatto" label="paulofinatto" start="2017-09-29T02:12:21" end="2017-09-29T02:12:21">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="agneescruz" label="agneescruz" start="2017-09-29T00:02:43" end="2017-09-29T00:02:43">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="o_raul" label="o_raul" start="2017-09-29T16:13:34" end="2017-09-29T16:13:34">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="lamaro2antonio" label="lamaro2antonio" start="2017-10-16T13:22:05" end="2017-10-16T13:22:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="abcexpurgo" label="abcexpurgo" start="2017-10-07T22:24:47" end="2017-10-07T22:24:47">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="stelles_" label="stelles_" start="2017-10-05T11:00:56" end="2017-10-05T11:00:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="cleuberdacunha" label="cleuberdacunha" start="2017-11-09T16:33:17" end="2017-11-09T21:05:26">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="notivagos" label="notivagos" start="2017-10-02T20:42:41" end="2017-10-02T20:42:41">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="max_s_schmidt" label="max_s_schmidt" start="2017-10-24T20:46:52" end="2017-10-24T20:46:52">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="claudioaranda" label="claudioaranda" start="2017-10-11T10:23:01" end="2017-10-14T17:47:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sonia_divinaa" label="sonia_divinaa" start="2017-10-17T09:18:51" end="2017-10-17T09:18:51">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="wilamesg" label="wilamesg" start="2017-10-13T19:07:09" end="2017-10-13T19:07:09">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sandraaromano" label="sandraaromano" start="2017-11-27T10:26:03" end="2017-11-27T10:26:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sandrameireles2" label="sandrameireles2" start="2017-09-29T17:36:53" end="2017-09-29T17:36:53">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="joiciqueiroz" label="joiciqueiroz" start="2017-09-30T22:43:34" end="2017-09-30T22:43:34">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="felip_pianist88" label="felip_pianist88" start="2017-11-10T02:39:08" end="2017-11-10T02:39:08">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marinagon" label="marinagon" start="2017-10-03T19:13:25" end="2017-10-03T19:13:25">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="iris_da_silva" label="iris_da_silva" start="2017-10-03T00:49:05" end="2017-11-09T21:02:38">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="leandrolefa" label="leandrolefa" start="2017-09-30T00:52:56" end="2017-09-30T00:52:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="engvpler" label="engvpler" start="2017-10-02T14:55:17" end="2017-10-25T04:22:43">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="redeaovivo1" label="redeaovivo1" start="2017-10-02T21:14:35" end="2017-10-02T21:14:35">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="joseesdribeiro" label="joseesdribeiro" start="2017-10-29T10:34:44" end="2017-10-29T10:34:44">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="winchesterunic1" label="winchesterunic1" start="2017-04-28T02:17:38" end="2017-04-28T02:17:38">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="beletri" label="beletri" start="2017-10-02T03:22:22" end="2017-10-02T03:22:22">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="cintiajcalazans" label="cintiajcalazans" start="2017-10-08T17:19:08" end="2017-10-08T17:19:08">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="renato_battista" label="renato_battista" start="2017-10-17T15:44:12" end="2017-10-17T15:44:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="bhilsantos" label="bhilsantos" start="2017-10-20T17:51:44" end="2017-11-12T13:37:58">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jornaloliberal" label="jornaloliberal" start="2017-10-03T17:50:00" end="2017-10-03T17:50:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="roberto78543271" label="roberto78543271" start="2017-10-08T10:07:16" end="2017-10-08T10:07:16">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="vaniharrysson" label="vaniharrysson" start="2017-10-04T03:43:57" end="2017-10-04T03:43:57">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pablotavaresbr" label="pablotavaresbr" start="2017-10-03T21:23:08" end="2017-10-03T21:23:08">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="melgarejoand" label="melgarejoand" start="2017-11-27T13:44:40" end="2017-11-27T13:44:40">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="obuxixo" label="obuxixo" start="2017-10-02T14:55:42" end="2017-10-02T14:55:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="valdemirovsilva" label="valdemirovsilva" start="2017-10-02T03:45:38" end="2017-11-28T01:23:19">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jornalhojeemdia" label="jornalhojeemdia" start="2017-10-03T18:01:01" end="2017-11-09T18:32:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="carsavis" label="carsavis" start="2017-10-02T03:07:26" end="2017-10-02T03:09:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="estadaopolitica" label="estadaopolitica" start="2017-10-04T13:45:56" end="2017-10-04T13:45:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="consoficial" label="consoficial" start="2017-10-09T14:24:47" end="2017-10-09T14:24:47">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jnascim" label="jnascim" start="2017-09-28T23:49:12" end="2017-09-28T23:49:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="custodiaugusta" label="custodiaugusta" start="2017-10-04T12:46:12" end="2017-10-04T12:46:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ro_marquesss" label="ro_marquesss" start="2017-10-02T19:45:06" end="2017-10-02T19:45:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="vilaalpina" label="vilaalpina" start="2017-10-02T14:55:43" end="2017-10-02T14:55:43">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ocristianoalima" label="ocristianoalima" start="2017-09-29T12:43:16" end="2017-09-29T12:43:16">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gfeedk" label="gfeedk" start="2017-10-03T21:21:12" end="2017-10-03T21:21:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="otempo" label="otempo" start="2017-11-09T16:31:53" end="2017-11-09T16:31:53">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="alessandro_art" label="alessandro_art" start="2017-10-02T19:28:02" end="2017-10-02T19:28:02">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="luizrando" label="luizrando" start="2017-10-02T22:42:23" end="2017-10-02T22:42:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="elpais_brasil" label="elpais_brasil" start="2017-10-06T14:32:55" end="2017-10-06T14:32:55">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="antoniogomesofi" label="antoniogomesofi" start="2017-10-09T16:15:15" end="2017-10-09T16:15:15">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="frpezzotti" label="frpezzotti" start="2017-11-28T03:39:06" end="2017-11-28T03:39:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="omarbatista" label="omarbatista" start="2017-10-09T21:39:35" end="2017-10-09T21:39:35">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="chicosales" label="chicosales" start="2017-10-20T12:25:07" end="2017-10-20T12:25:07">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="allanmarcusds" label="allanmarcusds" start="2017-10-03T17:00:25" end="2017-10-03T17:00:25">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="prdeboram12" label="prdeboram12" start="2017-09-29T21:20:26" end="2017-09-29T21:20:26">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="poesia_com_cafe" label="poesia_com_cafe" start="2017-10-02T01:09:17" end="2017-10-02T01:09:17">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="carolinxetc" label="carolinxetc" start="2017-10-20T16:36:27" end="2017-10-20T16:36:27">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="taniasantis4" label="taniasantis4" start="2017-10-09T21:26:56" end="2017-10-09T21:26:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="teteuraujo" label="teteuraujo" start="2017-10-06T14:45:08" end="2017-10-06T18:57:34">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="filmelierbr" label="filmelierbr" start="2017-11-07T15:19:47" end="2017-11-07T15:19:47">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="candidopereira1" label="candidopereira1" start="2017-10-16T16:05:12" end="2017-10-16T16:05:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="joserleite" label="joserleite" start="2017-11-14T21:31:51" end="2017-11-14T21:31:51">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jhilario11" label="jhilario11" start="2017-10-01T16:17:56" end="2017-10-01T16:17:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="capricieuxx" label="capricieuxx" start="2017-03-09T17:06:47" end="2017-03-09T17:06:47">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="chumbogrossom" label="chumbogrossom" start="2017-09-30T12:21:31" end="2017-09-30T12:23:57">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="blogdejamildo" label="blogdejamildo" start="2017-10-03T16:43:58" end="2017-10-03T16:43:58">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="contro_versia" label="contro_versia" start="2017-10-06T12:51:09" end="2017-10-06T12:51:09">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="elovinteeum" label="elovinteeum" start="2017-10-16T19:03:45" end="2017-10-16T19:03:45">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rosimariojr" label="rosimariojr" start="2017-09-30T21:48:43" end="2017-09-30T21:48:43">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="guiadoator" label="guiadoator" start="2017-10-02T19:14:24" end="2017-10-02T19:14:24">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="fogaca1" label="fogaca1" start="2017-10-01T01:35:32" end="2017-10-01T01:35:32">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sescsp" label="sescsp" start="2017-09-09T02:55:00" end="2017-09-09T02:55:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pnb_online" label="pnb_online" start="2017-11-09T19:04:58" end="2017-11-09T19:04:58">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gislanejs" label="gislanejs" start="2017-10-10T01:57:05" end="2017-10-10T01:57:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="josdocarmofilho" label="josdocarmofilho" start="2017-10-04T11:27:02" end="2017-10-04T11:27:02">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="giukisler" label="giukisler" start="2017-03-22T20:52:32" end="2017-03-22T20:52:32">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ggermanonews" label="ggermanonews" start="2017-09-30T04:24:55" end="2017-09-30T04:53:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="plantaof7" label="plantaof7" start="2017-10-01T02:39:46" end="2017-10-02T03:35:35">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ilhadaafantasia" label="ilhadaafantasia" start="2017-10-05T18:50:35" end="2017-10-05T18:50:35">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="bibliofobia" label="bibliofobia" start="2017-10-10T01:17:43" end="2017-10-10T01:17:43">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="crystianmo" label="crystianmo" start="2017-11-09T22:44:58" end="2017-11-09T22:44:58">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="caca_sena" label="caca_sena" start="2017-10-02T14:58:54" end="2017-10-02T14:58:54">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jeanbrasileiroo" label="jeanbrasileiroo" start="2017-10-16T16:37:47" end="2017-10-16T16:37:47">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="explicitvenus" label="explicitvenus" start="2017-10-22T13:43:45" end="2017-10-22T13:43:45">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sitedaband" label="sitedaband" start="2017-11-27T15:04:23" end="2017-11-27T15:04:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="evangelicos_77" label="evangelicos_77" start="2017-10-01T10:19:12" end="2017-10-01T10:19:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="afrothundermpi" label="afrothundermpi" start="2017-10-16T13:35:11" end="2017-10-16T13:35:30">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="fabio__valente" label="fabio__valente" start="2017-10-18T10:24:44" end="2017-10-18T10:24:44">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="guinao" label="guinao" start="2017-09-30T20:41:00" end="2017-09-30T20:41:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jwerthein" label="jwerthein" start="2017-10-03T10:33:16" end="2017-10-03T10:33:16">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="p_magalhes" label="p_magalhes" start="2017-11-09T19:50:15" end="2017-11-09T19:50:15">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="inteligovbr" label="inteligovbr" start="2017-10-03T05:20:05" end="2017-10-03T05:20:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="__deeck" label="__deeck" start="2017-03-18T01:18:33" end="2017-03-18T01:18:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="luichuma" label="luichuma" start="2017-09-28T22:47:32" end="2017-09-28T22:47:32">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="nicachaves" label="nicachaves" start="2017-10-02T02:25:02" end="2017-10-02T02:25:02">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="radiocrista" label="radiocrista" start="2017-09-30T05:58:48" end="2017-09-30T05:59:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="nessa_simao" label="nessa_simao" start="2017-03-19T21:59:39" end="2017-03-19T21:59:39">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="alex_guru" label="alex_guru" start="2017-10-01T01:50:23" end="2017-10-01T01:50:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="noronhaluiza" label="noronhaluiza" start="2017-10-07T15:35:30" end="2017-10-07T15:35:30">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="zazas_" label="zazas_" start="2017-10-02T11:43:08" end="2017-12-05T16:48:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="reporterpb" label="reporterpb" start="2017-10-01T13:02:46" end="2017-10-01T13:02:52">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="anthoniomoura" label="anthoniomoura" start="2017-09-30T23:07:20" end="2017-09-30T23:07:20">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="agoraresidencia" label="agoraresidencia" start="2017-10-03T16:40:48" end="2017-10-03T16:40:48">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="issoenoticiacba" label="issoenoticiacba" start="2017-10-05T14:30:13" end="2017-10-05T14:30:13">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="selusava" label="selusava" start="2017-10-03T21:19:27" end="2017-10-03T21:19:27">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jornalnanet" label="jornalnanet" start="2017-10-20T18:25:17" end="2017-10-20T18:25:17">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="joaobourbonll" label="joaobourbonll" start="2017-10-04T10:04:07" end="2017-10-04T10:04:13">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="deborawolf" label="deborawolf" start="2017-10-24T20:01:09" end="2017-10-24T20:01:09">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="alivia_comica" label="alivia_comica" start="2017-09-29T02:46:44" end="2017-09-29T02:46:44">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="silvana_tia_fia" label="silvana_tia_fia" start="2017-10-17T03:52:49" end="2017-10-17T03:52:49">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="portalwl" label="portalwl" start="2017-10-02T04:19:04" end="2017-10-02T04:19:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jmc_mattos" label="jmc_mattos" start="2017-10-05T19:42:00" end="2017-10-05T19:42:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="denisalve120" label="denisalve120" start="2017-10-02T21:17:54" end="2017-10-02T21:17:54">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="vitimacorrupcao" label="vitimacorrupcao" start="2017-10-02T15:32:54" end="2017-10-02T15:32:54">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="faconti" label="faconti" start="2017-10-04T20:19:09" end="2017-10-09T14:38:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="monicabergamo" label="monicabergamo" start="2017-11-27T09:52:07" end="2017-11-27T09:52:07">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="soninhafrancine" label="soninhafrancine" start="2017-10-02T01:44:59" end="2017-10-02T01:44:59">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="radardabahia" label="radardabahia" start="2017-12-12T09:51:12" end="2017-12-12T09:51:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="portalne10" label="portalne10" start="2017-10-11T18:07:56" end="2017-10-11T18:07:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="fape2" label="fape2" start="2017-11-14T00:16:13" end="2017-11-14T00:16:13">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="metropole" label="metropole" start="2017-10-02T20:12:02" end="2017-10-02T20:12:02">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sohmakuun" label="sohmakuun" start="2017-03-17T01:37:00" end="2017-03-17T01:37:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="falabrasil" label="falabrasil" start="2017-10-02T15:30:05" end="2017-10-02T15:30:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="foradobeico" label="foradobeico" start="2017-10-05T17:19:35" end="2017-10-06T17:18:02">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="doidovoce" label="doidovoce" start="2017-10-07T03:18:44" end="2017-10-07T03:18:44">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="idcsummitbr" label="idcsummitbr" start="2017-10-03T21:28:44" end="2017-10-03T21:28:44">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="luizfricas" label="luizfricas" start="2017-10-04T13:06:38" end="2017-10-04T13:06:38">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jovempanentrete" label="jovempanentrete" start="2017-10-10T18:30:01" end="2017-10-17T17:30:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="igosales23" label="igosales23" start="2017-10-17T03:17:42" end="2017-10-17T03:17:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="blogdofavre" label="blogdofavre" start="2017-10-04T12:00:03" end="2017-10-04T12:00:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ogamendonca" label="ogamendonca" start="2017-10-16T13:15:24" end="2017-10-16T13:15:24">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mccnacional" label="mccnacional" start="2017-10-24T23:36:26" end="2017-10-24T23:36:26">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="folhagospel" label="folhagospel" start="2017-11-28T19:06:10" end="2017-11-28T19:06:10">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="elizeudionizio" label="elizeudionizio" start="2017-11-16T18:59:28" end="2017-11-16T18:59:28">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gzhdigital" label="gzhdigital" start="2017-11-09T18:00:02" end="2017-11-09T18:00:02">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="biancovic" label="biancovic" start="2017-09-29T15:53:48" end="2017-09-29T15:53:48">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="revistavoto" label="revistavoto" start="2017-11-09T19:17:47" end="2017-11-09T19:17:47">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="douglaswerickso" label="douglaswerickso" start="2017-12-01T13:33:19" end="2017-12-01T13:33:19">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="erbubarana" label="erbubarana" start="2017-10-09T23:11:34" end="2017-10-09T23:11:34">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="selmanery" label="selmanery" start="2017-11-16T01:00:44" end="2017-11-16T01:00:44">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ideias_gp" label="ideias_gp" start="2017-10-29T00:35:08" end="2017-11-30T12:27:43">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="brechomuah" label="brechomuah" start="2017-10-02T14:10:27" end="2017-10-02T14:10:27">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="livre_opiniao1" label="livre_opiniao1" start="2017-04-24T17:21:36" end="2017-04-24T17:21:36">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rafael_burgos" label="rafael_burgos" start="2017-10-06T19:10:26" end="2017-10-06T19:10:26">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sameicarvalhofe" label="sameicarvalhofe" start="2017-09-30T18:58:56" end="2017-09-30T18:58:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="moises73220568" label="moises73220568" start="2017-10-04T00:28:06" end="2017-10-04T00:28:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="francianigalvao" label="francianigalvao" start="2017-09-29T17:22:29" end="2017-09-29T17:22:29">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="cbnoficial" label="cbnoficial" start="2017-11-09T21:01:14" end="2017-11-09T21:01:14">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="threesomerock" label="threesomerock" start="2017-11-15T19:55:09" end="2017-11-15T19:55:09">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="lcsoarez" label="lcsoarez" start="2017-09-29T21:14:14" end="2017-09-29T21:14:14">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="dudavieira31" label="dudavieira31" start="2017-09-29T01:56:12" end="2017-09-29T01:56:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="j_robertocs" label="j_robertocs" start="2017-10-17T23:17:30" end="2017-10-17T23:26:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="nandinho_luiz" label="nandinho_luiz" start="2017-11-23T10:44:23" end="2017-11-23T10:44:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="fereformadajp" label="fereformadajp" start="2017-10-19T02:47:24" end="2017-10-19T02:47:24">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="thaisturlao" label="thaisturlao" start="2017-03-19T02:17:48" end="2017-03-19T02:17:48">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ecchagas" label="ecchagas" start="2017-11-01T19:31:57" end="2017-11-01T19:31:57">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jac_beta" label="jac_beta" start="2017-10-02T23:22:06" end="2017-10-02T23:22:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="diretorwell" label="diretorwell" start="2017-10-16T10:46:20" end="2017-10-16T10:46:20">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="bergferraz" label="bergferraz" start="2017-11-09T16:32:24" end="2017-11-09T16:32:24">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="robson_rochac" label="robson_rochac" start="2017-09-30T13:57:08" end="2017-09-30T13:57:08">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="eduardorauberc" label="eduardorauberc" start="2017-10-25T19:03:02" end="2017-10-25T19:03:02">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="kellykaroll" label="kellykaroll" start="2017-10-02T16:18:10" end="2017-10-02T16:18:10">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="dalemorenno" label="dalemorenno" start="2017-10-06T14:34:16" end="2017-10-06T14:34:16">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="cestasdecafejpa" label="cestasdecafejpa" start="2017-11-28T14:08:05" end="2017-11-28T14:08:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="botecoteologico" label="botecoteologico" start="2017-10-17T18:47:59" end="2017-10-17T18:47:59">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="podcast45" label="podcast45" start="2017-10-05T12:59:33" end="2017-10-05T12:59:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jefcodix" label="jefcodix" start="2017-10-04T17:22:51" end="2017-10-25T01:25:19">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="astronautaposts" label="astronautaposts" start="2017-10-01T20:45:51" end="2017-10-01T20:45:51">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="fatimalima8" label="fatimalima8" start="2017-11-27T19:28:22" end="2017-11-27T19:28:22">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="bravonline" label="bravonline" start="2017-09-26T13:27:45" end="2017-10-03T00:07:18">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="boatosorg" label="boatosorg" start="2017-10-01T23:52:49" end="2017-10-15T02:18:29">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marcosreis88" label="marcosreis88" start="2017-11-16T19:40:49" end="2017-11-16T19:40:49">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jfcomenale" label="jfcomenale" start="2017-10-16T14:51:18" end="2017-10-16T14:51:18">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="julianaayres" label="julianaayres" start="2017-10-09T12:14:36" end="2017-10-19T03:22:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rededefesavida" label="rededefesavida" start="2017-10-06T14:54:44" end="2017-10-23T14:10:57">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="funarte_codanca" label="funarte_codanca" start="2017-03-06T18:57:04" end="2017-03-10T19:38:08">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="laaris2a" label="laaris2a" start="2017-03-20T21:53:14" end="2017-03-20T21:53:14">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="movavantebrasil" label="movavantebrasil" start="2017-10-02T21:31:11" end="2017-10-02T21:31:11">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="torresmouramari" label="torresmouramari" start="2017-10-02T20:40:50" end="2017-10-02T20:40:50">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marioscand" label="marioscand" start="2017-10-10T01:08:22" end="2017-10-18T00:17:54">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="oliboni" label="oliboni" start="2017-10-04T11:41:36" end="2017-10-04T11:41:36">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="destak" label="destak" start="2017-11-27T23:04:00" end="2017-11-27T23:04:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="alcionemachado1" label="alcionemachado1" start="2017-10-04T02:01:29" end="2017-10-04T02:01:29">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mgoncalves_74" label="mgoncalves_74" start="2017-11-15T17:07:50" end="2017-11-15T17:07:50">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jornaloglobo" label="jornaloglobo" start="2017-10-02T20:02:39" end="2017-11-27T18:40:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ellenbittenc" label="ellenbittenc" start="2017-10-09T15:04:04" end="2017-10-09T15:04:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="felipevini93" label="felipevini93" start="2017-09-29T04:12:41" end="2017-09-29T04:12:41">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="brbgus" label="brbgus" start="2017-10-03T17:16:22" end="2017-10-03T17:16:22">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="salinas_1977" label="salinas_1977" start="2017-10-10T18:43:06" end="2017-10-10T18:43:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="huffpostbrasil" label="huffpostbrasil" start="2017-10-02T20:13:04" end="2017-10-02T22:15:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="josueisonline" label="josueisonline" start="2017-10-18T08:50:47" end="2017-10-18T08:50:47">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="webevangelista" label="webevangelista" start="2017-10-20T19:32:57" end="2017-10-20T19:32:57">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="franciscoborlly" label="franciscoborlly" start="2017-10-09T18:26:00" end="2017-10-09T18:26:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pixopexu" label="pixopexu" start="2017-11-05T18:30:56" end="2017-11-05T18:30:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="raphaellimarod1" label="raphaellimarod1" start="2017-10-02T20:30:22" end="2017-10-02T20:30:22">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rorositaalmeida" label="rorositaalmeida" start="2017-10-02T14:55:40" end="2017-10-02T14:55:40">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="allessha" label="allessha" start="2017-09-30T22:03:03" end="2017-09-30T22:03:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="dunizinhaj" label="dunizinhaj" start="2017-10-01T18:21:09" end="2017-10-01T18:21:09">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="tstt_contato" label="tstt_contato" start="2017-10-02T19:59:10" end="2017-10-02T19:59:10">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="liabssa" label="liabssa" start="2017-10-02T21:25:11" end="2017-10-06T18:03:10">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="bandplay" label="bandplay" start="2017-10-02T18:00:05" end="2017-10-02T18:00:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="amarok_luppus" label="amarok_luppus" start="2017-10-01T22:45:38" end="2017-11-09T22:08:11">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="semprealimac" label="semprealimac" start="2017-10-02T20:13:20" end="2017-10-02T20:13:20">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="kaoxsti" label="kaoxsti" start="2017-10-03T17:33:38" end="2017-10-03T17:33:38">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="souzachris08" label="souzachris08" start="2017-10-17T18:55:55" end="2017-10-17T18:55:55">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="majorlessa" label="majorlessa" start="2017-10-08T04:35:05" end="2017-10-08T04:35:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="hugoleal85" label="hugoleal85" start="2017-11-27T15:15:42" end="2017-11-27T15:15:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="clfpadilha" label="clfpadilha" start="2017-10-05T20:46:11" end="2017-10-05T20:46:11">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="adyrneto" label="adyrneto" start="2017-10-01T19:19:57" end="2017-10-01T19:19:57">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="candidoalex" label="candidoalex" start="2017-10-03T00:40:06" end="2017-10-03T00:40:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="silmargama" label="silmargama" start="2017-10-04T07:16:20" end="2017-10-04T07:16:20">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="farolpontonews" label="farolpontonews" start="2017-11-27T06:53:14" end="2017-11-27T06:53:14">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="catracalivre" label="catracalivre" start="2017-10-08T13:17:09" end="2017-10-08T13:17:09">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="alagoasalerta" label="alagoasalerta" start="2017-11-28T19:44:21" end="2017-11-28T19:44:21">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mors_rodrigo" label="mors_rodrigo" start="2017-11-27T16:11:50" end="2017-11-27T16:11:50">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="azpornsites" label="azpornsites" start="2017-10-28T14:12:23" end="2017-10-28T14:12:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="laudinhocarlos" label="laudinhocarlos" start="2017-10-16T12:17:48" end="2017-10-16T12:17:48">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="emrondonia" label="emrondonia" start="2017-10-01T19:03:16" end="2017-10-01T19:03:16">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="depjefferson" label="depjefferson" start="2017-10-10T15:27:05" end="2017-10-10T15:27:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="amandafaccioni" label="amandafaccioni" start="2017-10-06T18:58:54" end="2017-10-06T18:58:54">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ayrtonbap" label="ayrtonbap" start="2017-09-29T03:39:22" end="2017-09-29T03:39:22">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="aluizcosta" label="aluizcosta" start="2017-11-10T13:10:33" end="2017-12-01T12:05:55">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jornalodia" label="jornalodia" start="2017-10-03T13:06:30" end="2017-10-03T13:06:30">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="luizmarinhosiv" label="luizmarinhosiv" start="2017-11-15T23:46:57" end="2017-11-15T23:46:57">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gustavo_amorim_" label="gustavo_amorim_" start="2017-10-30T13:57:16" end="2017-10-30T13:57:16">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="_brunoalmeida" label="_brunoalmeida" start="2017-10-02T19:30:45" end="2017-10-02T19:30:45">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="g1" label="g1" start="2017-10-02T02:51:00" end="2017-10-25T01:45:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="camararecife" label="camararecife" start="2017-10-02T18:30:15" end="2017-10-02T18:30:15">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="n_carvalheira" label="n_carvalheira" start="2017-11-15T13:59:00" end="2017-11-15T13:59:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="deinha2017" label="deinha2017" start="2017-10-03T13:58:15" end="2017-10-03T13:58:15">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="eliokohut" label="eliokohut" start="2017-10-03T02:43:25" end="2017-10-03T02:43:25">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="semprefamilia_" label="semprefamilia_" start="2017-10-06T15:59:03" end="2017-10-06T15:59:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="f_tringoni" label="f_tringoni" start="2017-10-03T23:29:07" end="2017-10-03T23:29:07">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="prozeiassilva" label="prozeiassilva" start="2017-10-25T08:29:53" end="2017-10-25T08:29:53">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="canaltech" label="canaltech" start="2017-10-03T21:15:03" end="2017-10-03T21:15:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mwgallo" label="mwgallo" start="2017-10-24T22:39:22" end="2017-10-24T22:39:22">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="overbonews" label="overbonews" start="2017-11-28T13:26:31" end="2017-11-28T13:26:31">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gatodoespinosa" label="gatodoespinosa" start="2017-07-12T20:15:18" end="2017-07-12T20:15:18">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="thiag_go" label="thiag_go" start="2017-04-22T02:21:09" end="2017-04-22T02:21:09">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="defrayment8" label="defrayment8" start="2017-10-01T00:51:41" end="2017-10-01T00:51:41">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="controleremoto" label="controleremoto" start="2017-10-02T14:55:42" end="2017-10-02T14:55:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="alexprocesso" label="alexprocesso" start="2017-10-05T10:12:41" end="2017-11-15T23:47:32">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="netoweba" label="netoweba" start="2017-10-02T09:33:44" end="2017-10-02T09:33:44">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="leofrancabarros" label="leofrancabarros" start="2017-10-10T03:14:29" end="2017-10-10T03:14:29">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mbenevides1977" label="mbenevides1977" start="2017-09-30T08:49:03" end="2017-09-30T08:49:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="iamalicinha" label="iamalicinha" start="2017-12-08T14:48:52" end="2017-12-08T14:48:52">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="manifestocomuna" label="manifestocomuna" start="2017-10-04T15:38:10" end="2017-10-05T11:04:36">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gus6_" label="gus6_" start="2017-09-28T22:57:03" end="2017-09-28T22:57:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="iriabarradas" label="iriabarradas" start="2017-10-04T12:49:40" end="2017-10-04T12:49:40">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="coiceandpoesia" label="coiceandpoesia" start="2017-09-30T21:24:24" end="2017-09-30T21:24:24">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="instveracruz" label="instveracruz" start="2017-10-17T15:00:03" end="2017-10-17T15:00:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pedrorichter" label="pedrorichter" start="2017-11-15T17:14:03" end="2017-11-15T17:14:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="natangsn25" label="natangsn25" start="2017-10-24T03:41:05" end="2017-10-24T03:41:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="welber100" label="welber100" start="2017-09-30T03:02:35" end="2017-09-30T03:02:35">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gazetasaocarlos" label="gazetasaocarlos" start="2017-04-23T23:49:19" end="2017-04-23T23:49:19">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="oestadoms" label="oestadoms" start="2017-09-29T12:29:18" end="2017-09-29T12:29:18">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="posennigbr" label="posennigbr" start="2017-08-06T11:45:26" end="2017-08-06T11:45:26">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jorgeketinho" label="jorgeketinho" start="2017-10-18T04:33:04" end="2017-10-18T04:33:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="koneksyon_509" label="koneksyon_509" start="2017-03-29T09:00:40" end="2017-06-11T13:07:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="fmgrauna" label="fmgrauna" start="2017-10-09T16:42:10" end="2017-10-09T16:42:10">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mendesonca" label="mendesonca" start="2017-10-05T11:49:07" end="2017-10-05T11:49:07">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="flavio_slz" label="flavio_slz" start="2017-10-04T14:04:25" end="2017-10-04T14:04:25">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="yasming20" label="yasming20" start="2017-10-30T02:11:31" end="2017-10-30T02:11:31">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="duanneribeiro" label="duanneribeiro" start="2017-10-11T18:23:27" end="2017-10-11T18:23:27">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="bizungajunior" label="bizungajunior" start="2017-10-01T21:53:59" end="2017-10-01T21:53:59">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="forumdocafe" label="forumdocafe" start="2017-10-03T11:04:02" end="2017-10-03T11:04:02">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mariluparreiras" label="mariluparreiras" start="2017-11-09T17:46:17" end="2017-11-09T17:46:17">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="julio_dutra" label="julio_dutra" start="2017-10-02T19:38:26" end="2017-10-02T19:38:26">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pedrowalentim" label="pedrowalentim" start="2017-12-20T20:58:28" end="2017-12-20T20:58:28">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="iampet_" label="iampet_" start="2017-09-29T00:54:41" end="2017-09-29T00:54:41">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="_andersonbrasil" label="_andersonbrasil" start="2017-10-01T17:34:52" end="2017-10-01T17:35:52">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="porndestroi" label="porndestroi" start="2017-10-08T20:30:40" end="2017-11-28T13:27:13">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="dancomida" label="dancomida" start="2017-10-02T20:30:33" end="2017-10-02T20:30:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="flwshs" label="flwshs" start="2017-07-17T23:58:32" end="2017-07-17T23:58:32">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="luizsantiago" label="luizsantiago" start="2017-10-02T15:15:13" end="2017-10-09T15:20:25">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="imperfectworld_" label="imperfectworld_" start="2017-10-02T15:41:28" end="2017-10-02T15:41:28">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jamesroy" label="jamesroy" start="2017-10-05T02:28:06" end="2017-11-09T16:13:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gabrielgiess" label="gabrielgiess" start="2017-10-06T18:58:23" end="2017-10-06T18:58:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="fzylber" label="fzylber" start="2017-10-04T17:25:29" end="2017-10-04T17:25:29">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="correiodovale42" label="correiodovale42" start="2017-11-28T20:04:36" end="2017-11-28T20:04:36">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jesuita13" label="jesuita13" start="2017-10-19T03:11:13" end="2017-10-19T03:11:13">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="joseclaudemir" label="joseclaudemir" start="2017-10-17T03:23:24" end="2017-10-17T03:23:24">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="eudes_scfc" label="eudes_scfc" start="2017-10-16T02:25:11" end="2017-10-16T02:25:11">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pereira_jr1" label="pereira_jr1" start="2017-10-01T13:02:46" end="2017-10-01T13:03:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gilvanefabiana" label="gilvanefabiana" start="2017-09-30T02:17:04" end="2017-09-30T02:17:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="edsonjslira" label="edsonjslira" start="2017-10-01T01:22:42" end="2017-10-01T01:22:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="castielcw" label="castielcw" start="2017-10-08T07:54:43" end="2017-10-08T07:54:43">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sergiocozzo" label="sergiocozzo" start="2017-10-07T23:31:50" end="2017-10-07T23:31:50">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ritaoli36702816" label="ritaoli36702816" start="2017-10-09T15:08:00" end="2017-10-09T15:08:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="patricinhadobro" label="patricinhadobro" start="2017-10-09T19:26:20" end="2017-10-09T19:26:20">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="edsonmarcosgar2" label="edsonmarcosgar2" start="2017-09-30T23:05:57" end="2017-09-30T23:47:34">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="betehiga" label="betehiga" start="2017-09-29T20:27:15" end="2017-09-29T20:27:15">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="eeucomissotb" label="eeucomissotb" start="2017-11-27T13:43:46" end="2017-11-27T13:43:46">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marciojmsilva" label="marciojmsilva" start="2017-10-03T22:27:46" end="2017-10-03T22:27:46">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="soupalestina" label="soupalestina" start="2017-10-05T15:49:45" end="2017-10-05T15:49:45">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="adriano_atm" label="adriano_atm" start="2017-11-28T13:28:52" end="2017-11-28T13:28:52">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rouge_gorge_of" label="rouge_gorge_of" start="2017-07-16T22:04:12" end="2017-07-16T22:04:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="oglobo_cultura" label="oglobo_cultura" start="2017-10-02T17:55:23" end="2017-10-25T16:30:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="claudagalmeida" label="claudagalmeida" start="2017-10-01T17:18:11" end="2017-10-20T10:01:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="reissrgio" label="reissrgio" start="2017-10-01T21:14:01" end="2017-11-29T16:47:12">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sergiorrodrig" label="sergiorrodrig" start="2017-10-03T14:00:50" end="2017-10-03T14:00:50">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="cardosocarlos" label="cardosocarlos" start="2017-10-17T22:17:50" end="2017-10-17T22:17:50">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mssaraiva" label="mssaraiva" start="2017-10-07T01:25:57" end="2017-10-07T01:25:57">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="eusigoomauricio" label="eusigoomauricio" start="2017-10-02T18:20:32" end="2017-10-02T18:20:32">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="revistalaica" label="revistalaica" start="2017-10-03T18:11:29" end="2017-10-03T18:11:29">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="andersonfalei" label="andersonfalei" start="2017-10-17T18:36:45" end="2017-10-17T18:36:45">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="canal_e_treta" label="canal_e_treta" start="2017-10-11T11:59:40" end="2017-10-11T11:59:40">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="reevespatriota" label="reevespatriota" start="2017-10-09T18:13:44" end="2017-10-09T18:13:44">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="news_rondonia" label="news_rondonia" start="2017-10-01T02:06:39" end="2017-10-01T14:58:44">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="vladimiralves" label="vladimiralves" start="2017-10-02T14:55:44" end="2017-10-02T14:55:44">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gsdltimbeta" label="gsdltimbeta" start="2017-10-08T14:12:48" end="2017-10-08T14:12:48">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rodrigopaivinha" label="rodrigopaivinha" start="2017-10-01T05:42:44" end="2017-10-01T05:42:44">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rainersousa" label="rainersousa" start="2017-10-02T10:20:00" end="2017-10-02T10:20:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="comunicacional" label="comunicacional" start="2017-10-02T01:27:19" end="2017-10-02T01:27:19">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="diogodionizio" label="diogodionizio" start="2017-11-15T21:58:52" end="2017-11-15T21:58:52">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="anderson_mmo" label="anderson_mmo" start="2017-11-28T12:42:42" end="2017-11-28T12:42:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gutoalves" label="gutoalves" start="2017-03-20T00:31:15" end="2017-03-20T00:31:15">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="cstaand" label="cstaand" start="2017-10-02T21:55:59" end="2017-10-17T21:40:51">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gazetagr21" label="gazetagr21" start="2017-10-04T01:20:25" end="2017-10-04T01:20:25">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="plenonews" label="plenonews" start="2017-10-05T18:07:08" end="2017-11-15T21:46:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="hal_aquino_" label="hal_aquino_" start="2017-10-30T07:56:21" end="2017-10-30T07:56:21">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="junnoevren" label="junnoevren" start="2017-10-19T04:41:26" end="2017-10-19T04:41:26">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="beth_zenari" label="beth_zenari" start="2017-09-30T11:02:27" end="2017-09-30T11:02:27">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="versatilrp" label="versatilrp" start="2017-10-06T12:00:03" end="2017-10-06T12:00:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="consumll" label="consumll" start="2017-10-03T18:18:45" end="2017-10-03T18:18:45">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="cmmorel" label="cmmorel" start="2017-10-03T15:32:09" end="2017-10-03T15:32:09">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="patoka" label="patoka" start="2017-03-16T18:51:27" end="2017-03-16T18:51:27">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="painelpolitico" label="painelpolitico" start="2017-10-03T13:13:19" end="2017-11-16T12:36:20">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="aklons" label="aklons" start="2017-09-29T20:50:49" end="2017-09-29T20:50:49">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="milaiellamo" label="milaiellamo" start="2017-10-20T22:34:33" end="2017-10-20T22:34:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="paulopes" label="paulopes" start="2017-10-17T18:33:37" end="2017-10-17T18:33:37">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ntrvzz" label="ntrvzz" start="2017-07-08T05:33:31" end="2017-07-08T05:33:31">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="deuszaum" label="deuszaum" start="2017-10-02T21:10:16" end="2017-10-02T21:10:16">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="siteletras" label="siteletras" start="2017-10-09T16:30:04" end="2017-10-09T16:30:04">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marydlourds" label="marydlourds" start="2017-10-02T20:35:00" end="2017-10-02T20:35:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="prof_paulocesar" label="prof_paulocesar" start="2017-10-02T08:58:39" end="2017-10-03T10:23:09">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="fest_curitiba" label="fest_curitiba" start="2017-03-25T22:35:20" end="2017-03-25T22:35:20">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="salvioluiz23" label="salvioluiz23" start="2017-10-16T13:14:49" end="2017-10-16T13:14:49">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="aredacao" label="aredacao" start="2017-10-03T11:28:42" end="2017-10-03T11:28:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="joserey1506" label="joserey1506" start="2017-11-27T16:57:42" end="2017-11-27T16:57:42">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="taboaodaserra" label="taboaodaserra" start="2017-10-05T17:28:10" end="2017-10-05T17:28:10">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="1tiow" label="1tiow" start="2017-12-30T01:45:02" end="2017-12-30T01:45:02">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="torres_w13" label="torres_w13" start="2017-10-04T12:51:22" end="2017-11-06T05:30:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jacks2fernandes" label="jacks2fernandes" start="2017-10-03T21:17:33" end="2017-10-03T21:17:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pastoravanusa" label="pastoravanusa" start="2017-10-03T09:39:16" end="2017-10-03T09:39:16">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="redepsico" label="redepsico" start="2017-10-04T02:08:33" end="2017-10-04T02:08:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jc_pe" label="jc_pe" start="2017-10-03T15:13:03" end="2017-10-03T15:13:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="astrornauta" label="astrornauta" start="2017-10-04T00:48:39" end="2017-10-04T00:48:39">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="humbertoreisjr" label="humbertoreisjr" start="2017-10-16T14:42:51" end="2017-10-16T14:42:51">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sitefolhamt" label="sitefolhamt" start="2017-10-02T21:15:25" end="2017-10-02T21:15:25">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="maripaescomes" label="maripaescomes" start="2017-03-21T21:36:56" end="2017-03-21T21:36:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="oieusouobixo" label="oieusouobixo" start="2017-10-04T11:47:11" end="2017-10-04T11:47:11">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="glauciapsilva" label="glauciapsilva" start="2017-10-02T11:31:56" end="2017-10-02T11:31:56">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="paulacamara_" label="paulacamara_" start="2017-10-05T21:27:51" end="2017-10-05T21:27:51">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="dompiaaano" label="dompiaaano" start="2017-10-16T11:08:13" end="2017-10-16T11:08:13">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="cristaomais_" label="cristaomais_" start="2017-10-18T13:23:53" end="2017-10-18T13:23:53">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="dione_miranda" label="dione_miranda" start="2017-10-05T12:49:46" end="2017-10-05T12:49:46">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marciofiorini" label="marciofiorini" start="2017-10-10T17:58:20" end="2017-10-10T17:58:20">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="polemicaparaiba" label="polemicaparaiba" start="2017-10-03T12:34:32" end="2017-10-03T12:34:32">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="hadsonneri" label="hadsonneri" start="2017-10-19T17:52:06" end="2017-10-19T17:52:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="wilfreitass" label="wilfreitass" start="2017-09-29T14:36:00" end="2017-09-29T14:36:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="carlazahlouth" label="carlazahlouth" start="2017-11-14T22:39:03" end="2017-11-14T22:39:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="nebula_pollux" label="nebula_pollux" start="2017-11-08T13:41:23" end="2017-11-08T13:41:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="laviholic" label="laviholic" start="2017-10-24T22:21:39" end="2017-10-24T22:21:39">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="amsl2013" label="amsl2013" start="2017-10-24T19:36:34" end="2017-10-24T19:36:34">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="apoiobrasilus" label="apoiobrasilus" start="2017-09-29T13:21:23" end="2017-09-29T13:21:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gutembergc" label="gutembergc" start="2017-10-03T12:34:35" end="2017-10-03T12:34:35">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="joeduardoaraujo" label="joeduardoaraujo" start="2017-10-20T00:04:35" end="2017-10-20T00:06:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="igorpps" label="igorpps" start="2017-03-17T22:03:52" end="2017-03-17T22:03:52">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="picover" label="picover" start="2017-10-01T12:41:13" end="2017-10-01T12:41:13">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="_belcorpbrasil" label="_belcorpbrasil" start="2017-09-30T20:54:52" end="2017-09-30T20:54:52">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="tlipeaks33" label="tlipeaks33" start="2017-10-04T17:26:19" end="2017-10-04T17:26:19">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jornal_pp" label="jornal_pp" start="2017-04-13T09:31:35" end="2017-04-13T09:31:35">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="jovempannews" label="jovempannews" start="2017-10-05T15:06:45" end="2017-11-09T18:10:05">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="batgirl2003" label="batgirl2003" start="2017-10-08T03:58:10" end="2017-10-17T01:38:13">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gomesmerson" label="gomesmerson" start="2017-10-17T03:53:07" end="2017-10-17T03:53:07">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="biacruz97" label="biacruz97" start="2017-11-15T18:13:03" end="2017-11-15T18:13:03">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="vaporbarato34" label="vaporbarato34" start="2017-11-15T17:19:55" end="2017-11-15T17:19:55">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="felipe_0lly7" label="felipe_0lly7" start="2017-09-28T23:45:23" end="2017-09-28T23:45:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="klad77l" label="klad77l" start="2017-10-10T18:39:41" end="2017-10-10T18:39:41">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="rofacanha" label="rofacanha" start="2017-10-04T13:47:55" end="2017-10-04T13:47:55">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="juberdonizete" label="juberdonizete" start="2017-10-23T12:26:23" end="2017-10-23T12:26:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="lucas_simoesrj" label="lucas_simoesrj" start="2017-10-02T19:31:19" end="2017-10-02T19:31:19">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="palluantonia" label="palluantonia" start="2017-09-30T00:25:53" end="2017-09-30T00:25:53">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="juniorags" label="juniorags" start="2017-10-13T17:44:33" end="2017-10-13T17:44:33">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="marcofeliciano" label="marcofeliciano" start="2017-09-01T06:23:42" end="2017-11-16T17:00:57">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="raizito_" label="raizito_" start="2017-10-04T20:44:23" end="2017-10-04T20:44:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="osintrdsweb" label="osintrdsweb" start="2017-10-25T01:56:41" end="2017-10-25T01:56:41">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="portalr7" label="portalr7" start="2017-10-02T21:30:01" end="2017-10-02T21:30:01">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="assis_leao" label="assis_leao" start="2017-09-30T23:53:19" end="2017-09-30T23:53:19">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="gospelprime" label="gospelprime" start="2017-09-30T19:00:07" end="2017-11-28T13:01:10">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="noticious" label="noticious" start="2017-10-04T15:01:49" end="2017-10-06T14:40:37">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="usponline" label="usponline" start="2017-10-17T18:15:00" end="2017-10-17T18:15:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="minasvan" label="minasvan" start="2017-09-30T22:43:22" end="2017-09-30T22:43:22">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="alternativatupa" label="alternativatupa" start="2017-10-03T14:03:14" end="2017-10-03T14:03:34">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="ebaviation" label="ebaviation" start="2017-10-16T03:12:22" end="2017-10-16T03:12:22">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mirandasa_" label="mirandasa_" start="2017-10-02T19:55:50" end="2017-10-02T19:55:50">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="tiimhaliik" label="tiimhaliik" start="2017-06-04T00:02:54" end="2017-06-04T00:02:54">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="pinhomrb" label="pinhomrb" start="2017-10-04T14:53:26" end="2017-10-04T14:53:26">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="conect_godinho" label="conect_godinho" start="2017-10-02T01:05:10" end="2017-11-27T20:03:54">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="aleinars" label="aleinars" start="2017-10-05T11:14:23" end="2017-10-05T11:14:23">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="egmon" label="egmon" start="2017-10-20T13:27:59" end="2017-10-20T13:27:59">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="sitecodigofonte" label="sitecodigofonte" start="2017-10-03T20:01:11" end="2017-10-03T20:01:11">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="timbetanovo122" label="timbetanovo122" start="2017-10-05T03:07:46" end="2017-11-09T16:52:30">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="minetovski" label="minetovski" start="2017-10-02T20:19:25" end="2017-10-02T20:19:25">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="anonymousbr4sil" label="anonymousbr4sil" start="2017-10-02T23:51:08" end="2017-10-25T07:15:06">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="emanuelmoura" label="emanuelmoura" start="2017-10-11T20:00:00" end="2017-10-11T20:00:00">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="lucianazelante" label="lucianazelante" start="2017-10-16T17:42:33" end="2017-10-16T17:42:34">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="desireelourenco" label="desireelourenco" start="2017-03-18T00:18:13" end="2017-03-18T00:18:13">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="claudiadabreu12" label="claudiadabreu12" start="2017-10-02T19:30:14" end="2017-11-16T01:24:16">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="mzt_neto" label="mzt_neto" start="2017-10-04T09:14:35" end="2017-10-04T09:14:35">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="buckroger97" label="buckroger97" start="2017-10-04T18:35:01" end="2017-10-04T18:35:01">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="podcastsb9" label="podcastsb9" start="2017-10-02T10:58:30" end="2017-10-02T10:58:30">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="andre_mpin" label="andre_mpin" start="2017-10-02T20:30:30" end="2017-10-02T20:30:30">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+      <node id="questao_z" label="questao_z" start="2017-10-19T06:30:45" end="2017-10-19T06:31:10">
+        <attvalues>
+          <attvalue for="0" value="neutro" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges />
+  </graph>
+</gexf>

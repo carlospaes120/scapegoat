@@ -10,7 +10,7 @@ with open(input_path, 'r', encoding='utf-8') as infile:
         obj = json.loads(line)
         print(obj)
         tasks.append({
-            "text": obj["cleaned_text_bow"],
+            "text": obj["cleaned_text"],
             "id": obj["id"]
         })
 
