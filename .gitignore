@@ -106,3 +106,7 @@ logs/**
 
 # notebooks cache
 *.nbproject
+
+outputs/
+
+**/__pycache__/
