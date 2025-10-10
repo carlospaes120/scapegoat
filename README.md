@@ -2,6 +2,21 @@
 
 Pipeline reprodutível em Python para processar casos de "cancelamento" no X/Twitter e gerar figuras e métricas de análise de rede.
 
+## 🆕 Novo: Modelo NetLogo Instrumentado
+
+Este repositório agora inclui um **modelo NetLogo completamente instrumentado** para coleta de dados e comparação com dados empíricos do Twitter.
+
+**🚀 Início Rápido**: Veja [`QUICK_START.md`](QUICK_START.md)  
+**📚 Documentação Completa**: Veja [`README_DATA_COLLECTION.md`](README_DATA_COLLECTION.md)
+
+**Principais recursos**:
+- ✅ Exportação automática de eventos (CSV)
+- ✅ Séries temporais completas (por tick)
+- ✅ Snapshots de rede (nós + arestas)
+- ✅ Geração de GEXF/GraphML para Gephi
+- ✅ Scripts de análise em Python
+- ✅ Pipeline de teste integrado
+
 ## 🚀 Instalação e Configuração
 
 ### 1. Criar ambiente virtual

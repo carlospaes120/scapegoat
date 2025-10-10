@@ -34,7 +34,18 @@ import glob
 
 import pandas as pd
 import networkx as nx
-import community as community_louvain
+# --- Louvain (robusto ao ambiente) ---
+community_louvain = None
+try:
+    import community as community_louvain                 # pacote python-louvain
+except Exception:
+    try:
+        import community.community_louvain as community_louvain
+    except Exception as e:
+        community_louvain = None
+        print("[WARN] python-louvain indisponível:", repr(e))
+# -------------------------------------
+
 
 
 def setup_logging(level: str = "INFO") -> None:
@@ -349,18 +360,14 @@ def compute_metrics(G: nx.DiGraph, btw_sample: int = 0) -> Tuple[Dict, pd.DataFr
     in_deg_centralization = indegree_centralization(G)
     
     # Modularidade (Louvain)
-    try:
-        undirected = G.to_undirected()
-        if undirected.number_of_edges() > 0:
-            partition = community_louvain.best_partition(undirected, weight="weight")
-            modularity = community_louvain.modularity(partition, undirected, weight="weight")
-        else:
-            partition = {node: 0 for node in G.nodes()}
-            modularity = 0.0
-    except Exception as e:
-        logger.warning(f"Erro no cálculo de modularidade: {e}")
-        partition = {node: 0 for node in G.nodes()}
-        modularity = float("nan")
+    # Modularity (Louvain) no grafo não-dirigido com peso
+if community_louvain is not None and G.number_of_edges() > 0:
+    und = G.to_undirected()
+    part = community_louvain.best_partition(und, weight="weight")
+    modularity = community_louvain.modularity(part, und, weight="weight")
+else:
+    modularity = float("nan")
+
     
     # Assortatividade por stance (se disponível)
     assortativity_stance = None
