@@ -17,3 +17,9 @@ build/
 .vscode/
 .idea/
 .DS_Store
+data/
+logs/
+*.jsonl
+*.csv
+*.gexf
+twitter_cookies.json
