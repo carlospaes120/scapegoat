@@ -273,19 +273,22 @@ python -m mimetics_metrics.cli_compute \
 
 Contributions are welcome! Please see the contributing guidelines for details.
 
-## License
+## Licença
 
-This project is licensed under the MIT License.
+© AVISO DE DIREITOS AUTORAIS – Projeto *scapegoat*
 
-## Citation
+Todo o conteúdo deste projeto — incluindo código-fonte, documentos, imagens, gráficos, dados, algoritmos e quaisquer outros componentes — está protegido pela Lei de Direitos Autorais (Lei nº 9.610/98) e pela Lei de Software (Lei nº 9.609/98), sendo de propriedade intelectual exclusiva de seu titular.
 
-If you use this toolkit in your research, please cite:
+É expressamente proibida a reprodução, distribuição, modificação, exibição, engenharia reversa, disponibilização pública ou qualquer outro uso não autorizado, total ou parcial, por terceiros.
 
-```bibtex
-@software{mimetics_metrics,
-  title={Mimetics Metrics: Temporal Network Analysis Toolkit},
-  author={Mimetics Metrics Team},
-  year={2024},
-  url={https://github.com/your-repo/mimetics-metrics}
-}
-```
+Qualquer utilização deve ser previamente autorizada por escrito pelo titular.
+
+Para mais informações ou para solicitar autorização, entre em contato pelo e-mail: **paes120@gmail.com**.
+
+## Como citar
+
+Se você utilizar este projeto em pesquisa ou publicação acadêmica, cite-o no formato ABNT da seguinte forma:
+
+**ABNT:**
+
+PAES, Carlos Albuquerque. *scapegoat: ferramentas de análise de redes temporais e dinâmicas miméticas*. Rio de Janeiro, 2025. Software protegido por direitos autorais. Disponível mediante solicitação ao autor: **paes120@gmail.com**.
